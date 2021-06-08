@@ -85,7 +85,9 @@ for year in years:
 
         mydict = api.query(year, month)
 
-        file_str = '/Users/Farid/Documents/Project Options predictions/data/NYTimes/Articles/' + str(year) + '-' + '{:02}'.format(month) + '.json'
+        file_str = '/Users/Farid Srouji/Documents/Research/VIX prediction/master/nytimes/data/' + str(year) + '-' + '{:02}'.format(month) + '.json'
+
+        print(file_str)
 
         with open(file_str, 'w') as fout:
 
