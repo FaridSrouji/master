@@ -11,7 +11,7 @@ from datetime import datetime
 ################################################################################################
 ## Preparing VIX data
 # Reading VIX index prices csv file
-with open('/Users/Farid/Documents/ProjectOptionsPredictions/Data/VIX.csv', 'r') as csvfile:
+with open('/Users/Farid Srouji/OneDrive/Documents/Research/VIX prediction/master/nytimes/VIX.csv', 'r') as csvfile:
     spamreader = csv.reader(csvfile, delimiter=',')
     # Converting the csv file reader to a lists 
     data_list = list(spamreader)
@@ -33,7 +33,7 @@ df = pd.DataFrame(data=selected_data[0:,1:],
 # Reference for pandas interpolation http://pandas.pydata.org/pandas-docs/stable/missing_data.html
 # Adding missing dates to the dataframe
 df1 = df
-idx = pd.date_range('09-25-2019', '04-15-2021')
+idx = pd.date_range('01-01-2011', '06-01-2021')
 df1.index = pd.DatetimeIndex(df1.index)
 df1 = df1.reindex(idx, fill_value=np.NaN)
 # df1.count() # gives 2518 count
@@ -56,7 +56,7 @@ def try_parsing_date(text):
             pass
     raise ValueError('no valid date format found')
 
-years = [2021, 2020, 2019]
+years = [2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011]
 months = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
 days = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31]
 Hours = ["00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"]
@@ -66,7 +66,7 @@ Seconds = ["00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11
 # dict_keys = ['date', 'title'] #, 'lead_paragraph']
 # articles_dict = dict.fromkeys(dict_keys)
 
-current_date = '2021-09-15'
+current_date = '2021-06-08'
 from datetime import datetime
 
 #current_article_str = ''      
@@ -78,7 +78,7 @@ count_total_articles = 0
 count_main_not_exist = 0               
 count_unicode_error = 0     
 count_attribute_error = 0
-file_str_companies = '/Users/Farid/Documents/ProjectOptionsPredictions/Data/companylist.json'
+file_str_companies = '/Users/Farid Srouji/OneDrive/Documents/Research/VIX prediction/master/companylist.json'
 #print(interpolated_df.)
 current_article_str = ''      
 
@@ -86,7 +86,7 @@ print(interpolated_df.keys)
 import os 
  
 
-directory = '/Users/Farid/Documents/ProjectOptionsPredictions/Data/financialmodelingprep/'
+directory = '/Users/Farid Srouji/OneDrive/Documents/Research/VIX prediction/master/nytimes/data'
 for filename in os.listdir(directory):
     dateStr = os.path.splitext(filename)[0]
     print("|"+dateStr+"|")
@@ -96,12 +96,10 @@ for filename in os.listdir(directory):
         print ("ERROR desktop.ini")
         pass
     else:
-        print ("did not EXIST")
-        filename = '/Users/Farid/Documents/ProjectOptionsPredictions/Data/financialmodelingprep/' + filename
+        print ("EXIST")
+        filename = '/Users/Farid Srouji/OneDrive/Documents/Research/VIX prediction/master/nytimes/data/' + filename
         #print(date)
         print("filename="+filename)
-
-
         if os.path.isfile(filename):
             #print ("exist1")
             try:
@@ -139,14 +137,14 @@ print("count_unicode_error=")
 print(count_unicode_error)
 
 # Saving the data as pickle file
-interpolated_df.to_pickle('/Users/Farid/Documents/ProjectOptionsPredictions/Data/PKLOptionsfinancialmodelingprep/pickled_one_year_filtered_lead_para_sp500_clean.pkl')  
+interpolated_df.to_pickle('/Users/Farid Srouji/OneDrive/Documents/Research/VIX prediction/master/nytimes/data/pkl/pickled_one_year_filtered_lead_para_sp500_clean.pkl')  
 
 # Save pandas frame in csv form
-interpolated_df.to_csv('/Users/Farid/Documents/ProjectOptionsPredictions/Data/PKLOptionsfinancialmodelingprep/sample_interpolated_df_one_years_filtered_lead_para_sp500_clean.csv',
+interpolated_df.to_csv('/Users/Farid Srouji/OneDrive/Documents/Research/VIX prediction/master/nytimes/data/pkl/sample_interpolated_df_one_years_filtered_lead_para_sp500_clean.csv',
                        sep='\t', encoding='utf-8')
 
 # Reading the data as pickle file
-dataframe_read = pd.read_pickle('/Users/Farid/Documents/ProjectOptionsPredictions/Data/PKLOptionsfinancialmodelingprep/pickled_one_year_filtered_lead_para_sp500_clean.pkl')
+dataframe_read = pd.read_pickle('/Users/Farid Srouji/OneDrive/Documents/Research/VIX prediction/master/nytimes/data/pkl/pickled_one_year_filtered_lead_para_sp500_clean.pkl')
 
 print("Finished")
 #################################################################################
