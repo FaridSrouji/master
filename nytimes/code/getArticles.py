@@ -73,37 +73,9 @@ class ArchiveAPI(object):
 
 api = ArchiveAPI('UanGJ4KTHIGjHTNVopfCtfFx4p37HjpX')
 
-years = [2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011]
+years = [2020]
 
-months = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
-
-for year in years:
-
-    for month in months:
-
-        mydict = api.query(year, month)
-
-        file_str = '/Users/Farid Srouji/OneDrive/Documents/Research/VIX prediction/master/nytimes/data/' + str(year) + '-' + '{:02}'.format(month) + '.json'
-
-        print(file_str)
-
-        with open(file_str, 'w') as fout:
-
-            str_lead_paragraph = mydict['lead_paragraph']
-            str_headline = mydict['headline']
-            print(mydict)
-            json.dump(mydict, fout)
-
-        fout.close()
-
-        # f = open(file_str, "a", encoding='utf-8')
-        # print(str(one_press_release))
-        # f.write(mydict)
-        # f.close()
-
-years = [2021]
-
-months = [1, 2, 3, 4, 5, 6]
+months = [1]
 
 for year in years:
 
@@ -117,14 +89,62 @@ for year in years:
 
         with open(file_str, 'w') as fout:
 
-            # str_lead_paragraph = mydict['lead_paragraph']
-            # str_headline = mydict['headline']
-            print(mydict)
             json.dump(mydict, fout)
 
         fout.close()
 
-        # f = open(file_str, "a", encoding='utf-8')
-        # print(str(one_press_release))
-        # f.write(mydict)
-        # f.close()
+
+# years = [2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011]
+
+# months = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+
+# for year in years:
+
+#     for month in months:
+
+#         mydict = api.query(year, month)
+
+#         file_str = '/Users/Farid Srouji/OneDrive/Documents/Research/VIX prediction/master/nytimes/data/' + str(year) + '-' + '{:02}'.format(month) + '.json'
+
+#         print(file_str)
+
+#         with open(file_str, 'w') as fout:
+
+#             # str_lead_paragraph = mydict['lead_paragraph']
+#             # str_headline = mydict['headline']
+#             print(mydict['thumbnail'])
+            
+#             json.dump(mydict, fout)
+
+#         fout.close()
+
+#         # f = open(file_str, "a", encoding='utf-8')
+#         # print(str(one_press_release))
+#         # f.write(mydict)
+#         # f.close()
+
+# years = [2021]
+
+# months = [1, 2, 3, 4, 5, 6]
+
+# for year in years:
+
+#     for month in months:
+
+#         mydict = api.query(year, month)
+
+#         file_str = '/Users/Farid Srouji/OneDrive/Documents/Research/VIX prediction/master/nytimes/data/' + str(year) + '-' + '{:02}'.format(month) + '.json'
+
+#         print(file_str)
+
+#         with open(file_str, 'w') as fout:
+
+#             print(mydict)
+#             json.dump(mydict, fout)
+
+#         fout.close()
+
+#         # f = open(file_str, "a", encoding='utf-8')
+#         # print(str(one_press_release))
+#         # f.write(mydict)
+#         # f.close()

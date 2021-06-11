@@ -1,9 +1,6 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python3.92
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Apr  4 14:30:12 2017
-@author: Dinesh
-"""
+
 import os 
 
 import numpy as np
@@ -73,7 +70,7 @@ type_of_material_list = ['blog', 'brief', 'news', 'editorial', 'op-ed', 'list','
 section_name_list = ['business', 'national', 'world', 'u.s.' , 'politics', 'opinion', 'tech', 'science',  'health']
 news_desk_list = ['business', 'national', 'world', 'u.s.' , 'politics', 'opinion', 'tech', 'science',  'health', 'foreign']
 
-current_date = '2021-06-08'
+current_date = '2021-06-01'
 from datetime import datetime
 #years = [2015]
 #months = [3]
@@ -102,21 +99,33 @@ for year in years:
                 if any(substring in NYTimes_data["response"]["docs"][:][i]['type_of_material'].lower() for substring in type_of_material_list):
                     if any(substring in NYTimes_data["response"]["docs"][:][i]['section_name'].lower() for substring in section_name_list):
                         #count += 1
+                        print("---------------------- 1---------------------")
                         count_articles_filtered += 1
                         #print 'i: ' + str(i)
                         articles_dict = { your_key: NYTimes_data["response"]["docs"][:][i][your_key] for your_key in dict_keys }
                         articles_dict['headline'] = articles_dict['headline']['main'] # Selecting just 'main' from headline
                         #articles_dict['headline'] = articles_dict['lead_paragraph'] # Selecting lead_paragraph
                         date = try_parsing_date(articles_dict['pub_date'])
+                        print("data="+date)
                         #print 'article_dict: ' + articles_dict['headline']
                         if date == current_date:
+                            print("---------------------- 2.1---------------------")
+                            print(articles_dict['headline'])
                             current_article_str = current_article_str + '. ' + articles_dict['headline']
+                            print("---------------------- 2.2---------------------")
+                            exit
                         else:  
-                            interpolated_df.at[current_date, 'articles'] = interpolated_df.loc[current_date, 'articles'] + '. ' + current_article_str
+                            print("---------------------- 3.1 ---------------------")
+                            print(current_date)
+                            print(interpolated_df.at[current_date, 'articles'])
+                            interpolated_df.at[current_date, 'articles'] = interpolated_df.at[current_date, 'articles'] + '. ' + current_article_str
                             current_date = date
                             #interpolated_df.set_value(date, 'articles', current_article_str)
                             #print str(date) + current_article_str
                             current_article_str = articles_dict['headline']
+                            print("---------------------- 3.2 ---------------------")
+                            exit
+
                         # For last condition in a year
                         if (date == current_date) and (i == len(NYTimes_data["response"]["docs"][:]) - 1): 
                             #interpolated_df.set_value(date, 'articles', current_article_str)   
@@ -164,9 +173,9 @@ for year in years:
                 #print NYTimes_data["response"]["docs"][:][i]
                 count_main_not_exist += 1
                 pass
-         
 
-              
+
+
 print (count_articles_filtered)
 print (count_total_articles)                     
 print (count_main_not_exist)
@@ -193,7 +202,7 @@ for date, row in interpolated_df.T.iteritems():
 
         for i in range(len(NYTimes_data["response"]["docs"][:])):
             try:
-                
+
                 articles_dict = { your_key: NYTimes_data["response"]["docs"][:][i][your_key] for your_key in dict_keys }
                 articles_dict['headline'] = articles_dict['headline']['main'] # Selecting just 'main' from headline
                 #articles_dict['headline'] = articles_dict['lead_paragraph'] # Selecting lead_paragraph       
@@ -202,7 +211,7 @@ for date, row in interpolated_df.T.iteritems():
                 if date.strftime('%Y-%m-%d') == pub_date: 
                     #interpolated_df.set_value(pub_date, 'articles', interpolated_df.loc[pub_date, 'articles'] + '. ' + articles_dict['headline'])
                     interpolated_df.at[pub_date, 'articles'] = interpolated_df.at[pub_date, 'articles'] + '. ' + articles_dict['headline']
-                
+
             except KeyError:
                 print('key error')
                 #print NYTimes_data["response"]["docs"][:][i]
