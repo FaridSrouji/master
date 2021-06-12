@@ -22,7 +22,7 @@ data_list = data_list[1:]
 data_list = np.asarray(data_list)
 
 # Selecting date and close value for each day
-selected_data = data_list[:, [0, 4, 6]]
+selected_data = data_list[:, [0, 4, 5]]
 
 
 
@@ -106,25 +106,29 @@ for year in years:
                         articles_dict['headline'] = articles_dict['headline']['main'] # Selecting just 'main' from headline
                         #articles_dict['headline'] = articles_dict['lead_paragraph'] # Selecting lead_paragraph
                         date = try_parsing_date(articles_dict['pub_date'])
+                        print("pub_date="+articles_dict['pub_date'])
                         print("data="+date)
+                        print("current_date="+current_date)
                         #print 'article_dict: ' + articles_dict['headline']
                         if date == current_date:
                             print("---------------------- 2.1---------------------")
-                            print(articles_dict['headline'])
+                            #print(articles_dict['headline'])
                             current_article_str = current_article_str + '. ' + articles_dict['headline']
                             print("---------------------- 2.2---------------------")
                             exit
                         else:  
                             print("---------------------- 3.1 ---------------------")
-                            print(current_date)
-                            print(interpolated_df.at[current_date, 'articles'])
+                            # print(current_date)
+                            # print(interpolated_df.at[current_date, 'articles'])
+                            # print("---------------------- 3.2 ---------------------")
+
                             interpolated_df.at[current_date, 'articles'] = interpolated_df.at[current_date, 'articles'] + '. ' + current_article_str
                             current_date = date
+
                             #interpolated_df.set_value(date, 'articles', current_article_str)
                             #print str(date) + current_article_str
                             current_article_str = articles_dict['headline']
                             print("---------------------- 3.2 ---------------------")
-                            exit
 
                         # For last condition in a year
                         if (date == current_date) and (i == len(NYTimes_data["response"]["docs"][:]) - 1): 
@@ -165,6 +169,7 @@ for year in years:
                 pass
             except KeyError:
                 print('key error')
+                current_date = date
                 #print NYTimes_data["response"]["docs"][:][i]
                 count_main_not_exist += 1
                 pass   
@@ -176,10 +181,10 @@ for year in years:
 
 
 
-print (count_articles_filtered)
-print (count_total_articles)                     
-print (count_main_not_exist)
-print (count_unicode_error)
+print ("count_articles_filtered="+count_articles_filtered)
+print ("count_total_articles="+count_total_articles)                     
+print ("count_main_not_exist="+count_main_not_exist)
+print ("count_unicode_error="+count_unicode_error)
 
 
 
