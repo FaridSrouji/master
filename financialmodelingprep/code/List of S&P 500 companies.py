@@ -35,7 +35,7 @@ i=0
 for company in sp500:
     count+=1
     print("-----", count, "-----")
-    file_str = '/Users/Farid/Documents/ProjectOptionsPredictions/data/financialmodelingprep/companylist.json'
+    file_str = '/Users/Farid Srouji/Documents/Research/VIX prediction/master/companylist.json'
     print(file_str)
     f = open(file_str, "a", encoding='utf8')
     #print(str(one_press_release))

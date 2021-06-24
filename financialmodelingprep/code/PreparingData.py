@@ -7,11 +7,11 @@ from datetime import datetime
 
 #pd.__version__
 #pd.show_versi                       ons(as_json=False)             
-                               
+
 ################################################################################################
 ## Preparing VIX data
 # Reading VIX index prices csv file
-with open('/Users/Farid/Documents/ProjectOptionsPredictions/Data/VIX.csv', 'r') as csvfile:
+with open('/Users/Farid Srouji/Documents/Research/VIX prediction/master/financialmodelingprep/VIX.csv', 'r') as csvfile:
     spamreader = csv.reader(csvfile, delimiter=',')
     # Converting the csv file reader to a lists 
     data_list = list(spamreader)
@@ -33,7 +33,7 @@ df = pd.DataFrame(data=selected_data[0:,1:],
 # Reference for pandas interpolation http://pandas.pydata.org/pandas-docs/stable/missing_data.html
 # Adding missing dates to the dataframe
 df1 = df
-idx = pd.date_range('09-25-2019', '04-15-2021')
+idx = pd.date_range('09-25-2019', '06-24-2021')
 df1.index = pd.DatetimeIndex(df1.index)
 df1 = df1.reindex(idx, fill_value=np.NaN)
 # df1.count() # gives 2518 count
@@ -78,7 +78,7 @@ count_total_articles = 0
 count_main_not_exist = 0               
 count_unicode_error = 0     
 count_attribute_error = 0
-file_str_companies = '/Users/Farid/Documents/ProjectOptionsPredictions/Data/companylist.json'
+file_str_companies = '/Users/Farid Srouji/Documents/Research/VIX prediction/master/financialmodelingprep/Data/companylist.json'
 #print(interpolated_df.)
 current_article_str = ''      
 
@@ -86,7 +86,7 @@ print(interpolated_df.keys)
 import os 
  
 
-directory = '/Users/Farid/Documents/ProjectOptionsPredictions/Data/financialmodelingprep/'
+directory = '/Users/Farid Srouji/Documents/Research/VIX prediction/master/financialmodelingprep/'
 for filename in os.listdir(directory):
     dateStr = os.path.splitext(filename)[0]
     print("|"+dateStr+"|")
@@ -97,7 +97,7 @@ for filename in os.listdir(directory):
         pass
     else:
         print ("did not EXIST")
-        filename = '/Users/Farid/Documents/ProjectOptionsPredictions/Data/financialmodelingprep/' + filename
+        filename = '/Users/Farid Srouji/Documents/Research/VIX prediction/master/financialmodelingprep/' + filename
         #print(date)
         print("filename="+filename)
 
@@ -139,14 +139,14 @@ print("count_unicode_error=")
 print(count_unicode_error)
 
 # Saving the data as pickle file
-interpolated_df.to_pickle('/Users/Farid/Documents/ProjectOptionsPredictions/Data/PKLOptionsfinancialmodelingprep/pickled_one_year_filtered_lead_para_sp500_clean.pkl')  
+interpolated_df.to_pickle('/Users/Farid Srouji/Documents/Research/VIX prediction/master/financialmodelingprep/pickled_one_year_filtered_lead_para_sp500_clean.pkl')  
 
 # Save pandas frame in csv form
-interpolated_df.to_csv('/Users/Farid/Documents/ProjectOptionsPredictions/Data/PKLOptionsfinancialmodelingprep/sample_interpolated_df_one_years_filtered_lead_para_sp500_clean.csv',
+interpolated_df.to_csv('/Users/Farid Srouji/Documents/Research/VIX prediction/master/financialmodelingprep/sample_interpolated_df_one_years_filtered_lead_para_sp500_clean.csv',
                        sep='\t', encoding='utf-8')
 
 # Reading the data as pickle file
-dataframe_read = pd.read_pickle('/Users/Farid/Documents/ProjectOptionsPredictions/Data/PKLOptionsfinancialmodelingprep/pickled_one_year_filtered_lead_para_sp500_clean.pkl')
+dataframe_read = pd.read_pickle('/Users/Farid Srouji/Documents/Research/VIX prediction/master/financialmodelingprep/pickled_one_year_filtered_lead_para_sp500_clean.pkl')
 
 print("Finished")
 #################################################################################

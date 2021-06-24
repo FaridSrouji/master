@@ -1,5 +1,40 @@
-
 #!/usr/bin/env python
+import datetime, pytz, holidays
+from time import tzname
+import pandas_market_calendars as mcal
+cbot = mcal.get_calendar('CBOT_Equity')
+cbot.valid_days(start_date='2019-09-25', end_date='2021-06-24')
+
+
+tz = pytz.timezone('America/Chicago')
+tz_pr = pytz.timezone('America/New_York')
+us_holidays = holidays.US()
+def afterHours(theDate):
+        # if not now:
+        #     now = datetime.datetime.now(tz)
+        openTime = datetime.time(hour = 9, minute = 30, second = 0, tzinfo=tz)
+        closeTime = datetime.time(hour = 16, minute = 0, second = 0, tzinfo=tz)
+        print(openTime.tzname())
+        # If a holiday
+        if theDate.strftime('%Y-%m-%d') in us_holidays:
+            return True
+        # If before 0930 or after 1600
+        if (theDate.time() < openTime) or (theDate.time() > closeTime):
+            return True
+        # If it's a weekend
+        if theDate.date().weekday() > 4:
+            return True
+
+        return False    
+
+def getDate(theDate):
+    if(afterHours(theDate)):
+        d = datetime.timedelta(days = 1)
+        newDate = theDate + d
+        return newDate
+    else:
+        return theDate
+
 
 try:
     # For Python 3.0 and later
@@ -9,6 +44,7 @@ except ImportError:
     from urllib2 import urlopen
 
 import json
+
 
 def get_jsonparsed_data(url):
     """
@@ -37,9 +73,10 @@ for i in sp500:
     print("-----", count, "-----")
 
 
-from datetime import datetime
+#from datetime import datetime
+companies2pressrelease = [0] * 505
 
-
+date2count=0
 for company in sp500:
 
     url1 = ("https://financialmodelingprep.com/api/v3/press-releases/%s?limit=10000&apikey=8941e8db3f939429e07397564861bc1a" % company["symbol"])
@@ -51,20 +88,32 @@ for company in sp500:
         #print(one_press_release)
         date_time_str = one_press_release['date']
         print(date_time_str)
-        datetime_object = datetime.strptime(date_time_str, '%Y-%m-%d %H:%M:%S')
+        datetime_object = datetime.datetime.strptime(date_time_str, '%Y-%m-%d %H:%M:%S')
    
-        #dateStr = datetime_object.date()
-        Year = datetime_object.year # dateStr.strftime("%Y")
-        Month = datetime_object.month # dateStr.strftime("%m")
-        Day = datetime_object.day #dateStr.strftime("%d")
+        # datetime_object.replace(tzinfo=tz_pr)
+        # datetime_object.astimezone(tz_pr)
+        # print("tzinfo="+str(datetime_object.tzname()))
 
-        Hour = datetime_object.strftime("%H") 
-        Minute = datetime_object.strftime("%M")
-        Second = datetime_object.strftime("%S")
-        print("Hour=" + str(Hour))
-        print(company)
+        #TODO: timezone
+        # print("tzinfo="+str(datetime_obj.tzname()))
+        file_datetime = getDate(datetime_object)
+        print("Before="+str(datetime_object)+" After="+str(file_datetime ))
+        one_press_release['date'] = str(file_datetime)
+
         print(str(datetime_object.date()))
-        file_str = '/Users/Farid/Documents/ProjectOptionsPredictions/data/financialmodelingprep/' + str(datetime_object.date()) + '.txt'
+
+        #dateStr = datetime_object.date()
+        # Year = datetime_object.year # dateStr.strftime("%Y")
+        # Month = datetime_object.month # dateStr.strftime("%m")
+        # Day = datetime_object.day #dateStr.strftime("%d")
+
+        # Hour = datetime_object.strftime("%H") 
+        # Minute = datetime_object.strftime("%M")
+        # Second = datetime_object.strftime("%S")
+        # print("Hour=" + str(Hour))
+        fileDateStr = str(datetime_object.date())
+        date2count[fileDateStr]+=1
+        file_str = '/Users/Farid Srouji/Documents/Research/VIX prediction/master/financialmodelingprep/data/txt/' + fileDate + '.txt'
         print(file_str)     
         f = open(file_str, "a", encoding='utf-8')
         print(str(one_press_release))
