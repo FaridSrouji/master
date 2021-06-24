@@ -86,7 +86,7 @@ print(interpolated_df.keys)
 import os 
  
 
-directory = '/Users/Farid Srouji/Documents/Research/VIX prediction/master/financialmodelingprep/'
+directory = '/Users/Farid Srouji/Documents/Research/VIX prediction/master/financialmodelingprep/data/txt/'
 for filename in os.listdir(directory):
     dateStr = os.path.splitext(filename)[0]
     print("|"+dateStr+"|")
@@ -97,7 +97,7 @@ for filename in os.listdir(directory):
         pass
     else:
         print ("did not EXIST")
-        filename = '/Users/Farid Srouji/Documents/Research/VIX prediction/master/financialmodelingprep/' + filename
+        filename = '/Users/Farid Srouji/Documents/Research/VIX prediction/master/financialmodelingprep/data/txt/' + filename
         #print(date)
         print("filename="+filename)
 
@@ -139,14 +139,14 @@ print("count_unicode_error=")
 print(count_unicode_error)
 
 # Saving the data as pickle file
-interpolated_df.to_pickle('/Users/Farid Srouji/Documents/Research/VIX prediction/master/financialmodelingprep/pickled_one_year_filtered_lead_para_sp500_clean.pkl')  
+interpolated_df.to_pickle('/Users/Farid Srouji/Documents/Research/VIX prediction/master/financialmodelingprep/data/pkl/pickled_filtered_lead_para_sp500_clean.pkl')  
 
 # Save pandas frame in csv form
-interpolated_df.to_csv('/Users/Farid Srouji/Documents/Research/VIX prediction/master/financialmodelingprep/sample_interpolated_df_one_years_filtered_lead_para_sp500_clean.csv',
+interpolated_df.to_csv('/Users/Farid Srouji/Documents/Research/VIX prediction/master/financialmodelingprep/data/pkl/sample_interpolated_df_filtered_lead_para_sp500_clean.csv',
                        sep='\t', encoding='utf-8')
 
 # Reading the data as pickle file
-dataframe_read = pd.read_pickle('/Users/Farid Srouji/Documents/Research/VIX prediction/master/financialmodelingprep/pickled_one_year_filtered_lead_para_sp500_clean.pkl')
+dataframe_read = pd.read_pickle('/Users/Farid Srouji/Documents/Research/VIX prediction/master/financialmodelingprep/data/pkl/pickled_filtered_lead_para_sp500_clean.pkl')
 
 print("Finished")
 #################################################################################

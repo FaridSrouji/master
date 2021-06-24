@@ -31,7 +31,7 @@ Notes:
       name:  <unnamed>
        log:  C:\Users\Farid Srouji\.ipython\stata\log_output.log
   log type:  text
- opened on:  17 Jun 2021, 20:38:22
+ opened on:  20 Jun 2021, 18:32:01
 
 . sysuse sp500, clear
 (S&P 500)
@@ -44,7 +44,7 @@ Unknown #command
       name:  <unnamed>
        log:  C:\Users\Farid Srouji\.ipython\stata\log_output.log
   log type:  text
- closed on:  17 Jun 2021, 20:38:22
+ closed on:  20 Jun 2021, 18:32:01
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 . 
