@@ -31,17 +31,79 @@ Notes:
       name:  <unnamed>
        log:  C:\Users\Farid Srouji\.ipython\stata\log_output.log
   log type:  text
- opened on:  24 Jun 2021, 20:32:22
+ opened on:  26 Jun 2021, 00:25:46
 
 . insheet using "C:\Users\Farid Srouji\Documents\Research\VIX prediction\master\financialmodelingprep\data\stata\sentiment.csv", comma
 (6 vars, 639 obs)
 
+. 
 . generate time = _n
 
 . tsset time, daily
         time variable:  time, 02jan1960 to 01oct1961
                 delta:  1 day
 
+. 
+. dfuller sentiment, regress lags(0) //intercept
+
+Dickey-Fuller test for unit root                   Number of obs   =       533
+
+                               ---------- Interpolated Dickey-Fuller ---------
+                  Test         1% Critical       5% Critical      10% Critical
+               Statistic           Value             Value             Value
+------------------------------------------------------------------------------
+ Z(t)            -17.620            -3.430            -2.860            -2.570
+------------------------------------------------------------------------------
+MacKinnon approximate p-value for Z(t) = 0.0000
+
+------------------------------------------------------------------------------
+ D.sentiment |      Coef.   Std. Err.      t    P>|t|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+   sentiment |
+         L1. |  -.7459337   .0423355   -17.62   0.000    -.8290993   -.6627681
+             |
+       _cons |   59.23075   3.427057    17.28   0.000     52.49849      65.963
+------------------------------------------------------------------------------
+
+. dfuller sentiment, trend regress lags(0) //intercept and trend
+
+Dickey-Fuller test for unit root                   Number of obs   =       533
+
+                               ---------- Interpolated Dickey-Fuller ---------
+                  Test         1% Critical       5% Critical      10% Critical
+               Statistic           Value             Value             Value
+------------------------------------------------------------------------------
+ Z(t)            -17.822            -3.960            -3.410            -3.120
+------------------------------------------------------------------------------
+MacKinnon approximate p-value for Z(t) = 0.0000
+
+------------------------------------------------------------------------------
+D.sentiment  |      Coef.   Std. Err.      t    P>|t|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+   sentiment |
+         L1. |  -.7547596   .0423508   -17.82   0.000    -.8379555   -.6715636
+      _trend |    .006336   .0027949     2.27   0.024     .0008456    .0118264
+       _cons |   57.89356   3.464362    16.71   0.000     51.08799    64.69913
+------------------------------------------------------------------------------
+
+. dfuller sentiment, noconstant regress lags(0) //no intercept no trent
+
+Dickey-Fuller test for unit root                   Number of obs   =       533
+
+                               ---------- Interpolated Dickey-Fuller ---------
+                  Test         1% Critical       5% Critical      10% Critical
+               Statistic           Value             Value             Value
+------------------------------------------------------------------------------
+ Z(t)             -2.811            -2.580            -1.950            -1.620
+
+------------------------------------------------------------------------------
+ D.sentiment |      Coef.   Std. Err.      t    P>|t|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+   sentiment |
+         L1. |  -.0232478   .0082713    -2.81   0.005    -.0394963   -.0069993
+------------------------------------------------------------------------------
+
+. 
 . varsoc vix sentiment, maxlag(8)
 
    Selection-order criteria

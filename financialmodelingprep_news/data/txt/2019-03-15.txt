@@ -1,0 +1,1 @@
+Synopsys' Fusion Compiler Chosen by Renesas to Aid Auto Design. Synopsys' Fusion Design Platform continues to witness strong adoption, as evident from its recent participation in the development of Renesas' next-generation automotive design.

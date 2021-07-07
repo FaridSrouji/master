@@ -1,0 +1,357 @@
+DIARY-U.S. earnings week ahead. Diary of U.S. (.SPX) corporate earnings for the week ahead.
+
+** Please Note - All times given are in U.S. EDT unless otherwise stated **
+ U.S. EARNINGS 
+    
+ Start Date    Start      RIC     Company Name                 Event Name
+               Time                                            
+ 20-Apr-2020   AMC        IBM.N   International Business       Q1 2020 International Business Machines Corp
+                                  Machines Corp                Earnings Release
+ 20-Apr-2020   AMC        EFX.N   Equifax Inc                  Q1 2020 Equifax Inc Earnings Release
+ 20-Apr-2020   AMC        CDNS.O  Cadence Design Systems Inc   Q1 2020 Cadence Design Systems Inc Earnings
+                                                               Release
+ 20-Apr-2020   BMO        TFC.N   Truist Financial Corp        Q1 2020  Truist Financial Corp Earnings
+                                                               Release
+ 20-Apr-2020   BMO        HAL.N   Halliburton Co               Q1 2020 Halliburton Co Earnings Release
+ 20-Apr-2020   BMO        MTB.N   M&T Bank Corp                Q1 2020 M&T Bank Corp Earnings Release
+ 21-Apr-2020   AMC        NFLX.O  Netflix Inc                  Q1 2020 Netflix Inc Earnings Release
+ 21-Apr-2020   AMC        WRB.N   W. R. Berkley Corp           Q1 2020 W. R. Berkley Corp Earnings Release
+ 21-Apr-2020   AMC        CMG.N   Chipotle Mexican Grill Inc   Q1 2020 Chipotle Mexican Grill Inc Earnings
+                                                               Release
+ 21-Apr-2020   AMC        TXN.O   Texas Instruments Inc        Q1 2020 Texas Instruments Inc Earnings Release
+ 21-Apr-2020   AMC        CB.N    Chubb Ltd                    Q1 2020 Chubb Ltd Earnings Release
+ 21-Apr-2020   BMO        FITB.O  Fifth Third Bancorp          Q1 2020 Fifth Third Bancorp Earnings Release
+ 21-Apr-2020   BMO        KO.N    Coca-Cola Co                 Q1 2020 Coca-Cola Co Earnings Release
+ 21-Apr-2020   BMO        HCA.N   HCA Healthcare Inc           Q1 2020 HCA Healthcare Inc Earnings Release
+ 21-Apr-2020   BMO        EMR.N   Emerson Electric Co          Q2 2020 Emerson Electric Co Earnings Release
+ 21-Apr-2020   BMO        PLD.N   Prologis Inc                 Q1 2020 Prologis Inc Earnings Release
+ 21-Apr-2020   BMO        PCAR.O  Paccar Inc                   Q1 2020 Paccar Inc Earnings Release
+ 21-Apr-2020   BMO        TRV.N   Travelers Companies Inc      Q1 2020 Travelers Companies Inc Earnings
+                                                               Release
+ 21-Apr-2020   BMO        CMA.N   Comerica Inc                 Q1 2020 Comerica Inc Earnings Release
+ 21-Apr-2020   BMO        LMT.N   Lockheed Martin Corp         Q1 2020 Lockheed Martin Corp Earnings Release
+ 21-Apr-2020   BMO        NTRS.O  Northern Trust Corp          Q1 2020 Northern Trust Corp Earnings Release
+ 21-Apr-2020   BMO        PM.N    Philip Morris International  Q1 2020 Philip Morris International Inc
+                                  Inc                          Earnings Release
+ 21-Apr-2020   BMO        SYF.N   Synchrony Financial          Q1 2020 Synchrony Financial Earnings Release
+ 21-Apr-2020   BMO        SNA.N   Snap-On Inc                  Q1 2020 Snap-On Inc Earnings Release
+ 21-Apr-2020   07:00      DOV.N   Dover Corp                   Q1 2020 Dover Corp Earnings Release
+ 22-Apr-2020   AMC        ORLY.O  O'Reilly Automotive Inc      Q1 2020 O'Reilly Automotive Inc Earnings
+                                                               Release
+ 22-Apr-2020   AMC        SLG.N   SL Green Realty Corp         Q1 2020 SL Green Realty Corp Earnings Release
+ 22-Apr-2020   AMC        CSX.O   CSX Corp                     Q1 2020 CSX Corp Earnings Release
+ 22-Apr-2020   AMC        GL.N    Globe Life Inc               Q1 2020 Globe Life Inc Earnings Release
+ 22-Apr-2020   AMC        DFS.N   Discover Financial Services  Q1 2020 Discover Financial Services Earnings
+                                                               Release
+ 22-Apr-2020   AMC        LRCX.O  Lam Research Corp            Q3 2020 Lam Research Corp Earnings Release
+ 22-Apr-2020   AMC        XLNX.O  Xilinx Inc                   Q4 2020 Xilinx Inc Earnings Release
+ 22-Apr-2020   AMC        STX.O   Seagate Technology PLC       Q3 2020 Seagate Technology PLC Earnings
+                                                               Release
+ 22-Apr-2020   AMC        LVS.N   Las Vegas Sands Corp         Q1 2020 Las Vegas Sands Corp Earnings Release
+ 22-Apr-2020   AMC        KMI.N   Kinder Morgan Inc            Q1 2020 Kinder Morgan Inc Earnings Release
+ 22-Apr-2020   AMC        FTI.N   TechnipFMC PLC               Q1 2020 TechnipFMC PLC Earnings Release
+ 22-Apr-2020   BMO        KMB.N   Kimberly-Clark Corp          Q1 2020 Kimberly-Clark Corp Earnings Release
+ 22-Apr-2020   BMO        T.N     AT&T Inc                     Q1 2020 AT&T Inc Earnings Release
+ 22-Apr-2020   BMO        NDAQ.O  Nasdaq Inc                   Q1 2020 Nasdaq Inc Earnings Release
+ 22-Apr-2020   BMO        DGX.N   Quest Diagnostics Inc        Q1 2020 Quest Diagnostics Inc Earnings Release
+ 22-Apr-2020   BMO        BIIB.O  Biogen Inc                   Q1 2020 Biogen Inc Earnings Release
+ 22-Apr-2020   BMO        APH.N   Amphenol Corp                Q1 2020 Amphenol Corp Earnings Release
+ 22-Apr-2020   BMO        NEE.N   Nextera Energy Inc           Q1 2020 Nextera Energy Inc Earnings Release
+ 22-Apr-2020   BMO        DAL.N   Delta Air Lines Inc          Q1 2020 Delta Air Lines Inc Earnings Release
+ 22-Apr-2020   BMO        TMO.N   Thermo Fisher Scientific     Q1 2020 Thermo Fisher Scientific Inc Earnings
+                                  Inc                          Release
+ 22-Apr-2020   07:00      BKR.N   Baker Hughes Co              Q1 2020 Baker Hughes A GE Co Earnings Release
+ 23-Apr-2020   AMC        SIVB.O  SVB Financial Group          Q1 2020 SVB Financial Group Earnings Release
+ 23-Apr-2020   AMC        IEX.N   IDEX Corp                    Q1 2020 IDEX Corp Earnings Release
+ 23-Apr-2020   AMC        FE.N    FirstEnergy Corp             Q1 2020 FirstEnergy Corp Earnings Release
+ 23-Apr-2020   AMC        ETFC.O  E*TRADE Financial Corp       Q1 2020 E*TRADE Financial Corp Earnings
+                                                               Release
+ 23-Apr-2020   AMC        COF.N   Capital One Financial Corp   Q1 2020 Capital One Financial Corp Earnings
+                                                               Release
+ 23-Apr-2020   AMC        RHI.N   Robert Half International    Q1 2020 Robert Half International Inc Earnings
+                                  Inc                          Release
+ 23-Apr-2020   AMC        PBCT.O  People's United Financial    Q1 2020 People's United Financial Inc Earnings
+                                  Inc                          Release
+ 23-Apr-2020   AMC        EW.N    Edwards Lifesciences Corp    Q1 2020 Edwards Lifesciences Corp Earnings
+                                                               Release
+ 23-Apr-2020   AMC        VRSN.O  Verisign Inc                 Q1 2020 Verisign Inc Earnings Release
+ 23-Apr-2020   AMC        INTC.O  Intel Corp                   Q1 2020 Intel Corp Earnings Release
+ 23-Apr-2020   BMO        LLY.N   Eli Lilly and Co             Q1 2020 Eli Lilly and Co Earnings Release
+ 23-Apr-2020   BMO        UNP.N   Union Pacific Corp           Q1 2020 Union Pacific Corp Earnings Release
+ 23-Apr-2020   BMO        HBAN.O  Huntington Bancshares Inc    Q1 2020 Huntington Bancshares Inc Earnings
+                                                               Release
+ 23-Apr-2020   BMO        LUV.N   Southwest Airlines Co        Q1 2020 Southwest Airlines Co Earnings Release
+ 23-Apr-2020   BMO        TSCO.O  Tractor Supply Co            Q1 2020 Tractor Supply Co Earnings Release
+ 23-Apr-2020   BMO        APD.N   Air Products and Chemicals   Q2 2020 Air Products and Chemicals Inc
+                                  Inc                          Earnings Release
+ 23-Apr-2020   BMO        HSY.N   Hershey Co                   Q1 2020 Hershey Co Earnings Release
+ 23-Apr-2020   BMO        ODFL.O  Old Dominion Freight Line    Q1 2020 Old Dominion Freight Line Inc Earnings
+                                  Inc                          Release
+ 23-Apr-2020   BMO        PHM.N   PulteGroup Inc               Q1 2020 PulteGroup Inc Earnings Release
+ 23-Apr-2020   BMO        ALLE.N  Allegion PLC                 Q1 2020 Allegion PLC Earnings Release
+ 23-Apr-2020   BMO        CTXS.O  Citrix Systems Inc           Q1 2020 Citrix Systems Inc Earnings Release
+ 23-Apr-2020   BMO        ADS.N   Alliance Data Systems Corp   Q1 2020 Alliance Data Systems Corp Earnings
+                                                               Release
+ 23-Apr-2020   08:00      GWW.N   W W Grainger Inc             Q1 2020 W W Grainger Inc Earnings Release
+ 23-Apr-2020   06:55      IVZ.N   Invesco Ltd                  Q1 2020 Invesco Ltd Earnings Release
+ 24-Apr-2020   BMO        AXP.N   American Express Co          Q1 2020 American Express Co Earnings Release
+ 24-Apr-2020   BMO        VZ.N    Verizon Communications Inc   Q1 2020 Verizon Communications Inc Earnings
+                                                               Release
+ ** All times are listed in U.S. EDT, or AMC - 'After U.S. Market Close', or BMO - 'Before U.S. Market Opens',
+or DBH - 'During U.S. business hours', or blank if not known.
+
+** This Diary does not provide the EPS estimate figures. EPS figures can be retrieved from Eikon.
+
+Steps in Eikon to retrieve the EPS estimate:-
+
+Eikon Indicator-> Equities Guide-> Top Indices-> S&P 500-> Events-> Select Event types-> Select the company->
+Estimates
+    
+
+ (Compiled by Bengaluru Newsroom)
+Exchange Traded Concepts LLC Purchases 346 Shares of Allegion PLC (NYSE:ALLE). Exchange Traded Concepts LLC lifted its position in Allegion PLC (NYSE:ALLE) by 843.9% during the 1st quarter, according to the company in its most recent filing with the SEC. The fund owned 387 shares of the scientific and technical instruments company’s stock after purchasing an additional 346 shares during the quarter. Exchange Traded Concepts LLC’s […]
+What Is Amcor's (ASX:AMC) P/E Ratio After Its Share Price Rocketed?. Those holding Amcor (ASX:AMC) shares must be pleased that the share price has rebounded 32% in the last thirty days...
+Whether It's Time For A Sea Change. A reliance on high yield income stocks is proving to be more risky in light of recent dividend cuts. Holding higher yield income stocks exclusively severely lim
+Sonoco (SON) Beats on Q1 Earnings, Withdraws '20 Guidance. Sonoco's (SON) first-quarter earnings reflect productivity improvements and cost management amid the coronavirus-induced uncertainty.
+Sonoco (SON) Beats on Q1 Earnings, Withdraws '20 Guidance. Sonoco's (SON) first-quarter earnings reflect productivity improvements and cost management amid the coronavirus-induced uncertainty.
+Country Club Trust Company n.a. Lowers Stock Holdings in Amcor plc (NYSE:AMCR). Country Club Trust Company n.a. reduced its stake in Amcor plc (NYSE:AMCR) by 19.6% during the 1st quarter, according to its most recent filing with the Securities and Exchange Commission. The fund owned 31,879 shares of the company’s stock after selling 7,774 shares during the quarter. Country Club Trust Company n.a.’s holdings in Amcor were […]
+A. O. Smith Is A Covidiscount Stock. A. O. Smith's difficulties prior to, and during, the coronavirus outbreak have not lost its pole position in the U.S. water heater market. It is a dividend aris
+Insights into the Worldwide Electric Water Heater Industry to 2027 - Featuring AO Smith, Ariston Thermo & Bajaj Electricals Among Others - ResearchAndMarkets.com. The 
+A.O. Smith CEO Kevin Wheeler to become chairman as Rajendra announces retirement. Kevin Wheeler, president and CEO, will become A.O. Smith chairman following the retirement of Ajita Rajendra.
+A. O. Smith Corp (NYSE:AOS) Shares Sold by Donaldson Capital Management LLC. Donaldson Capital Management LLC lessened its stake in A. O. Smith Corp (NYSE:AOS) by 17.8% in the first quarter, according to its most recent 13F filing with the Securities & Exchange Commission. The institutional investor owned 10,534 shares of the industrial products company’s stock after selling 2,282 shares during the quarter. Donaldson Capital Management LLC’s […]
+How the Pandemic Will Change the Car Business. Look for a new cash-for-clunkers program, cheaper used vehicles, and more transparency in the new-car sales process. Why Tesla could emerge stronger, along with parts sellers and maybe CarMax.
+Aptiv PLC Forecasted to Earn Q1 2020 Earnings of $0.37 Per Share (NYSE:APTV). Aptiv PLC (NYSE:APTV) – Analysts at Piper Sandler decreased their Q1 2020 earnings per share (EPS) estimates for shares of Aptiv in a research report issued on Monday, April 13th. Piper Sandler analyst A. Potter now forecasts that the auto parts company will post earnings of $0.37 per share for the quarter, down from their […]
+Heat Transfer Films Market Size Worth US$ 3,609.6 Mn by 2027. Global heat transfer films market size is expected to be worth around US$ 3,609.6 Mn by 2027 with CAGR of 5.6%.
+Anti-graffiti Coatings and Films Market 2020 Global Trend Segmentation and Opportunities Forecast To 2025. Apr 17, 2020 (The Expresswire) --
+"Final Report will add the analysis of the impact of COVID-19 on this industry" This comprehensive report studies the...
+Avery Dennison Corp (NYSE:AVY) Shares Purchased by Donaldson Capital Management LLC. Donaldson Capital Management LLC grew its stake in shares of Avery Dennison Corp (NYSE:AVY) by 26.6% during the first quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission (SEC). The institutional investor owned 3,958 shares of the industrial products company’s stock after purchasing an additional 832 shares during […]
+Buy These 3 Former United Technologies Stocks. They’re Ready to Fly.. The merged Raytheon Technologies offers a stable defense business, while Otis is a leader in elevators and Carrier is a deep value play
+Creating My CEO-Driven Portfolio. I use outside resources like Glassdoor to help shape my investment decisions. An 85% CEO approval rating can indirectly suggest the employee's buy-in of the CEO
+The R.I.P. Portfolio's Q1 2020 Update. This real-money portfolio was first introduced to the Seeking Alpha community in December 2015. The portfolio underperformed its benchmark in Q1 2020 and it is 
+Analysts Offer Insights on Technology Companies: CDW (CDW) and Change Healthcare (CHNG). There's a lot to be optimistic about in the Technology sector as 2 analysts just weighed in on CDW (CDW) and Change Healthcare (CHNG) with bullish
+Analysts Offer Insights on Technology Companies: CDW (NASDAQ: CDW) and Change Healthcare (NASDAQ: CHNG). There’s a lot to be optimistic about in the Technology sector as 2 analysts just weighed in on CDW (
+CDW
+–
+Research Report
+) and Change Healthcare (
+CHNG
+–
+Research Report
+) with bullish sentiments.
+CDW (CDW)
+Credit Suisse analyst
+Matthew Cabral
+main
+Credit Suisse Maintains Outperform on CDW, Lowers Price Target to $127. 
+Morgan Stanley Maintains Underweight on CDW, Raises Price Target to $80. 
+CF Industries Holdings, Inc. Announces Dates for First Quarter 2020 Results and Conference Call. CF Industries Holdings, Inc. (NYSE: CF) today announced that it will report its first quarter 2020 results after the market close on Wednesday, May 6, 2020. The company plans to host a conference call to discuss these results at 11:00 a.m. ET on Thursday, May 7, 2020.
+Are CF Industries Holdings, Inc.’s (NYSE:CF) Fundamentals Good Enough to Warrant Buying Given The Stock’s Recent Weakness?. CF Industries Holdings (NYSE:CF) has had a rough three months with its share price down 42%. However, the company's...
+Global Fertility Treatments Market Assessment 2020: Valued at $14.87 Billion in 2019 - ResearchAndMarkets.com. The "Fertility Treatments Market Global Report 2020-2030" report has been added to ResearchAndMarkets.com's offering.
+Corteva (NYSE:CTVA) Shares Acquired by Factory Mutual Insurance Co.. Factory Mutual Insurance Co. boosted its position in Corteva (NYSE:CTVA) by 44.4% during the 1st quarter, according to the company in its most recent filing with the Securities & Exchange Commission. The fund owned 2,267,117 shares of the company’s stock after purchasing an additional 697,501 shares during the quarter. Factory Mutual Insurance Co. owned about […]
+Country Club Trust Company n.a. Has $670,000 Stake in Corteva (NYSE:CTVA). Country Club Trust Company n.a. lifted its position in Corteva (NYSE:CTVA) by 24.8% in the first quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission. The institutional investor owned 27,821 shares of the company’s stock after purchasing an additional 5,523 shares during the quarter. Country Club Trust Company n.a.’s […]
+The R.I.P. Portfolio's Q1 2020 Update. This real-money portfolio was first introduced to the Seeking Alpha community in December 2015. The portfolio underperformed its benchmark in Q1 2020 and it is 
+The agricultural micronutrients market is projected to grow at a CAGR of 8.7% from 2019 to 2025. Read the full report: https://www.reportlinker.com/p05129362/?utm_source=PRN The agricultural micronutrients marketis estimated to be valued at USD3.6 billion in 2020 andis projected to reach USD 5.4billion by 2025, recording a CAGR of 8.7%. Factors such as an increase in micronutrient deficiency in
+The Global Tappet Market is expected to grow from USD 7,452.13 Million in 2018 to USD 9,756.13 Million by the end of 2025 at a Compound Annual Growth Rate (CAGR) of 3.92%. New York, April 17, 2020 -- Reportlinker.com announces the release of the report "Global Tappet Market - Premium Insight, Competitive News Feed Analysis, Company Usability.
+The Global Surge Protection Device Market is expected to grow from USD 2,412.13 Million in 2018 to USD 3,589.13 Million by the end of 2025 at a Compound Annual Growth Rate (CAGR) of 5.84%. The Global Surge Protection Device Market is expected to grow from USD 2,412.13 Million in 2018 to USD 3,589.13 Million by the end of 2025 at a Compound Annual Growth Rate (CAGR) of 5.84%. Read the full report: https://www.reportlinker.com/p05871634/?utm_source=PRN The positioning of the Global Surge
+Factory Mutual Insurance Co. Sells 197,600 Shares of Eaton Co. PLC (NYSE:ETN). Factory Mutual Insurance Co. lowered its holdings in Eaton Co. PLC (NYSE:ETN) by 29.4% during the 1st quarter, according to the company in its most recent disclosure with the Securities & Exchange Commission. The firm owned 475,156 shares of the industrial products company’s stock after selling 197,600 shares during the period. Factory Mutual Insurance Co. […]
+Shares of several industrial companies are trading higher as investor coronavirus outlook improves following positive drug data from Gilead. Hopes of a successful treatment candidate have improved the outlook for a rebound in the economy.. 
+Equity Residential (NYSE:EQR) Shares Purchased by 6 Meridian. 6 Meridian increased its stake in shares of Equity Residential (NYSE:EQR) by 6.8% during the 1st quarter, according to its most recent filing with the Securities and Exchange Commission (SEC). The institutional investor owned 7,485 shares of the real estate investment trust’s stock after acquiring an additional 479 shares during the quarter. 6 Meridian’s holdings […]
+Why Extra Space Storage Inc. (NYSE:EXR) Looks Like A Quality Company. While some investors are already well versed in financial metrics (hat tip), this article is for those who would like...
+'s Top Upgrades, Downgrades For April 17, 2020. Upgrades
+
+For Caesars Entertainment Corp (NASDAQ: CZR), SunTrust Robinson Humphrey upgraded the stock from Hold to Buy. In the fourth quarter, Caesars Entertainment...
+Extra Space Storage Target of Unusually Large Options Trading (NYSE:EXR). Extra Space Storage, Inc. (NYSE:EXR) was the recipient of some unusual options trading on Wednesday. Stock traders bought 520 call options on the stock. This represents an increase of approximately 812% compared to the average volume of 57 call options. In other news, CEO Joseph D. Margolis sold 2,298 shares of the company’s stock in […]
+SunTrust Robinson Humphrey Maintains Hold on Extra Space Storage, Lowers Price Target to $102. 
+How Does F5 Networks&#39;s (NASDAQ:FFIV) P/E Compare To Its Industry, After Its Big Share Price Gain?. F5 Networks (NASDAQ:FFIV) shareholders are no doubt pleased to see that the share price has bounced 35% in the last...
+Is There An Opportunity With F5 Networks, Inc.’s (NASDAQ:FFIV) 45% Undervaluation?. In this article we are going to estimate the intrinsic value of F5 Networks, Inc. (NASDAQ:FFIV) by projecting its...
+Fortune Brands shares are trading higher after Nomura upgraded the company's stock from Neutral to Buy and raised its price target from $43 to $55.. 
+'s Top Upgrades, Downgrades For April 17, 2020. Upgrades
+
+For Caesars Entertainment Corp (NASDAQ: CZR), SunTrust Robinson Humphrey upgraded the stock from Hold to Buy. In the fourth quarter, Caesars Entertainment...
+10 Biggest Price Target Changes For Friday. Goldman Sachs cut  Apple Inc.  (NASDAQ: AAPL) price target from $250 to $233. Apple shares closed at $286.69 on Thursday.
+Raymond James lowered the price target on  Union Pacific...
+Fortune Brands upgraded to Buy from Neutral at Nomura Instinet FBHS. Fortune Brands upgraded to Buy from Neutral at Nomura Instinet Nomura Instinet FBHS
+Nomura Upgrades Fortune Brands Home to Buy, Raises Price Target to $55. 
+Fox Corp (NASDAQ:FOXA) Shares Bought by Factory Mutual Insurance Co.. Factory Mutual Insurance Co. raised its position in Fox Corp (NASDAQ:FOXA) by 5.9% in the 1st quarter, according to the company in its most recent disclosure with the Securities & Exchange Commission. The institutional investor owned 1,655,264 shares of the company’s stock after acquiring an additional 92,000 shares during the period. Factory Mutual Insurance Co. […]
+Whether It's Time For A Sea Change. A reliance on high yield income stocks is proving to be more risky in light of recent dividend cuts. Holding higher yield income stocks exclusively severely lim
+Global Automotive Aftermarkets Industry Overview 2020 Featuring Analysis of the Leading 550 Players: Financials & Issues - ResearchAndMarkets.com. The "Automotive Aftermarkets (GLOBAL) - Industry Report" report has been added to ResearchAndMarkets.com's offering.
+City Holding Co. Has $888,000 Stock Position in Genuine Parts (NYSE:GPC). City Holding Co. cut its holdings in shares of Genuine Parts (NYSE:GPC) by 4.1% in the first quarter, according to its most recent filing with the Securities and Exchange Commission. The firm owned 13,197 shares of the specialty retailer’s stock after selling 567 shares during the quarter. City Holding Co.’s holdings in Genuine Parts were […]
+Catching The Bottom. Each bear market is different, and we don't know if we have hit the bottom yet. It is a good time to rebalance now, but one must do it in an orderly fashion. No
+CWS Market Review – April 17, 2020. CWS Market Review – April 17, 2020
+“The economy is clearly in ruins here.” – Chris Rupkey, chief financial economist at MUFG Union Bank
+On Thursday, we got another jobless-claims report and it was more bad news. For the week, 5.245 million Americans 
+Calculating The Fair Value Of W.W. Grainger, Inc. (NYSE:GWW). In this article we are going to estimate the intrinsic value of W.W. Grainger, Inc. (NYSE:GWW) by taking the foreast...
+DIARY-U.S. earnings week ahead. Diary of U.S. (.SPX) corporate earnings for the week ahead.
+
+** Please Note - All times given are in U.S. EDT unless otherwise stated **
+ U.S. EARNINGS 
+    
+ Start Date    Start      RIC     Company Name                 Event Name
+               Time                                            
+ 20-Apr-2020   AMC        IBM.N   International Business       Q1 2020 International Business Machines Corp
+                                  Machines Corp                Earnings Release
+ 20-Apr-2020   AMC        EFX.N   Equifax Inc                  Q1 2020 Equifax Inc Earnings Release
+ 20-Apr-2020   AMC        CDNS.O  Cadence Design Systems Inc   Q1 2020 Cadence Design Systems Inc Earnings
+                                                               Release
+ 20-Apr-2020   BMO        TFC.N   Truist Financial Corp        Q1 2020  Truist Financial Corp Earnings
+                                                               Release
+ 20-Apr-2020   BMO        HAL.N   Halliburton Co               Q1 2020 Halliburton Co Earnings Release
+ 20-Apr-2020   BMO        MTB.N   M&T Bank Corp                Q1 2020 M&T Bank Corp Earnings Release
+ 21-Apr-2020   AMC        NFLX.O  Netflix Inc                  Q1 2020 Netflix Inc Earnings Release
+ 21-Apr-2020   AMC        WRB.N   W. R. Berkley Corp           Q1 2020 W. R. Berkley Corp Earnings Release
+ 21-Apr-2020   AMC        CMG.N   Chipotle Mexican Grill Inc   Q1 2020 Chipotle Mexican Grill Inc Earnings
+                                                               Release
+ 21-Apr-2020   AMC        TXN.O   Texas Instruments Inc        Q1 2020 Texas Instruments Inc Earnings Release
+ 21-Apr-2020   AMC        CB.N    Chubb Ltd                    Q1 2020 Chubb Ltd Earnings Release
+ 21-Apr-2020   BMO        FITB.O  Fifth Third Bancorp          Q1 2020 Fifth Third Bancorp Earnings Release
+ 21-Apr-2020   BMO        KO.N    Coca-Cola Co                 Q1 2020 Coca-Cola Co Earnings Release
+ 21-Apr-2020   BMO        HCA.N   HCA Healthcare Inc           Q1 2020 HCA Healthcare Inc Earnings Release
+ 21-Apr-2020   BMO        EMR.N   Emerson Electric Co          Q2 2020 Emerson Electric Co Earnings Release
+ 21-Apr-2020   BMO        PLD.N   Prologis Inc                 Q1 2020 Prologis Inc Earnings Release
+ 21-Apr-2020   BMO        PCAR.O  Paccar Inc                   Q1 2020 Paccar Inc Earnings Release
+ 21-Apr-2020   BMO        TRV.N   Travelers Companies Inc      Q1 2020 Travelers Companies Inc Earnings
+                                                               Release
+ 21-Apr-2020   BMO        CMA.N   Comerica Inc                 Q1 2020 Comerica Inc Earnings Release
+ 21-Apr-2020   BMO        LMT.N   Lockheed Martin Corp         Q1 2020 Lockheed Martin Corp Earnings Release
+ 21-Apr-2020   BMO        NTRS.O  Northern Trust Corp          Q1 2020 Northern Trust Corp Earnings Release
+ 21-Apr-2020   BMO        PM.N    Philip Morris International  Q1 2020 Philip Morris International Inc
+                                  Inc                          Earnings Release
+ 21-Apr-2020   BMO        SYF.N   Synchrony Financial          Q1 2020 Synchrony Financial Earnings Release
+ 21-Apr-2020   BMO        SNA.N   Snap-On Inc                  Q1 2020 Snap-On Inc Earnings Release
+ 21-Apr-2020   07:00      DOV.N   Dover Corp                   Q1 2020 Dover Corp Earnings Release
+ 22-Apr-2020   AMC        ORLY.O  O'Reilly Automotive Inc      Q1 2020 O'Reilly Automotive Inc Earnings
+                                                               Release
+ 22-Apr-2020   AMC        SLG.N   SL Green Realty Corp         Q1 2020 SL Green Realty Corp Earnings Release
+ 22-Apr-2020   AMC        CSX.O   CSX Corp                     Q1 2020 CSX Corp Earnings Release
+ 22-Apr-2020   AMC        GL.N    Globe Life Inc               Q1 2020 Globe Life Inc Earnings Release
+ 22-Apr-2020   AMC        DFS.N   Discover Financial Services  Q1 2020 Discover Financial Services Earnings
+                                                               Release
+ 22-Apr-2020   AMC        LRCX.O  Lam Research Corp            Q3 2020 Lam Research Corp Earnings Release
+ 22-Apr-2020   AMC        XLNX.O  Xilinx Inc                   Q4 2020 Xilinx Inc Earnings Release
+ 22-Apr-2020   AMC        STX.O   Seagate Technology PLC       Q3 2020 Seagate Technology PLC Earnings
+                                                               Release
+ 22-Apr-2020   AMC        LVS.N   Las Vegas Sands Corp         Q1 2020 Las Vegas Sands Corp Earnings Release
+ 22-Apr-2020   AMC        KMI.N   Kinder Morgan Inc            Q1 2020 Kinder Morgan Inc Earnings Release
+ 22-Apr-2020   AMC        FTI.N   TechnipFMC PLC               Q1 2020 TechnipFMC PLC Earnings Release
+ 22-Apr-2020   BMO        KMB.N   Kimberly-Clark Corp          Q1 2020 Kimberly-Clark Corp Earnings Release
+ 22-Apr-2020   BMO        T.N     AT&T Inc                     Q1 2020 AT&T Inc Earnings Release
+ 22-Apr-2020   BMO        NDAQ.O  Nasdaq Inc                   Q1 2020 Nasdaq Inc Earnings Release
+ 22-Apr-2020   BMO        DGX.N   Quest Diagnostics Inc        Q1 2020 Quest Diagnostics Inc Earnings Release
+ 22-Apr-2020   BMO        BIIB.O  Biogen Inc                   Q1 2020 Biogen Inc Earnings Release
+ 22-Apr-2020   BMO        APH.N   Amphenol Corp                Q1 2020 Amphenol Corp Earnings Release
+ 22-Apr-2020   BMO        NEE.N   Nextera Energy Inc           Q1 2020 Nextera Energy Inc Earnings Release
+ 22-Apr-2020   BMO        DAL.N   Delta Air Lines Inc          Q1 2020 Delta Air Lines Inc Earnings Release
+ 22-Apr-2020   BMO        TMO.N   Thermo Fisher Scientific     Q1 2020 Thermo Fisher Scientific Inc Earnings
+                                  Inc                          Release
+ 22-Apr-2020   07:00      BKR.N   Baker Hughes Co              Q1 2020 Baker Hughes A GE Co Earnings Release
+ 23-Apr-2020   AMC        SIVB.O  SVB Financial Group          Q1 2020 SVB Financial Group Earnings Release
+ 23-Apr-2020   AMC        IEX.N   IDEX Corp                    Q1 2020 IDEX Corp Earnings Release
+ 23-Apr-2020   AMC        FE.N    FirstEnergy Corp             Q1 2020 FirstEnergy Corp Earnings Release
+ 23-Apr-2020   AMC        ETFC.O  E*TRADE Financial Corp       Q1 2020 E*TRADE Financial Corp Earnings
+                                                               Release
+ 23-Apr-2020   AMC        COF.N   Capital One Financial Corp   Q1 2020 Capital One Financial Corp Earnings
+                                                               Release
+ 23-Apr-2020   AMC        RHI.N   Robert Half International    Q1 2020 Robert Half International Inc Earnings
+                                  Inc                          Release
+ 23-Apr-2020   AMC        PBCT.O  People's United Financial    Q1 2020 People's United Financial Inc Earnings
+                                  Inc                          Release
+ 23-Apr-2020   AMC        EW.N    Edwards Lifesciences Corp    Q1 2020 Edwards Lifesciences Corp Earnings
+                                                               Release
+ 23-Apr-2020   AMC        VRSN.O  Verisign Inc                 Q1 2020 Verisign Inc Earnings Release
+ 23-Apr-2020   AMC        INTC.O  Intel Corp                   Q1 2020 Intel Corp Earnings Release
+ 23-Apr-2020   BMO        LLY.N   Eli Lilly and Co             Q1 2020 Eli Lilly and Co Earnings Release
+ 23-Apr-2020   BMO        UNP.N   Union Pacific Corp           Q1 2020 Union Pacific Corp Earnings Release
+ 23-Apr-2020   BMO        HBAN.O  Huntington Bancshares Inc    Q1 2020 Huntington Bancshares Inc Earnings
+                                                               Release
+ 23-Apr-2020   BMO        LUV.N   Southwest Airlines Co        Q1 2020 Southwest Airlines Co Earnings Release
+ 23-Apr-2020   BMO        TSCO.O  Tractor Supply Co            Q1 2020 Tractor Supply Co Earnings Release
+ 23-Apr-2020   BMO        APD.N   Air Products and Chemicals   Q2 2020 Air Products and Chemicals Inc
+                                  Inc                          Earnings Release
+ 23-Apr-2020   BMO        HSY.N   Hershey Co                   Q1 2020 Hershey Co Earnings Release
+ 23-Apr-2020   BMO        ODFL.O  Old Dominion Freight Line    Q1 2020 Old Dominion Freight Line Inc Earnings
+                                  Inc                          Release
+ 23-Apr-2020   BMO        PHM.N   PulteGroup Inc               Q1 2020 PulteGroup Inc Earnings Release
+ 23-Apr-2020   BMO        ALLE.N  Allegion PLC                 Q1 2020 Allegion PLC Earnings Release
+ 23-Apr-2020   BMO        CTXS.O  Citrix Systems Inc           Q1 2020 Citrix Systems Inc Earnings Release
+ 23-Apr-2020   BMO        ADS.N   Alliance Data Systems Corp   Q1 2020 Alliance Data Systems Corp Earnings
+                                                               Release
+ 23-Apr-2020   08:00      GWW.N   W W Grainger Inc             Q1 2020 W W Grainger Inc Earnings Release
+ 23-Apr-2020   06:55      IVZ.N   Invesco Ltd                  Q1 2020 Invesco Ltd Earnings Release
+ 24-Apr-2020   BMO        AXP.N   American Express Co          Q1 2020 American Express Co Earnings Release
+ 24-Apr-2020   BMO        VZ.N    Verizon Communications Inc   Q1 2020 Verizon Communications Inc Earnings
+                                                               Release
+ ** All times are listed in U.S. EDT, or AMC - 'After U.S. Market Close', or BMO - 'Before U.S. Market Opens',
+or DBH - 'During U.S. business hours', or blank if not known.
+
+** This Diary does not provide the EPS estimate figures. EPS figures can be retrieved from Eikon.
+
+Steps in Eikon to retrieve the EPS estimate:-
+
+Eikon Indicator-> Equities Guide-> Top Indices-> S&P 500-> Events-> Select Event types-> Select the company->
+Estimates
+    
+
+ (Compiled by Bengaluru Newsroom)
+6 Meridian Has $413,000 Stock Holdings in Healthpeak Properties (NASDAQ:PEAK). 6 Meridian increased its stake in shares of Healthpeak Properties (NASDAQ:PEAK) by 4.0% in the first quarter, Holdings Channel.com reports. The firm owned 17,314 shares of the company’s stock after buying an additional 666 shares during the quarter. 6 Meridian’s holdings in Healthpeak Properties were worth $413,000 at the end of the most recent reporting […]
+Duke Realty (NYSE:DRE) and HCP (NYSE:HCP) Critical Comparison. HCP (NYSE:HCP) and Duke Realty (NYSE:DRE) are both large-cap finance companies, but which is the superior stock? We will contrast the two businesses based on the strength of their risk, profitability, institutional ownership, valuation, earnings, analyst recommendations and dividends. Profitability This table compares HCP and Duke Realty’s net margins, return on equity and return on […]
+Can Gardner Denver (IR) Keep the Earnings Surprise Streak Alive?. Gardner Denver (IR) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.
+Can Gardner Denver (IR) Keep the Earnings Surprise Streak Alive?. Gardner Denver (IR) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.
+Kimball International, Inc. Engages ADVISIRY PARTNERS as its Investor Relations Firm. JASPER, Ind., April  17, 2020  (GLOBE NEWSWIRE) -- Kimball International, Inc. (NASDAQ:KBAL), has engaged New York-based financial communications...
+City Holding Co. Has $468,000 Stock Position in Ingersoll-Rand PLC (NYSE:IR). City Holding Co. trimmed its position in Ingersoll-Rand PLC (NYSE:IR) by 13.5% in the 1st quarter, according to the company in its most recent Form 13F filing with the Securities and Exchange Commission (SEC). The firm owned 18,888 shares of the industrial products company’s stock after selling 2,937 shares during the quarter. City Holding Co.’s […]
+Ingersoll-Rand PLC (NYSE:IR) Shares Sold by Canandaigua National Bank & Trust Co.. Canandaigua National Bank & Trust Co. lessened its holdings in shares of Ingersoll-Rand PLC (NYSE:IR) by 17.8% in the first quarter, Holdings Channel.com reports. The institutional investor owned 21,827 shares of the industrial products company’s stock after selling 4,734 shares during the quarter. Canandaigua National Bank & Trust Co.’s holdings in Ingersoll-Rand were worth $541,000 […]
+Ingersoll-Rand (NYSE:IR) Trading Down 7.6% Following Analyst Downgrade. Shares of Ingersoll-Rand PLC (NYSE:IR) fell 7.6% during trading on Wednesday after Stifel Nicolaus lowered their price target on the stock from $38.00 to $30.00. Stifel Nicolaus currently has a hold rating on the stock. Ingersoll-Rand traded as low as $24.15 and last traded at $24.36, 2,595,826 shares were traded during mid-day trading. A decline […]
+Ingersoll Rand shares are trading higher after Deutsche Bank reinstated a Buy rating on the company's stock and announced a $28 price target.. 
+IQVIA Holdings: No Premium Amid Uncertainty. The COVID-19 pandemic severely impacts IQVIA’s contract research function even though the company’s well-diversified top line, unlike that of peers, lessens the
+Drug trial specialists see coronavirus-fueled spike in demand for virtual services. Clinical trial service providers report a spike in demand for virtual trials as pharmaceutical companies try to prevent the coronavirus outbreak from derailing their drug rollouts.
+Rockwell to gain from industry virus response, Oppenheimer says. Rockwell Automation (ROK +4.8%) is upgraded and Johnson Controls (JCI +3.6%) is downgraded at Oppenheimer, based on the firm's outlook for the manufacturing and construction industries in the wake of
+Johnson Controls downgraded to Perform from Outperform at Oppenheimer JCI. Johnson Controls downgraded to Perform from Outperform at Oppenheimer Oppenheimer JCI
+Johnson Controls International PLC (NYSE:JCI) Shares Acquired by Canandaigua National Bank & Trust Co.. Canandaigua National Bank & Trust Co. lifted its holdings in shares of Johnson Controls International PLC (NYSE:JCI) by 1.7% in the 1st quarter, according to its most recent Form 13F filing with the SEC. The firm owned 29,693 shares of the company’s stock after buying an additional 482 shares during the period. Canandaigua National Bank […]
+B&G Foods (BGS) Receives a Hold from Barclays. In a report released yesterday, Andrew Lazar from Barclays maintained a Hold rating on B&G Foods (BGS), with a price target of $19.00. The company's
+Barclays Keeps Their Buy Rating on BellRing Brands (BRBR). In a report released yesterday, Andrew Lazar from Barclays maintained a Buy rating on BellRing Brands (BRBR), with a price target of $21.00. The company's
+Nomad Foods (NOMD) Receives a Buy from Barclays. In a report released yesterday, Andrew Lazar from Barclays maintained a Buy rating on Nomad Foods (NOMD), with a price target of $22.00. The company's
+Conagra Brands (CAG) Receives a Buy from Barclays. In a report released yesterday, Andrew Lazar from Barclays maintained a Buy rating on Conagra Brands (CAG), with a price target of $37.00. The company's
+Campbell Soup (CPB) Gets a Sell Rating from Barclays. In a report released yesterday, Andrew Lazar from Barclays maintained a Sell rating on Campbell Soup (CPB), with a price target of $51.00. The company's
+Barclays Sticks to Their Buy Rating for Mondelez International (MDLZ). In a report released yesterday, Andrew Lazar from Barclays maintained a Buy rating on Mondelez International (MDLZ), with a price target of $61.00. The
+Kellogg (K) Receives a Sell from Barclays. Barclays analyst Andrew Lazar maintained a Sell rating on Kellogg (K) yesterday and set a price target of $64.00. The company's shares closed last
+Lamb Weston Holdings (LW) Receives a Buy from Barclays. In a report released yesterday, Andrew Lazar from Barclays maintained a Buy rating on Lamb Weston Holdings (LW), with a price target of $65.00. The
+Post Holdings (POST) Receives a Buy from Barclays. In a report released yesterday, Andrew Lazar from Barclays maintained a Buy rating on Post Holdings (POST), with a price target of $108.00. The company's
+JM Smucker (SJM) Receives a Hold from Barclays. Barclays analyst Andrew Lazar maintained a Hold rating on JM Smucker (SJM) yesterday and set a price target of $119.00. The company's shares closed last
+Analysts' Opinions Are Mixed on These Consumer Goods Stocks: LyondellBasell (LYB), McCormick & Company (MKC) and Procter & Gamble (PG). Analysts have been eager to weigh in on the Consumer Goods sector with new ratings on LyondellBasell (LYB), McCormick & Company (MKC) and Procter
+Zacks: Brokerages Anticipate Lamb Weston Holdings Inc (NYSE:LW) Will Announce Earnings of $0.15 Per Share. Equities analysts forecast that Lamb Weston Holdings Inc (NYSE:LW) will post earnings of $0.15 per share for the current fiscal quarter, according to Zacks. Three analysts have provided estimates for Lamb Weston’s earnings. The highest EPS estimate is $0.32 and the lowest is ($0.07). Lamb Weston reported earnings per share of $0.74 during the same […]
+Creating My CEO-Driven Portfolio. I use outside resources like Glassdoor to help shape my investment decisions. An 85% CEO approval rating can indirectly suggest the employee's buy-in of the CEO
+New Strong Sell Stocks for April 17th. Here are 5 stocks added to the Zacks Rank 5 (Strong Sell) List today
+New Strong Sell Stocks for April 17th. Here are 5 stocks added to the Zacks Rank #5 (Strong Sell) List today
+The Most Undervalued Companies Today - Part 1. In this article, I take advantage of my recent tool and method to identify some of the most undervalued, yet somewhat qualitative companies in the market. These
+Leggett & Platt, Inc. (NYSE:LEG) to Post Q3 2021 Earnings of $0.67 Per Share, Piper Sandler Forecasts. Leggett & Platt, Inc. (NYSE:LEG) – Investment analysts at Piper Sandler dropped their Q3 2021 earnings per share estimates for Leggett & Platt in a research note issued to investors on Tuesday, April 14th. Piper Sandler analyst P. Keith now anticipates that the company will earn $0.67 per share for the quarter, down from their […]
+Leggett & Platt (NYSE:LEG)  Shares Down 9%  After Analyst Downgrade. Leggett & Platt, Inc. (NYSE:LEG) shares fell 9% during mid-day trading on Wednesday after Piper Sandler lowered their price target on the stock from $47.00 to $35.00. Piper Sandler currently has a neutral rating on the stock. Leggett & Platt traded as low as $26.07 and last traded at $26.40, 1,185,032 shares traded hands during […]
+Shares of several consumer goods companies are trading higher as equities gain on macro optimism after Gildead's Remdesivir drug showed some effectiveness in treating coronavirus patients. This has raised hopes of a sooner economic recovery.. 
+Factory Mutual Insurance Co. Has $22.61 Million Holdings in Linde PLC (NYSE:LIN). Factory Mutual Insurance Co. trimmed its holdings in Linde PLC (NYSE:LIN) by 10.5% in the first quarter, according to the company in its most recent Form 13F filing with the Securities and Exchange Commission. The institutional investor owned 130,700 shares of the basic materials company’s stock after selling 15,300 shares during the period. Factory Mutual […]
+Linde PLC (NYSE:LIN) Shares Sold by Bailard Inc.. Bailard Inc. cut its stake in shares of Linde PLC (NYSE:LIN) by 2.5% in the first quarter, according to its most recent disclosure with the SEC. The firm owned 17,677 shares of the basic materials company’s stock after selling 456 shares during the period. Bailard Inc.’s holdings in Linde were worth $3,058,000 at the end […]
+10 Of 73 April Materials Equities May Be Built To Survive Irrelevance. These basic materials dividend dog prices and yields are all sourced from YCharts which allows a dividend yield to persist for 365 days after the most recent re
+Analysts Estimate LyondellBasell (LYB) to Report a Decline in Earnings: What to Look Out for. LyondellBasell (LYB) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.
+Analysts Estimate LyondellBasell (LYB) to Report a Decline in Earnings: What to Look Out for. LyondellBasell (LYB) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.
+'s Top Upgrades, Downgrades For April 17, 2020. Upgrades
+
+For Caesars Entertainment Corp (NASDAQ: CZR), SunTrust Robinson Humphrey upgraded the stock from Hold to Buy. In the fourth quarter, Caesars Entertainment...
+LyondellBasell&#39;s Subsidiary Prices Public Offering of Notes. LyondellBasell (LYB) intends to use the net proceeds from the public notes offering for general corporate purposes.
+LyondellBasell's Subsidiary Prices Public Offering of Notes. LyondellBasell (LYB) intends to use the net proceeds from the public notes offering for general corporate purposes.
+Analysts' Opinions Are Mixed on These Consumer Goods Stocks: LyondellBasell (LYB), McCormick & Company (MKC) and Procter & Gamble (PG). Analysts have been eager to weigh in on the Consumer Goods sector with new ratings on LyondellBasell (LYB), McCormick & Company (MKC) and Procter
+The Most Undervalued Companies Today - Part 1. In this article, I take advantage of my recent tool and method to identify some of the most undervalued, yet somewhat qualitative companies in the market. These
+6 Meridian Buys Shares of 2,378 Martin Marietta Materials, Inc. (NYSE:MLM). 6 Meridian bought a new stake in Martin Marietta Materials, Inc. (NYSE:MLM) during the first quarter, HoldingsChannel.com reports. The institutional investor bought 2,378 shares of the construction company’s stock, valued at approximately $450,000. A number of other hedge funds have also recently bought and sold shares of MLM. Pacitti Group Inc. bought a new position […]
+Arden Trust Co Sells 203 Shares of Martin Marietta Materials, Inc. (NYSE:MLM). Arden Trust Co cut its holdings in Martin Marietta Materials, Inc. (NYSE:MLM) by 6.3% during the 1st quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission. The firm owned 3,008 shares of the construction company’s stock after selling 203 shares during the period. Arden Trust Co’s holdings in Martin […]
+Chesley Taft & Associates LLC Purchases Shares of 3,385 Mid-America Apartment Communities Inc (NYSE:MAA). Chesley Taft & Associates LLC purchased a new stake in shares of Mid-America Apartment Communities Inc (NYSE:MAA) during the 1st quarter, according to the company in its most recent filing with the Securities and Exchange Commission (SEC). The firm purchased 3,385 shares of the real estate investment trust’s stock, valued at approximately $349,000. Other hedge […]
+Top 5 Buys of the Yacktman Focused Fund. Fund releases 1st-quarter portfolio Continue reading...
+NiSource Target of Unusually High Options Trading (NYSE:NI). NiSource Inc. (NYSE:NI) saw some unusual options trading activity on Wednesday. Traders acquired 702 call options on the stock. This represents an increase of approximately 997% compared to the typical volume of 64 call options. Shares of NI opened at $25.93 on Friday. The firm has a market cap of $10.19 billion, a PE ratio […]
+NiSource Inc. (NYSE:NI) Expected to Post Quarterly Sales of $1.95 Billion. Equities analysts expect NiSource Inc. (NYSE:NI) to report $1.95 billion in sales for the current quarter, according to Zacks. Two analysts have made estimates for NiSource’s earnings. The lowest sales estimate is $1.94 billion and the highest is $1.97 billion. NiSource reported sales of $1.86 billion in the same quarter last year, which would suggest […]
+YRC Receives Grace Period For Union Benefits Amid 'Sharp Decline'. In a letter to rank and file members, the negotiating committee of the International Brotherhood of Teamsters informed members that YRC Worldwide (NASDAQ: YRCW) was given a grace period on health and welfare and pension fund contributions due to volume declines associated with the coronavirus.The letter
+Picking Winners And Losers: Best Stocks To Buy Now. The market rally should become more selective going forward. Risk reward continues to favor buying down days. Here are the top stocks to buy now.
+Coronavirus has hit the trucking industry ‘like a brick wall’. The $800 billion trucking industry scrambles to keep supply chains moving as coronavirus triggers skyrocketing demand for necessities.
+What's in Store for Old Dominion (ODFL) in Q1 Earnings?. Decline in LTL tonnage and soft freight demand is likely to get reflected in Old Dominion's (ODFL) first-quarter 2020 performance
+What's in Store for Old Dominion (ODFL) in Q1 Earnings?. Decline in LTL tonnage and soft freight demand is likely to get reflected in Old Dominion's (ODFL) first-quarter 2020 performance
+Buy These 3 Former United Technologies Stocks. They’re Ready to Fly.. The merged Raytheon Technologies offers a stable defense business, while Otis is a leader in elevators and Carrier is a deep value play
+Creating My CEO-Driven Portfolio. I use outside resources like Glassdoor to help shape my investment decisions. An 85% CEO approval rating can indirectly suggest the employee's buy-in of the CEO
+Why These Upscale Retail Stocks Were Rising on Friday. Investors in Nordstrom, Ralph Lauren, and Urban Outfitters had a good day.
+Travelers (TRV) to Report Q1 Earnings: What's in Store?. The Travelers Companies' (TRV) first-quarter 2020 performance is likely to have benefited from increase in premiums and a benign cat environment.
+Low Rates, Provisions to Mar Truist Financial (TFC) Q1 Earnings. Lower interest rates and increase in credit costs are likely to hurt Truist Financial's (TFC) Q1 earnings amid coronavirus pandemic.
+Big banks built a $35 billion fortress to protect against coronavirus bankruptcies and defaults. Officials in Washington are trying hard to minimize the amount of bankruptcies, defaults and foreclosures caused by the coronavirus pandemic. America's big banks are planning for the worst anyway.
+Xilinx (XLNX) Adds Samsung to Clientele, Boosts 5G Presence. Xilinx (XLNX) takes a major leap in the 5G infrastructure space, as Samsung has chosen its 7nm process-based Versal ACAP to commercially deploy the fifth-generation cellular technology.
