@@ -1,0 +1,255 @@
+The Walt Disney Company has completed a Fixed-Income Exchange Offer in the amount of $14.031054 billion.. The Walt Disney Company has completed a Fixed-Income Exchange Offer in the amount of $14.031054 billion.
+
+Security Name: 5.650% Senior Unsubordinated Unsecured Notes due August 15, 2020
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $363.63 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed; Callable
+Coupon Type: Fixed
+
+Security Name: 4.500% Senior Unsubordinated Unsecured Notes due February 15, 2021
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $855.743 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed; Callable
+Coupon Type: Fixed
+
+Security Name: 3.000% Senior Unsubordinated Unsecured Notes due September 15, 2022
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $910.435 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed; Callable
+Coupon Type: Fixed
+
+Security Name: 8.875% Senior Unsubordinated Unsecured Notes due April 26, 2023
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $195.212 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed
+Coupon Type: Fixed
+
+Security Name: 4.000% Senior Unsubordinated Unsecured Notes due October 1, 2023
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $284.429 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed; Callable
+Coupon Type: Fixed
+
+Security Name: 7.750% Senior Unsubordinated Unsecured Notes due January 20, 2024
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $186.299 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed
+Coupon Type: Fixed
+
+Security Name: 7.750% Senior Unsubordinated Unsecured Notes due February 1, 2024
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $68.075 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed
+Coupon Type: Fixed
+
+Security Name: 9.500% Senior Unsubordinated Unsecured Notes due July 15, 2024
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $192.741 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed
+Coupon Type: Fixed
+
+Security Name: 3.700% Senior Unsubordinated Unsecured Notes due September 15, 2024
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $576.766 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed; Callable
+Coupon Type: Fixed
+
+Security Name: 8.500% Senior Unsubordinated Unsecured Notes due February 23, 2025
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $185.378 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed
+Coupon Type: Fixed
+
+Security Name: 3.700% Senior Unsubordinated Unsecured Notes due October 15, 2025
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $592.294 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed; Callable
+Coupon Type: Fixed
+
+Security Name: 7.700% Senior Unsubordinated Unsecured Notes due October 30, 2025
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $238.064 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed
+Coupon Type: Fixed
+
+Security Name: 7.430% Senior Unsubordinated Unsecured Notes due October 1, 2026
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $228.699 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed
+Coupon Type: Fixed
+
+Security Name: 3.375% Senior Unsubordinated Unsecured Notes due November 15, 2026
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $436.285 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed; Callable
+Coupon Type: Fixed
+
+Security Name: 7.125% Senior Unsubordinated Unsecured Notes due April 8, 2028
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $183.84 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed
+Coupon Type: Fixed
+
+Security Name: 7.300% Senior Unsubordinated Unsecured Notes due April 30, 2028
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $193.923 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed
+Coupon Type: Fixed
+
+Security Name: 7.280% Senior Unsubordinated Unsecured Notes due June 30, 2028
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $193.731 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed
+Coupon Type: Fixed
+
+Security Name: 7.625% Senior Unsubordinated Unsecured Notes due November 30, 2028
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $187.749 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed
+Coupon Type: Fixed
+
+Security Name: 6.550% Senior Unsubordinated Unsecured Notes due March 15, 2033
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $342.347 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed
+Coupon Type: Fixed
+
+Security Name: 8.450% Senior Unsubordinated Unsecured Notes due August 1, 2034
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $193.866 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed
+Coupon Type: Fixed
+
+Security Name: 6.200% Senior Unsubordinated Unsecured Notes due December 15, 2034
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $982.472 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed
+Coupon Type: Fixed
+
+Security Name: 6.400% Senior Unsubordinated Unsecured Notes due December 15, 2035
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $971.816 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed; Callable
+Coupon Type: Fixed
+
+Security Name: 8.150% Senior Unsubordinated Unsecured Notes due October 17, 2036
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $239.786 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed
+Coupon Type: Fixed
+
+Security Name: 6.150% Senior Unsubordinated Unsecured Notes due March 1, 2037
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $320.934 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed; Callable
+Coupon Type: Fixed
+
+Security Name: 6.650% Senior Unsubordinated Unsecured Notes due November 15, 2037
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $1.223938 billion
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed; Callable
+Coupon Type: Fixed
+
+Security Name: 6.750% Senior Unsubordinated Unsecured Notes due January 9, 2038
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $141.229 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed
+Coupon Type: Fixed
+
+Security Name: 7.850% Senior Unsubordinated Unsecured Notes due March 1, 2039
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $111.283 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed; Callable
+Coupon Type: Fixed
+
+Security Name: 6.900% Senior Unsubordinated Unsecured Notes due August 15, 2039
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $236.418 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed; Callable
+Coupon Type: Fixed
+
+Security Name: 6.150% Senior Unsubordinated Unsecured Notes due February 15, 2041
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $631.871 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed; Callable
+Coupon Type: Fixed
+
+Security Name: 5.400% Senior Unsubordinated Unsecured Notes due October 1, 2043
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $679.686 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed; Callable
+Coupon Type: Fixed
+
+Security Name: 4.750% Senior Unsubordinated Unsecured Notes due September 15, 2044
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $588.724 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed; Callable
+Coupon Type: Fixed
+
+Security Name: 4.950% Senior Unsubordinated Unsecured Notes due October 15, 2045
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $398.301 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed; Callable
+Coupon Type: Fixed
+
+Security Name: 7.750% Senior Unsubordinated Unsecured Notes due December 1, 2045
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $324.485 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed
+Coupon Type: Fixed
+
+Security Name: 4.750% Senior Unsubordinated Unsecured Notes due November 15, 2046
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $399.892 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed; Callable
+Coupon Type: Fixed
+
+Security Name: 7.900% Senior Unsubordinated Unsecured Notes due December 1, 2095
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $93.453 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed
+Coupon Type: Fixed
+
+Security Name: 8.250% Senior Unsubordinated Unsecured Notes due October 17, 2096
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $77.26 million
+Price\Range: 100%
+Security Features: Attached Guarantees/Guaranteed
+Coupon Type: Fixed
+
+Transaction Features: Exchange Offer

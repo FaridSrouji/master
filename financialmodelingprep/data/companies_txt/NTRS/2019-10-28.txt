@@ -1,0 +1,18 @@
+Northern Trust Corporation has completed a Fixed-Income Offering in the amount of $400 million.. Northern Trust Corporation has completed a Fixed-Income Offering in the amount of $400 million.
+
+Security Name: Depositary Shares
+Security Type: Depositary Receipt (Preferred Security) (Non Convertible)
+Securities Offered: 9,502,700
+Price\Range: $25
+Discount Per Security: $0.25
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: Depositary Shares
+Security Type: Depositary Receipt (Preferred Security) (Non Convertible)
+Securities Offered: 6,497,300
+Price\Range: $25
+Discount Per Security: $0.7875
+Security Features: Callable
+Coupon Type: Fixed
+

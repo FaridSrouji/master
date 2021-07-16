@@ -1,0 +1,11 @@
+Citigroup Inc. has announced a Fixed-Income Offering in the amount of €29 million.. Citigroup Inc. has announced a Fixed-Income Offering in the amount of €29 million.
+
+Security Name: Zero Coupon Senior Notes due October 29, 2049
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: €29 million
+Price\Range: 100%
+Discount Per Security: 0%
+Security Features: Callable; Global MTN; MTN; Zero Coupon
+Coupon Type: Zero
+
+Transaction Features: Regulation S

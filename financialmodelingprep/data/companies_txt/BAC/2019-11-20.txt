@@ -1,0 +1,10 @@
+Bank of America Corporation has completed a Fixed-Income Offering in the amount of $55 million.. Bank of America Corporation has completed a Fixed-Income Offering in the amount of $55 million.
+
+Security Name: Step Up Rate Senior Unsecured Notes due November 25, 2022
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $55 million
+Price\Range: 100%
+Discount Per Security: 0.02%
+Security Features: Callable; MTN
+Coupon Type: Step-Up
+
