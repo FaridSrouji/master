@@ -18,3 +18,23 @@ Discount Per Security: 0.2795%
 Security Features: Callable; Global MTN; MTN
 Coupon Type: Step-Up
 
+JPMorgan Chase & Co. has completed a Fixed-Income Offering in the amount of $7.183 million.. JPMorgan Chase & Co. has completed a Fixed-Income Offering in the amount of $7.183 million.
+
+Security Name: Step Up Senior Unsubordinated Unsecured Notes due October 31, 2039
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $7.183 million
+Price\Range: 100%
+Discount Per Security: 1.8497%
+Security Features: Callable; MTN
+Coupon Type: Step-Up
+
+JPMorgan Chase & Co. has completed a Fixed-Income Offering in the amount of $5.5 million.. JPMorgan Chase & Co. has completed a Fixed-Income Offering in the amount of $5.5 million.
+
+Security Name: Step Up Senior Unsubordinated Unsecured Notes due October 31, 2034 
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $5.5 million
+Price\Range: 100%
+Discount Per Security: 0.2795%
+Security Features: Callable; Global MTN; MTN
+Coupon Type: Step-Up
+

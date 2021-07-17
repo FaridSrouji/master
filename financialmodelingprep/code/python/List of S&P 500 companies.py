@@ -41,3 +41,14 @@ for company in sp500:
     #print(str(one_press_release))
     f.write(company["symbol"] + "\n")
     f.close()
+
+
+# # Get The S&P 500 companies list
+# url = ("https://financialmodelingprep.com/api/v3/sp500_constituent?apikey=8941e8db3f939429e07397564861bc1a")
+# #print(get_jsonparsed_data(url))
+# sp500 = get_jsonparsed_data(url)
+# count=0
+
+# for i in sp500:
+#     count+=1
+#     #print("-----", count, "-----")

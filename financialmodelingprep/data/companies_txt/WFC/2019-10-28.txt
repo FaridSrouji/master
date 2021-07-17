@@ -8,3 +8,13 @@ Discount Per Security: 0.225%
 Security Features: MTN
 Coupon Type: Step-Up
 
+Wells Fargo & Company has completed a Fixed-Income Offering in the amount of $38.125 million.. Wells Fargo & Company has completed a Fixed-Income Offering in the amount of $38.125 million.
+
+Security Name: Step Up Rate Senior Unsecured Notes due April 30, 2021
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $38.125 million
+Price\Range: 100%
+Discount Per Security: 0.225%
+Security Features: MTN
+Coupon Type: Step-Up
+

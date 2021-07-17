@@ -13,3 +13,18 @@ Securities Offered: 8,927,640
 Price\Range: $25
 Discount Per Security: $0.7875
 
+SVB Financial Group has completed a Fixed-Income Offering in the amount of $350 million.. SVB Financial Group has completed a Fixed-Income Offering in the amount of $350 million.
+
+Security Name: Depositary Shares
+Security Type: Depositary Receipt (Preferred Security) (Non Convertible)
+Securities Offered: 5,072,360
+Price\Range: $25
+Discount Per Security: $0.375
+Security Features: Callable
+
+Security Name: Depositary Shares
+Security Type: Depositary Receipt (Preferred Security) (Non Convertible)
+Securities Offered: 8,927,640
+Price\Range: $25
+Discount Per Security: $0.7875
+

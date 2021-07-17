@@ -11,3 +11,16 @@ Discount Per Security: 0.65%
 Security Features: Callable
 Coupon Type: Fixed
 
+Keysight’s 5G Conformance Test Solutions Selected by Bureau Veritas for Global 5G New Radio (NR) Device Certification. Keysight Technologies, Inc. announced that the company’s 5G conformance test solutions have been selected by Bureau Veritas for global 5G new radio (NR) device certification. Bureau Veritas’ Consumer Products Services division selected Keysight’s 5G network emulations solutions to meet their 5G radio frequency (RF) conformance test requirements as specified by the 3GPP 5G NR standard. The extended collaboration enables Bureau Veritas’ to address a wide range of RF demodulation and radio resource management (RRM) test cases validated by the Global Certification Forum (GCF) and PTCRB. Ecosystems, consisting of mobile operators, device makers and test labs, use Keysight's 5G network emulation solutions to address 5G test requirements, accelerating global certification of 5G multi-mode devices in different form factors. By using similar test tools and test cases across the ecosystem, users can achieve rapid validation of device performance and consistent results.
+Keysight Technologies Announces Pricing Of Public Offering Of Senior Unsecured Notes. KEYSIGHT TECHNOLOGIES ANNOUNCES PRICING OF PUBLIC OFFERING OF SENIOR UNSECURED NOTES.KEYSIGHT TECHNOLOGIES INC -  PRICING OF OFFERING OF ITS SENIOR UNSECURED NOTES OF $500 MILLION.KEYSIGHT TECHNOLOGIES INC - NOTES WILL MATURE IN OCTOBER 2029 AND WILL BEAR INTEREST AT AN ANNUAL RATE OF 3.000%.
+Keysight Technologies Files For Potential Notes Offering, Size Not Disclosed. KEYSIGHT TECHNOLOGIES INC FILES FOR POTENTIAL NOTES OFFERING; SIZE NOT DISCLOSED - SEC FILING.
+Keysight Technologies, Inc. has completed a Fixed-Income Offering in the amount of $499.57 million.. Keysight Technologies, Inc. has completed a Fixed-Income Offering in the amount of $499.57 million.
+
+Security Name: 3% Senior Unsubordinated Unsecured Notes due October 30, 2029
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $500 million
+Price\Range: 99.914%
+Discount Per Security: 0.65%
+Security Features: Callable
+Coupon Type: Fixed
+

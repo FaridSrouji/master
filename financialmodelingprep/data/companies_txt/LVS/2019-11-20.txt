@@ -8,3 +8,13 @@ Discount Per Security: 0.6%
 Security Features: Callable
 Coupon Type: Fixed
 
+Las Vegas Sands Corp. has completed a Fixed-Income Offering in the amount of $499.375 million.. Las Vegas Sands Corp. has completed a Fixed-Income Offering in the amount of $499.375 million.
+
+Security Name: 2.90% Senior Unsecured Notes due June 25, 2025
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $500 million
+Price\Range: 99.875%
+Discount Per Security: 0.6%
+Security Features: Callable
+Coupon Type: Fixed
+

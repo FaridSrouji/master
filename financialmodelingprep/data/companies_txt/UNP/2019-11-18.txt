@@ -8,3 +8,13 @@ Security Features: Floating Rate
 Coupon Type: Variable
 
 Transaction Features: Exchange Offer
+Union Pacific Corporation has completed a Fixed-Income Exchange Offer in the amount of $1.84195 billion.. Union Pacific Corporation has completed a Fixed-Income Exchange Offer in the amount of $1.84195 billion.
+
+Security Name: Floating Rate Notes due March 20, 2060
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $1.84195 billion
+Price\Range: 100%
+Security Features: Floating Rate
+Coupon Type: Variable
+
+Transaction Features: Exchange Offer

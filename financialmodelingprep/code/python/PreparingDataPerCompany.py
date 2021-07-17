@@ -33,7 +33,7 @@ df = pd.DataFrame(data=selected_data[0:,1:],
 # Reference for pandas interpolation http://pandas.pydata.org/pandas-docs/stable/missing_data.html
 # Adding missing dates to the dataframe
 df1 = df
-idx = pd.date_range('09-25-2019', '07-15-2021')
+idx = pd.date_range('2019-09-25', '2021-07-16')
 df1.index = pd.DatetimeIndex(df1.index)
 df1 = df1.reindex(idx, fill_value=np.NaN)
 # df1.count() # gives 2518 count
@@ -80,15 +80,16 @@ count_unicode_error = 0
 count_attribute_error = 0
 file_str_companies = '/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/companylist.txt'
 file_opened_companies_list = open(file_str_companies, 'r').read().split('\n')
-current_article_str = ''      
+    
 
 import os 
  
 print (file_str_companies)
 for company in file_opened_companies_list:
     print(company)
-    directory = '/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/financialmodelingprep/data/txt/companies/'+company+'/'
+    directory = '/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/financialmodelingprep/data/companies_txt/'+company+'/'
     print("directory="+directory)
+    current_article_str = ''  
     for filename in os.listdir(directory):
         dateStr = os.path.splitext(filename)[0]
         #print("|"+dateStr+"|")
@@ -99,7 +100,7 @@ for company in file_opened_companies_list:
             pass
         else:
             #print ("did not EXIST")
-            filename = '/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/financialmodelingprep/data/txt/companies/'+company+"/" + filename
+            filename = '/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/financialmodelingprep/data/companies_txt/'+company+"/" + filename
             #print(date)
             print("filename="+filename)
             if os.path.isfile(filename):

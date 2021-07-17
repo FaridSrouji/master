@@ -8,3 +8,13 @@ Discount Per Security: 0.1%
 Security Features: Callable
 Coupon Type: Fixed
 
+AT&T Inc. has completed a Fixed-Income Offering in the amount of $1.265 billion.. AT&T Inc. has completed a Fixed-Income Offering in the amount of $1.265 billion.
+
+Security Name: 4.250% Unsubordinated Unsecured Global Notes due March 1, 2050
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $1.265 billion
+Price\Range: 100%
+Discount Per Security: 0.1%
+Security Features: Callable
+Coupon Type: Fixed
+

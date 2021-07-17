@@ -9,3 +9,14 @@ Security Features: Callable; Global MTN; MTN
 Coupon Type: Step-Up
 
 JPMorgan Chase & Co. Presents at SIFMA Annual Meeting, Nov-19-2019 01:45 PM. JPMorgan Chase & Co. Presents at SIFMA Annual Meeting, Nov-19-2019 01:45 PM. Venue: JW Marriott, 1331 Pennsylvania Avenue, NW, Washington, District Of Columbia, United States. Speakers: Katheryn Rosen, Managing Director, Global Head, Technology and Cybersecurity Policy and Partnerships.
+JPMorgan Chase & Co. has completed a Fixed-Income Offering in the amount of $10.877 million.. JPMorgan Chase & Co. has completed a Fixed-Income Offering in the amount of $10.877 million.
+
+Security Name: Step-Up Rate Unsubordinated Unsecured Notes due November 21, 2029
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $10.877 million
+Price\Range: 100%
+Discount Per Security: 1.062%
+Security Features: Callable; Global MTN; MTN
+Coupon Type: Step-Up
+
+JPMorgan Chase & Co. Presents at SIFMA Annual Meeting, Nov-19-2019 01:45 PM. JPMorgan Chase & Co. Presents at SIFMA Annual Meeting, Nov-19-2019 01:45 PM. Venue: JW Marriott, 1331 Pennsylvania Avenue, NW, Washington, District Of Columbia, United States. Speakers: Katheryn Rosen, Managing Director, Global Head, Technology and Cybersecurity Policy and Partnerships.

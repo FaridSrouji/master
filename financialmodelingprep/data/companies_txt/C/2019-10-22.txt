@@ -7,3 +7,12 @@ Price\Range: 100%
 Security Features: Euro MTN; MTN
 Coupon Type: Fixed
 
+Citigroup Inc. has announced a Fixed-Income Offering in the amount of CHF 325 million.. Citigroup Inc. has announced a Fixed-Income Offering in the amount of CHF 325 million.
+
+Security Name: 0.5% Notes due November 01, 2028
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: CHF 325 million
+Price\Range: 100%
+Security Features: Euro MTN; MTN
+Coupon Type: Fixed
+

@@ -24,6 +24,8 @@ data_list = np.asarray(data_list)
 
 # Selecting date and close value for each day
 selected_data = data_list[:, [0, 4, 5]]
+rng = pd.date_range('2019-09-25', periods=661, freq='D')
+#df = pd.DataFrame({ 'Date': rng, 'Val' : np.random.randn(len(rng))}) 
 
 df = pd.DataFrame(data=selected_data[0:,1:],
              index=selected_data[0:,0],
@@ -33,7 +35,7 @@ df = pd.DataFrame(data=selected_data[0:,1:],
 # Reference for pandas interpolation http://pandas.pydata.org/pandas-docs/stable/missing_data.html
 # Adding missing dates to the dataframe
 df1 = df
-idx = pd.date_range('05-01-2020', '07-12-2021')
+idx = pd.date_range('09-25-2019', '07-16-2021')
 df1.index = pd.DatetimeIndex(df1.index)
 df1 = df1.reindex(idx, fill_value=np.NaN)
 # df1.count() # gives 2518 count
@@ -78,8 +80,6 @@ count_total_articles = 0
 count_main_not_exist = 0               
 count_unicode_error = 0     
 count_attribute_error = 0
-file_str_companies = '/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/financialmodelingprep/Data/companylist.json'
-#print(interpolated_df.)
 current_article_str = ''      
 
 print(interpolated_df.keys)
@@ -96,12 +96,9 @@ for filename in os.listdir(directory):
         print ("ERROR desktop.ini")
         pass
     else:
-        print ("did not EXIST")
-        filename = '/Users/Farid Srouji/Documents/Research/VIX prediction/master/financialmodelingprep/data/txt/' + filename
+        filename = '/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/financialmodelingprep/data/txt/' + filename
         #print(date)
         print("filename="+filename)
-
-
         if os.path.isfile(filename):
             #print ("exist1")
             try:

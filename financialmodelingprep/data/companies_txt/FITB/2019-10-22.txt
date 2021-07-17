@@ -9,3 +9,14 @@ Security Features: Callable
 Coupon Type: Fixed
 
 Fifth Third Bancorp Reports Q3 Earnings Per Share $0.71. Q3 EARNINGS PER SHARE $0.71.Q3 EARNINGS PER SHARE ESTIMATE $0.73 -- REFINITIV IBES DATA.QTRLY NET INTEREST INCOME (U.S. GAAP) $1,242 MILLION VERSUS $1,043 MILLION REPORTED LAST YEAR.QTRLY ROTCE 14.2% VERSUS  13.5% REPORTED LAST YEAR.REMAIN ON-TRACK TO ACHIEVE MB EXPENSE SAVINGS BY 1Q20.
+Fifth Third Bancorp has completed a Fixed-Income Offering in the amount of $749.79 million.. Fifth Third Bancorp has completed a Fixed-Income Offering in the amount of $749.79 million.
+
+Security Name: 2.375% Senior Unsecured Notes due January 28, 2025
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $750 million
+Price\Range: 99.972%
+Discount Per Security: 0.35%
+Security Features: Callable
+Coupon Type: Fixed
+
+Fifth Third Bancorp Reports Q3 Earnings Per Share $0.71. Q3 EARNINGS PER SHARE $0.71.Q3 EARNINGS PER SHARE ESTIMATE $0.73 -- REFINITIV IBES DATA.QTRLY NET INTEREST INCOME (U.S. GAAP) $1,242 MILLION VERSUS $1,043 MILLION REPORTED LAST YEAR.QTRLY ROTCE 14.2% VERSUS  13.5% REPORTED LAST YEAR.REMAIN ON-TRACK TO ACHIEVE MB EXPENSE SAVINGS BY 1Q20.

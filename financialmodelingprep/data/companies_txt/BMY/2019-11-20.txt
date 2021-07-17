@@ -228,3 +228,233 @@ Security Features: Callable
 Coupon Type: Fixed
 
 Transaction Features: Exchange Offer; Regulation S; Rule 144A
+Bristol-Myers Squibb Company has completed a Fixed-Income Exchange Offer in the amount of $19.85 billion.. Bristol-Myers Squibb Company has completed a Fixed-Income Exchange Offer in the amount of $19.85 billion.
+
+Security Name: 2.875% Senior Unsubordinated Unsecured Notes due August 15, 2020
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 2.875% Senior Unsubordinated Unsecured Notes due August 15, 2020
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 3.950% Senior Unsubordinated Unsecured Notes due October 15, 2020
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 3.950% Senior Unsubordinated Unsecured Notes due October 15, 2020
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 2.875% Senior Unsubordinated Unsecured Notes due February 19, 2021
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 2.875% Senior Unsubordinated Unsecured Notes due February 19, 2021
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 2.250% Senior Unsubordinated Unsecured Notes due August 15, 2021
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 2.250% Senior Unsubordinated Unsecured Notes due August 15, 2021
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 3.250% Senior Unsubordinated Unsecured Notes due August 15, 2022
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 3.250% Senior Unsubordinated Unsecured Notes due August 15, 2022
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 3.550% Senior Unsubordinated Unsecured Notes due August 15, 2022
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 3.550% Senior Unsubordinated Unsecured Notes due August 15, 2022
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 2.750% Senior Unsubordinated Unsecured Notes due February 15, 2023
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 2.750% Senior Unsubordinated Unsecured Notes due February 15, 2023
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 3.250% Senior Unsubordinated Unsecured Notes due February 20, 2023
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 3.250% Senior Unsubordinated Unsecured Notes due February 20, 2023
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 4.000% Senior Unsubordinated Unsecured Notes due August 15, 2023
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 4.000% Senior Unsubordinated Unsecured Notes due August 15, 2023
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 3.625% Senior Unsubordinated Unsecured Notes due May 15, 2024
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 3.625% Senior Unsubordinated Unsecured Notes due May 15, 2024
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 3.875% Senior Unsubordinated Unsecured Notes due August 15, 2025
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 3.875% Senior Unsubordinated Unsecured Notes due August 15, 2025
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 3.450% Senior Unsubordinated Unsecured Notes due November 15, 2027
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 3.450% Senior Unsubordinated Unsecured Notes due November 15, 2027
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 3.900% Senior Unsubordinated Unsecured Notes due February 20, 2028
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 3.900% Senior Unsubordinated Unsecured Notes due February 20, 2028
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 5.700% Senior Unsubordinated Unsecured Notes due October 15, 2040
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 5.700% Senior Unsubordinated Unsecured Notes due October 15, 2040
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 5.250% Senior Unsubordinated Unsecured Notes due August 15, 2043
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 5.250% Senior Unsubordinated Unsecured Notes due August 15, 2043
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 4.625% Senior Unsubordinated Unsecured Notes due May 15, 2044
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 4.625% Senior Unsubordinated Unsecured Notes due May 15, 2044
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 5.000% Senior Unsubordinated Unsecured Notes due August 15, 2045
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 5.000% Senior Unsubordinated Unsecured Notes due August 15, 2045
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 4.350% Senior Unsubordinated Unsecured Notes due November 15, 2047
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 4.350% Senior Unsubordinated Unsecured Notes due November 15, 2047
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Security Name: 4.550% Senior Unsubordinated Unsecured Notes due February 20, 2048
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Coupon Type: Fixed
+
+Security Name: 4.550% Senior Unsubordinated Unsecured Notes due February 20, 2048
+Security Type: Corporate Bond/Note (Non Convertible)
+Price\Range: 100%
+Security Features: Callable
+Coupon Type: Fixed
+
+Transaction Features: Exchange Offer; Regulation S; Rule 144A

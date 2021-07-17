@@ -18,3 +18,23 @@ Discount Per Security: 0.65%
 Security Features: Callable; MTN
 Coupon Type: Step-Up
 
+Wells Fargo & Company has completed a Fixed-Income Offering in the amount of $34.362 million.. Wells Fargo & Company has completed a Fixed-Income Offering in the amount of $34.362 million.
+
+Security Name: Step-Up Senior Unsecured Notes due November 29, 2022
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $34.362 million
+Price\Range: 100%
+Discount Per Security: 0.4%
+Security Features: Callable; MTN
+Coupon Type: Step-Up
+
+Wells Fargo & Company has completed a Fixed-Income Offering in the amount of $15.29 million.. Wells Fargo & Company has completed a Fixed-Income Offering in the amount of $15.29 million.
+
+Security Name: Step Up Rate Senior Unsecured Notes due November 27, 2024
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $15.29 million
+Price\Range: 100%
+Discount Per Security: 0.65%
+Security Features: Callable; MTN
+Coupon Type: Step-Up
+

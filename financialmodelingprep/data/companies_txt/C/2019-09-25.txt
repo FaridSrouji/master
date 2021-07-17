@@ -8,3 +8,13 @@ Discount Per Security: 1.75%
 Security Features: Callable; MTN
 Coupon Type: Step-Up
 
+Citigroup Inc. has completed a Fixed-Income Offering in the amount of $5.072 million.. Citigroup Inc. has completed a Fixed-Income Offering in the amount of $5.072 million.
+
+Security Name: Step-Up Senior Unsecured Notes due September 30, 2034
+Security Type: Corporate Bond/Note (Non Convertible)
+Principal Amount: $5.072 million
+Price\Range: 100%
+Discount Per Security: 1.75%
+Security Features: Callable; MTN
+Coupon Type: Step-Up
+

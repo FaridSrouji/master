@@ -29,7 +29,7 @@ def afterHours(theDate, check_hours=True):
         #print("weekend")
         return True
     #print("false")
-    return False    
+    return False
 
 def getDate(theDate):
     if(afterHours(theDate)):
@@ -67,37 +67,36 @@ def get_jsonparsed_data(url):
     data = response.read().decode("utf-8")
     return json.loads(data)
 
-# Get The S&P 500 companies list
-url = ("https://financialmodelingprep.com/api/v3/sp500_constituent?apikey=8941e8db3f939429e07397564861bc1a")
-#print(get_jsonparsed_data(url))
-sp500 = get_jsonparsed_data(url)
-count=0
-
-for i in sp500:
-    count+=1
-    #print("-----", count, "-----")
 
 import os
 
 #from datetime import datetime
-companies2pressrelease = [0] * 505
 import pandas as pd
-df = pd.DataFrame()
+df = pd.DataFrame(columns=['companies', 'count'])
+mylist = pd.read_csv('/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/companylist.txt', compression=None)
+print(mylist)
+print(type(mylist))
+df[['companies']] = mylist
 
-date2count=0
-for company in sp500:
-    print("company="+str(company["symbol"]))
-    url1 = ("https://financialmodelingprep.com/api/v3/press-releases/%s?limit=10000&apikey=8941e8db3f939429e07397564861bc1a" % company["symbol"])
-    dir_path = '/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/financialmodelingprep/data/companies_txt/' + company["symbol"]
+print(df[['companies']])
+mylist = df[['companies']]
+print(type(mylist))
+
+for index, row in df.iterrows():
+    
+    print(row['companies'])
+    company = row['companies']
+    url1 = ("https://financialmodelingprep.com/api/v3/press-releases/%s?limit=10000&apikey=8941e8db3f939429e07397564861bc1a" % company)
+    dir_path = '/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/financialmodelingprep/data/companies_txt/' +  company
+    print("dir_path="+dir_path)
     if (os.path.isdir(dir_path) == False):
         os.mkdir(dir_path)
     press_release = get_jsonparsed_data(url1)
     #print (press_release)
-    df[company["symbol"]] = len(press_release)
-    print("number of elelments="+str(len(press_release)))
+    row['count'] = len(press_release)
+
     for one_press_release in press_release:
 
-        #print(one_press_release)
         date_time_str = one_press_release['date']
 
         dtobj_tz = tz_chicago.localize(datetime.datetime.strptime(date_time_str, '%Y-%m-%d %H:%M:%S'))
@@ -115,9 +114,9 @@ for company in sp500:
         file_str = dir_path + "/" + fileDateStr + '.txt'
         #print(file_str)
         f = open(file_str, "a", encoding='utf-8')
-        #print(str(one_press_release))
         f.write(one_press_release["title"] + ". " + one_press_release["text"] + "\n")
         f.close()
 
+print(df)
 df.to_pickle("/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/financialmodelingprep/data/pkl/press_release_companies_statistics.pkl")
 df.to_csv("/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/financialmodelingprep/data/csv/press_release_companies_statistics.csv")

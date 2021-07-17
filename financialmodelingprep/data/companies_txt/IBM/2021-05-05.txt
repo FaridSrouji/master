@@ -1,1 +1,2 @@
 Red Hat Breaks Down Barriers to Building Applications for Kubernetes Environments with Developer Sandbox for Red Hat OpenShift. RALEIGH, N.C.--(BUSINESS WIRE)--RED HAT ANNOUNCES NEW CAPABILITIES ACROSS ITS PORTFOLIO OF DEVELOPER TOOLS FOR BUILDING KUBERNETES APPLICATIONS.
+Red Hat Breaks Down Barriers to Building Applications for Kubernetes Environments with Developer Sandbox for Red Hat OpenShift. RALEIGH, N.C.--(BUSINESS WIRE)--RED HAT ANNOUNCES NEW CAPABILITIES ACROSS ITS PORTFOLIO OF DEVELOPER TOOLS FOR BUILDING KUBERNETES APPLICATIONS.

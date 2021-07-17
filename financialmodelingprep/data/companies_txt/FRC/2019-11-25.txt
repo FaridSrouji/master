@@ -7,3 +7,12 @@ Price\Range: $25
 Security Features: Callable
 Coupon Type: Fixed
 
+First Republic Bank has completed a Fixed-Income Offering in the amount of $350 million.. First Republic Bank has completed a Fixed-Income Offering in the amount of $350 million.
+
+Security Name: 4.7% Noncumulative Perpetual Preferred Stock
+Security Type: Depositary Receipt (Preferred Security) (Non Convertible)
+Securities Offered: 14,000,000
+Price\Range: $25
+Security Features: Callable
+Coupon Type: Fixed
+
