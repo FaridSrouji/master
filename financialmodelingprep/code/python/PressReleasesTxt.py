@@ -3,7 +3,7 @@ import datetime, pytz, holidays
 from time import tzname
 import pandas_market_calendars as mcal
 cbot = mcal.get_calendar('CBOT_Equity')
-cbot.valid_days(start_date='2019-09-25', end_date='2021-07-12')
+cbot.valid_days(start_date='2019-09-25', end_date='2021-07-15')
 
 
 tz_chicago = pytz.timezone('America/Chicago')

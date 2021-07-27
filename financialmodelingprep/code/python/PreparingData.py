@@ -11,7 +11,7 @@ from datetime import datetime
 ################################################################################################
 ## Preparing VIX data
 # Reading VIX index prices csv file
-with open('/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/financialmodelingprep/VIX.csv', 'r') as csvfile:
+with open('/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/globaldata/VIX.csv', 'r') as csvfile:
     spamreader = csv.reader(csvfile, delimiter=',')
     # Converting the csv file reader to a lists 
     data_list = list(spamreader)
@@ -21,10 +21,11 @@ header = data_list[0]
 data_list = data_list[1:] 
 
 data_list = np.asarray(data_list)
+print(data_list)
 
 # Selecting date and close value for each day
 selected_data = data_list[:, [0, 4, 5]]
-rng = pd.date_range('2019-09-25', periods=661, freq='D')
+# rng = pd.date_range('2019-09-25', periods=661, freq='D')
 #df = pd.DataFrame({ 'Date': rng, 'Val' : np.random.randn(len(rng))}) 
 
 df = pd.DataFrame(data=selected_data[0:,1:],
@@ -32,14 +33,15 @@ df = pd.DataFrame(data=selected_data[0:,1:],
                                 columns=['close', 'adj close'],
                                         dtype='float64')
 
+print(df)
 # Reference for pandas interpolation http://pandas.pydata.org/pandas-docs/stable/missing_data.html
 # Adding missing dates to the dataframe
-df1 = df
-idx = pd.date_range('09-25-2019', '07-16-2021')
-df1.index = pd.DatetimeIndex(df1.index)
-df1 = df1.reindex(idx, fill_value=np.NaN)
+# df1 = df
+# idx = pd.date_range('09-25-2019', '07-16-2021')
+# df1.index = pd.DatetimeIndex(df1.index)
+# df1 = df1.reindex(idx, fill_value=np.NaN)
 # df1.count() # gives 2518 count
-interpolated_df = df1.interpolate()
+interpolated_df = df.interpolate()
 interpolated_df.count() # gives 3651 count
 
 # Removing extra date rows added in data for calculating interpolation
