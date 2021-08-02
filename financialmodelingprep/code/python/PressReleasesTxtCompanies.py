@@ -73,7 +73,7 @@ import os
 #from datetime import datetime
 import pandas as pd
 df = pd.DataFrame(columns=['companies', 'count'])
-mylist = pd.read_csv('/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/companylist.txt', compression=None)
+mylist = pd.read_csv('/Users/Farid Srouji/Documents/Research/master/globaldata/companylist.txt', compression=None)
 print(mylist)
 print(type(mylist))
 df[['companies']] = mylist
@@ -87,7 +87,7 @@ for index, row in df.iterrows():
     print(row['companies'])
     company = row['companies']
     url1 = ("https://financialmodelingprep.com/api/v3/press-releases/%s?limit=10000&apikey=8941e8db3f939429e07397564861bc1a" % company)
-    dir_path = '/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/financialmodelingprep/data/companies_txt/' +  company
+    dir_path = '/Users/Farid Srouji/Documents/Research/master/financialmodelingprep/data/companies_txt/' +  company
     print("dir_path="+dir_path)
     if (os.path.isdir(dir_path) == False):
         os.mkdir(dir_path)
@@ -118,5 +118,5 @@ for index, row in df.iterrows():
         f.close()
 
 print(df)
-df.to_pickle("/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/financialmodelingprep/data/pkl/press_release_companies_statistics.pkl")
-df.to_csv("/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/financialmodelingprep/data/csv/press_release_companies_statistics.csv")
+df.to_pickle("/Users/Farid Srouji/Documents/Research/master/financialmodelingprep/data/pkl/press_release_companies_statistics.pkl")
+df.to_csv("/Users/Farid Srouji/Documents/Research/master/financialmodelingprep/data/csv/press_release_companies_statistics.csv")

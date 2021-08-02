@@ -11,7 +11,7 @@ from datetime import datetime
 ################################################################################################
 ## Preparing VIX data
 # Reading VIX index prices csv file
-with open('/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/financialmodelingprep/VIX.csv', 'r') as csvfile:
+with open('/Users/Farid Srouji/Documents/Research/master/globaldata/VIX.csv', 'r') as csvfile:
     spamreader = csv.reader(csvfile, delimiter=',')
     # Converting the csv file reader to a lists 
     data_list = list(spamreader)
@@ -32,12 +32,12 @@ df = pd.DataFrame(data=selected_data[0:,1:],
 
 # Reference for pandas interpolation http://pandas.pydata.org/pandas-docs/stable/missing_data.html
 # Adding missing dates to the dataframe
-df1 = df
-idx = pd.date_range('2019-09-25', '2021-07-16')
-df1.index = pd.DatetimeIndex(df1.index)
-df1 = df1.reindex(idx, fill_value=np.NaN)
+# df1 = df
+# idx = pd.date_range('2019-09-25', '2021-07-16')
+# df1.index = pd.DatetimeIndex(df1.index)
+# df1 = df1.reindex(idx, fill_value=np.NaN)
 # df1.count() # gives 2518 count
-interpolated_df = df1.interpolate()
+interpolated_df = df.interpolate()
 interpolated_df.count() # gives 3651 count
 
 # Removing extra date rows added in data for calculating interpolation
@@ -78,7 +78,7 @@ count_total_articles = 0
 count_main_not_exist = 0               
 count_unicode_error = 0     
 count_attribute_error = 0
-file_str_companies = '/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/companylist.txt'
+file_str_companies = '/Users/Farid Srouji/Documents/Research/master/globaldata/companylist.txt'
 file_opened_companies_list = open(file_str_companies, 'r').read().split('\n')
     
 
@@ -87,7 +87,7 @@ import os
 print (file_str_companies)
 for company in file_opened_companies_list:
     print(company)
-    directory = '/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/financialmodelingprep/data/companies_txt/'+company+'/'
+    directory = '/Users/Farid Srouji/Documents/Research/master/financialmodelingprep/data/companies_txt/'+company+'/'
     print("directory="+directory)
     current_article_str = ''  
     for filename in os.listdir(directory):
@@ -100,7 +100,7 @@ for company in file_opened_companies_list:
             pass
         else:
             #print ("did not EXIST")
-            filename = '/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/financialmodelingprep/data/companies_txt/'+company+"/" + filename
+            filename = '/Users/Farid Srouji/Documents/Research/master/financialmodelingprep/data/companies_txt/'+company+"/" + filename
             #print(date)
             print("filename="+filename)
             if os.path.isfile(filename):
@@ -140,14 +140,14 @@ print("count_unicode_error=")
 print(count_unicode_error)
 
 # Saving the data as pickle file
-interpolated_df.to_pickle('/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/financialmodelingprep/data/pkl/pickled_filtered_lead_para_sp500_clean_companies.pkl')  
+interpolated_df.to_pickle('/Users/Farid Srouji/Documents/Research/master/financialmodelingprep/data/pkl/pickled_filtered_lead_para_sp500_clean_companies.pkl')  
 
 # Save pandas frame in csv form
-interpolated_df.to_csv('/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/financialmodelingprep/data/pkl/sample_interpolated_df_filtered_lead_para_sp500_clean_companies.csv',
+interpolated_df.to_csv('/Users/Farid Srouji/Documents/Research/master/financialmodelingprep/data/pkl/sample_interpolated_df_filtered_lead_para_sp500_clean_companies.csv',
                        sep='\t', encoding='utf-8')
 
 # Reading the data as pickle file
-dataframe_read = pd.read_pickle('/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/financialmodelingprep/data/pkl/pickled_filtered_lead_para_sp500_clean_companies.pkl')
+dataframe_read = pd.read_pickle('/Users/Farid Srouji/Documents/Research/master/financialmodelingprep/data/pkl/pickled_filtered_lead_para_sp500_clean_companies.pkl')
 
 print("Finished")
 #################################################################################
