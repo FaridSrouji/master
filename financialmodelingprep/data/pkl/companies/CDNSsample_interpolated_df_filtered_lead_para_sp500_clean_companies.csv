@@ -1,0 +1,555 @@
+	close	adj close	articles
+2019-09-25	15.96	15.96	
+2019-09-26	16.07	16.07	
+2019-09-27	17.219999	17.219999	
+2019-09-30	16.24	16.24	"Adesto Technologies Corporation and Cadence Design Systems, Inc. Collaborate to Expand xSPI Ecosystem for Emerging IoT Devices. Adesto Technologies Corporation and Cadence Design Systems, Inc. on October 1, 2019, announced they have collaborated to expand the ecosystem around the Expanded Serial Peripheral Interface (xSPI) communication protocol to enable higher transfer rates and lower latency for flash memory in internet of things (IoT) devices. The Cadence®Memory Model for xSPI is the first commercially available model that allows customers to ensure optimal use of the octal NOR flash with the host processor in an xSPI system, including support for Adesto®’s EcoXiP™ octal xSPI non-volatile memory (NVM). Flash memory devices in IoT systems require increasingly higher transfer rates and lower latency, especially as these products now frequently run code-intensive wireless stacks and support local artificial intelligence (AI) processing. Expanding the flash SPI accesses from the traditional four I/Os (quad SPI) to eight I/Os (octal SPI) with the xSPI serial synchronous protocol increases the serial NOR flash throughput and provides a more efficient solution for emerging applications. One of the first NOR flash devices to support xSPI, Adesto’s EcoXiP NVM eliminates the need for expensive on-chip embedded flash in a broad range of emerging IoT applications. It hits the sweet spot for power, system cost and performance, with significantly lower power consumption compared to other octal devices, and offers dramatically higher performance versus quad SPI devices. The Cadence memory model for xSPI is part of the Cadence Verification Suite and is optimized for Xcelium™ Parallel Logic Simulation, along with supported third-party simulators. The suite is comprised of best-in-class core engines and verification fabric technologies that support the Cadence Intelligent System Design™ strategy, enabling SoC design excellence.
+. Adesto Technologies Corporation and Cadence Design Systems, Inc. Collaborate to Expand xSPI Ecosystem for Emerging IoT Devices. Adesto Technologies Corporation and Cadence Design Systems, Inc. on October 1, 2019, announced they have collaborated to expand the ecosystem around the Expanded Serial Peripheral Interface (xSPI) communication protocol to enable higher transfer rates and lower latency for flash memory in internet of things (IoT) devices. The Cadence®Memory Model for xSPI is the first commercially available model that allows customers to ensure optimal use of the octal NOR flash with the host processor in an xSPI system, including support for Adesto®’s EcoXiP™ octal xSPI non-volatile memory (NVM). Flash memory devices in IoT systems require increasingly higher transfer rates and lower latency, especially as these products now frequently run code-intensive wireless stacks and support local artificial intelligence (AI) processing. Expanding the flash SPI accesses from the traditional four I/Os (quad SPI) to eight I/Os (octal SPI) with the xSPI serial synchronous protocol increases the serial NOR flash throughput and provides a more efficient solution for emerging applications. One of the first NOR flash devices to support xSPI, Adesto’s EcoXiP NVM eliminates the need for expensive on-chip embedded flash in a broad range of emerging IoT applications. It hits the sweet spot for power, system cost and performance, with significantly lower power consumption compared to other octal devices, and offers dramatically higher performance versus quad SPI devices. The Cadence memory model for xSPI is part of the Cadence Verification Suite and is optimized for Xcelium™ Parallel Logic Simulation, along with supported third-party simulators. The suite is comprised of best-in-class core engines and verification fabric technologies that support the Cadence Intelligent System Design™ strategy, enabling SoC design excellence.
+"
+2019-10-01	18.559999	18.559999	
+2019-10-02	20.559999	20.559999	
+2019-10-03	19.120001	19.120001	"Cadence Design Systems, Inc., Q3 2019 Earnings Call, Oct 21, 2019. Cadence Design Systems, Inc., Q3 2019 Earnings Call, Oct 21, 2019
+. Cadence Design Systems, Inc., Q3 2019 Earnings Call, Oct 21, 2019. Cadence Design Systems, Inc., Q3 2019 Earnings Call, Oct 21, 2019
+"
+2019-10-04	17.040001	17.040001	
+2019-10-07	17.860001	17.860001	"Cadence Design Systems, Inc. Collaborates with Arm and Samsung Foundry on Delivery of 5LPE Flow for Mission-Critical Applications Using Next-Generation 'Hercules' CPU. Cadence Design Systems, Inc. announced that it has collaborated with Samsung Foundry and Arm to deliver a complete, high-performance digital implementation and signoff full flow for the rapid implementation of the next-generation Arm ‘Hercules’ CPU using the Samsung Foundry 5nm Low-Power Early (5LPE) process technology. The Cadence® flow that has been optimized for the Samsung Foundry 5LPE process can enable customers to deliver mission-critical, high-performance and high-quality designs to market faster. A corresponding rapid adoption kit (RAK) has also been developed to facilitate easy use of the 5LPE flow for customers. The flow has been finely tuned to deliver the power and performance benefits of the Samsung Foundry 5LPE process technology. The complete Cadence RTL-to-GDS flow includes the Genus Synthesis Solution, Innovus Implementation System, Joules RTL Power Solution, Modus DFT Software Solution, Quantus Extraction Solution, Tempus Timing Signoff Solution, Voltus IC Power Integrity Solution, Physical Verification System, Conformal Equivalence Checking, Conformal Low Power, Litho Physical Analyzer and Cadence CMP Predictor.
+. Cadence Design Systems, Inc. Collaborates with Arm and Samsung Foundry on Delivery of 5LPE Flow for Mission-Critical Applications Using Next-Generation 'Hercules' CPU. Cadence Design Systems, Inc. announced that it has collaborated with Samsung Foundry and Arm to deliver a complete, high-performance digital implementation and signoff full flow for the rapid implementation of the next-generation Arm ‘Hercules’ CPU using the Samsung Foundry 5nm Low-Power Early (5LPE) process technology. The Cadence® flow that has been optimized for the Samsung Foundry 5LPE process can enable customers to deliver mission-critical, high-performance and high-quality designs to market faster. A corresponding rapid adoption kit (RAK) has also been developed to facilitate easy use of the 5LPE flow for customers. The flow has been finely tuned to deliver the power and performance benefits of the Samsung Foundry 5LPE process technology. The complete Cadence RTL-to-GDS flow includes the Genus Synthesis Solution, Innovus Implementation System, Joules RTL Power Solution, Modus DFT Software Solution, Quantus Extraction Solution, Tempus Timing Signoff Solution, Voltus IC Power Integrity Solution, Physical Verification System, Conformal Equivalence Checking, Conformal Low Power, Litho Physical Analyzer and Cadence CMP Predictor.
+"
+2019-10-08	20.280001	20.280001	
+2019-10-09	18.639999	18.639999	
+2019-10-10	17.57	17.57	
+2019-10-11	15.58	15.58	
+2019-10-14	14.57	14.57	
+2019-10-15	13.54	13.54	
+2019-10-16	13.68	13.68	"Cadence Automotive Reference Flow Certified by Samsung Foundry for Advanced-Node Design Creation. Cadence Design Systems, Inc. announced that Samsung Foundry certified a new Cadence® reference flow for the creation of advanced-node automotive designs. Cadence and Samsung Foundry collaborated on the development of the reference design, which was validated using the Samsung Foundry 8nm Low-Power Plus (8LPP) process technology. The certified flow is available on a wide range of Samsung Foundry nodes and includes the Cadence digital implementation and signoff, verification and custom IC design suites, offering customers optimal power, performance and area (PPA) and a faster path to achieving automotive system-on-chip (SoC) safety, quality and reliability targets. For more information, customers can contact Samsung Foundry. The certified Cadence automotive flow includes the following technologies: Digital and signoff suite, which enables the fastest turnaround time (TAT) and optimal design closure without expensive margins or iterations. Featuring the Innovus™ Implementation System, Genus™ Synthesis Solution, Modus DFT Software Solution, Tempus™ Timing Signoff Solution, Liberate™ Characterization Solution and the Voltus™ IC Power Integrity Solution, the complete RTL-to-GDSII full flow meets the requirements for automotive safety and reliability. Verification suite with automotive safety technology for fault campaigns, including Xcelium™ Parallel Logic Simulation and the JasperGold™ Formal Verification Platform, as well as the vManager Metric-Driven Signoff Platform, which provides a smooth transition from functional verification to an FMEDA-based flow for safety verification. Custom IC design suite featuring the Legato™ Reliability Solution, which combines the best-in-class Virtuoso® and Spectre® technologies to overcome design roadblocks and minimize failures in the field due to manufacturing defects, device aging, electromigration, process variation, and thermal and packaging effects. The Cadence automotive reference flow, including the digital and signoff, verification and custom IC design suites, provides customers with a faster path to design closure and better predictability.
+. Cadence Automotive Reference Flow Certified by Samsung Foundry for Advanced-Node Design Creation. Cadence Design Systems, Inc. announced that Samsung Foundry certified a new Cadence® reference flow for the creation of advanced-node automotive designs. Cadence and Samsung Foundry collaborated on the development of the reference design, which was validated using the Samsung Foundry 8nm Low-Power Plus (8LPP) process technology. The certified flow is available on a wide range of Samsung Foundry nodes and includes the Cadence digital implementation and signoff, verification and custom IC design suites, offering customers optimal power, performance and area (PPA) and a faster path to achieving automotive system-on-chip (SoC) safety, quality and reliability targets. For more information, customers can contact Samsung Foundry. The certified Cadence automotive flow includes the following technologies: Digital and signoff suite, which enables the fastest turnaround time (TAT) and optimal design closure without expensive margins or iterations. Featuring the Innovus™ Implementation System, Genus™ Synthesis Solution, Modus DFT Software Solution, Tempus™ Timing Signoff Solution, Liberate™ Characterization Solution and the Voltus™ IC Power Integrity Solution, the complete RTL-to-GDSII full flow meets the requirements for automotive safety and reliability. Verification suite with automotive safety technology for fault campaigns, including Xcelium™ Parallel Logic Simulation and the JasperGold™ Formal Verification Platform, as well as the vManager Metric-Driven Signoff Platform, which provides a smooth transition from functional verification to an FMEDA-based flow for safety verification. Custom IC design suite featuring the Legato™ Reliability Solution, which combines the best-in-class Virtuoso® and Spectre® technologies to overcome design roadblocks and minimize failures in the field due to manufacturing defects, device aging, electromigration, process variation, and thermal and packaging effects. The Cadence automotive reference flow, including the digital and signoff, verification and custom IC design suites, provides customers with a faster path to design closure and better predictability.
+"
+2019-10-17	13.79	13.79	
+2019-10-18	14.25	14.25	
+2019-10-21	14.0	14.0	"Cadence Announces NVMe 1.4 Verification IP for High-Performance Computing. Cadence Design Systems, Inc. announced the availability of Verification IP (VIP) in support of the new NVM Express 1.4 (NVMe) protocol. The Cadence® VIP for NVMe 1.4 enables designers to quickly and thoroughly verify their storage, data center and high-performance computing (HPC) system-on-chip (SoC) designs with less effort and a greater assurance that the SoC will meet the protocol standards. The new Cadence VIP for NVMe 1.4 provides customers with a comprehensive verification solution to develop high-quality NVMe host and device controllers quickly, helping reduce overall time to market. The NVMe 1.4 VIP supports built-in integration with the Cadence VIP for PCI Expres (PCIe) 5.0 and includes a complete UVM SystemVerilog API for fast integration and SoC-level test creation. Built with Cadence TripleCheck technology, customers have access to a verification plan with measurable objectives linked to the specification features and a comprehensive test suite with ready-to-run tests to ensure support for the specification. The new NVMe 1.4 specification is designed to address the growing needs of enterprise systems that utilize PCIe-based solid-state storage.
+. Cadence Post Q3 EPS Of $0.36. CADENCE REPORTS THIRD QUARTER 2019 FINANCIAL RESULTS.Q3 EARNINGS PER SHARE $0.36.SEES FY 2019 REVENUE $2.327 BILLION TO $2.337 BILLION.SEES Q4 2019 REVENUE $590 MILLION TO $600 MILLION.Q3 REVENUE $580 MILLION VERSUS REFINITIV IBES ESTIMATE OF $576.4 MILLION.Q3 EARNINGS PER SHARE ESTIMATE $0.51 -- REFINITIV IBES DATA.SEES Q4 GAAP EARNINGS PER SHARE $0.33 TO $0.35.ON A GAAP BASIS, NET INCOME PER DILUTED SHARE FOR 2019 IS EXPECTED TO BE IN RANGE OF $1.50 TO $1.52.NON-GAAP  NET INCOME PER DILUTED SHARE FOR 2019 IS EXPECTED TO BE IN RANGE OF $2.18 TO $2.20.SEES Q4 NON-GAAP EARNINGS PER SHARE $0.52 TO $0.54.FY2019 EARNINGS PER SHARE VIEW $2.15, REVENUE VIEW $2.33 BILLION -- REFINITIV IBES DATA.Q4 EARNINGS PER SHARE VIEW $0.52, REVENUE VIEW $592.5 MILLION -- REFINITIV IBES DATA.QTRLY  NON-GAAP EARNINGS PER SHARE $0.54.RAISING OUTLOOK FOR REVENUE, OPERATING MARGIN, EARNINGS AND CASH FROM OPERATIONS FOR YEAR.
+. Cadence Design Systems, Inc. Presents at 16th Annual International Wafer-Level Packaging Conference, Oct-22-2019 through Oct-24-2019. Cadence Design Systems, Inc. Presents at 16th Annual International Wafer-Level Packaging Conference, Oct-22-2019 through Oct-24-2019. Venue: Double Tree by Hilton San Jose, San Jose, California, United States. Presentation Date & Speakers: Oct-22-2019, Bill Acito, Narayanan TV.
+. Cadence Announces NVMe 1.4 Verification IP for High-Performance Computing. Cadence Design Systems, Inc. announced the availability of Verification IP (VIP) in support of the new NVM Express 1.4 (NVMe) protocol. The Cadence® VIP for NVMe 1.4 enables designers to quickly and thoroughly verify their storage, data center and high-performance computing (HPC) system-on-chip (SoC) designs with less effort and a greater assurance that the SoC will meet the protocol standards. The new Cadence VIP for NVMe 1.4 provides customers with a comprehensive verification solution to develop high-quality NVMe host and device controllers quickly, helping reduce overall time to market. The NVMe 1.4 VIP supports built-in integration with the Cadence VIP for PCI Expres (PCIe) 5.0 and includes a complete UVM SystemVerilog API for fast integration and SoC-level test creation. Built with Cadence TripleCheck technology, customers have access to a verification plan with measurable objectives linked to the specification features and a comprehensive test suite with ready-to-run tests to ensure support for the specification. The new NVMe 1.4 specification is designed to address the growing needs of enterprise systems that utilize PCIe-based solid-state storage.
+. Cadence Post Q3 EPS Of $0.36. CADENCE REPORTS THIRD QUARTER 2019 FINANCIAL RESULTS.Q3 EARNINGS PER SHARE $0.36.SEES FY 2019 REVENUE $2.327 BILLION TO $2.337 BILLION.SEES Q4 2019 REVENUE $590 MILLION TO $600 MILLION.Q3 REVENUE $580 MILLION VERSUS REFINITIV IBES ESTIMATE OF $576.4 MILLION.Q3 EARNINGS PER SHARE ESTIMATE $0.51 -- REFINITIV IBES DATA.SEES Q4 GAAP EARNINGS PER SHARE $0.33 TO $0.35.ON A GAAP BASIS, NET INCOME PER DILUTED SHARE FOR 2019 IS EXPECTED TO BE IN RANGE OF $1.50 TO $1.52.NON-GAAP  NET INCOME PER DILUTED SHARE FOR 2019 IS EXPECTED TO BE IN RANGE OF $2.18 TO $2.20.SEES Q4 NON-GAAP EARNINGS PER SHARE $0.52 TO $0.54.FY2019 EARNINGS PER SHARE VIEW $2.15, REVENUE VIEW $2.33 BILLION -- REFINITIV IBES DATA.Q4 EARNINGS PER SHARE VIEW $0.52, REVENUE VIEW $592.5 MILLION -- REFINITIV IBES DATA.QTRLY  NON-GAAP EARNINGS PER SHARE $0.54.RAISING OUTLOOK FOR REVENUE, OPERATING MARGIN, EARNINGS AND CASH FROM OPERATIONS FOR YEAR.
+. Cadence Design Systems, Inc. Presents at 16th Annual International Wafer-Level Packaging Conference, Oct-22-2019 through Oct-24-2019. Cadence Design Systems, Inc. Presents at 16th Annual International Wafer-Level Packaging Conference, Oct-22-2019 through Oct-24-2019. Venue: Double Tree by Hilton San Jose, San Jose, California, United States. Presentation Date & Speakers: Oct-22-2019, Bill Acito, Narayanan TV.
+"
+2019-10-22	14.46	14.46	
+2019-10-23	14.01	14.01	"Cadence Design Systems, Inc. Presents at 6th Annual Bernstein Technology Innovation Summit, Nov-06-2019 10:40 AM. Cadence Design Systems, Inc. Presents at 6th Annual Bernstein Technology Innovation Summit, Nov-06-2019 10:40 AM. Venue: The Westin New York at Times Square, 270 west 43rd street, New York, New York, United States. Speakers: Nimish H. Modi, Senior Vice President of Marketing & Business Development.
+. Cadence Design Systems, Inc. Presents at 6th Annual Bernstein Technology Innovation Summit, Nov-06-2019 10:40 AM. Cadence Design Systems, Inc. Presents at 6th Annual Bernstein Technology Innovation Summit, Nov-06-2019 10:40 AM. Venue: The Westin New York at Times Square, 270 west 43rd street, New York, New York, United States. Speakers: Nimish H. Modi, Senior Vice President of Marketing & Business Development.
+"
+2019-10-24	13.71	13.71	
+2019-10-25	12.65	12.65	"Cadence To Seek Investments. Cadence Design Systems, Inc. (NasdaqGS:CDNS) will look for investment opportunities. Cadence Senior Vice President and Chief Financial Officer John Wall said, ""We are raising our outlook for revenue, operating margin, earnings and cash from operations for the year while we continue to invest in proliferation opportunities with market-shaping customers"".
+. Cadence To Seek Investments. Cadence Design Systems, Inc. (NasdaqGS:CDNS) will look for investment opportunities. Cadence Senior Vice President and Chief Financial Officer John Wall said, ""We are raising our outlook for revenue, operating margin, earnings and cash from operations for the year while we continue to invest in proliferation opportunities with market-shaping customers"".
+"
+2019-10-28	13.11	13.11	
+2019-10-29	13.2	13.2	
+2019-10-30	12.33	12.33	
+2019-10-31	13.22	13.22	
+2019-11-01	12.3	12.3	
+2019-11-04	12.83	12.83	
+2019-11-05	13.1	13.1	"Cadence Design Systems, Inc. Announces Tempus™ Power Integrity Solution. Cadence Design Systems, Inc. announced the Tempus™ Power Integrity Solution, comprehensive static timing/signal integrity analysis and power integrity analysis tool, which enables engineers to create reliable designs at 7nm and below. The Tempus Power Integrity Solution is the result of an integration between the widely used Cadence Tempus Timing Signoff Solution and the Voltus™ IC Power Integrity Solution. Using the new tool, customers can significantly lower IR drop design margins without sacrificing signoff quality, thus improving power and area. Early use cases demonstrated that the Tempus Power Integrity Solution correctly identified IR drop errors, avoiding silicon failure prior to tapeout and improving the maximum frequency in silicon by up to 10%. The new Tempus Power Integrity Solution combines the proven Cadence Tempus Timing Signoff Solution and Voltus IC Power Integrity Solution signoff engines, which let the designer assess the overall timing impact on IR drop, reducing the engineering workload and speeding design closure. The tool’s other key benefits include: Smaller IR drop margins to improve power and area: Intelligent activity generation and direct calculation of the timing impact of IR drop reduces the need for larger safety margins, optimizing power and area. Comprehensive signoff coverage: Vectorless activity generation automatically develops activity vectors for full coverage while also exploring potential failure scenarios on voltage- sensitive paths, improving signoff IR drop analysis reliability. Proprietary vectorless-basedalgorithm to identify voltage-sensitive paths: Sensitivity analysis combined with proprietary algorithms developed through machine learning (ML) techniques efficiently identify critical paths most likely impacted by IR drop. Tempus Power Integrity’s methods ensure a high degree of IR drop analysis coverage without requiring extensive, time-consuming vectors. Find and fix potential IR drop failures: Visibility into voltage-sensitive high-risk failure scenarios allows designers to catch potential problems early in the design cycle and fix them automatically.
+. Cadence Design Systems, Inc. Announces Tempus™ Power Integrity Solution. Cadence Design Systems, Inc. announced the Tempus™ Power Integrity Solution, comprehensive static timing/signal integrity analysis and power integrity analysis tool, which enables engineers to create reliable designs at 7nm and below. The Tempus Power Integrity Solution is the result of an integration between the widely used Cadence Tempus Timing Signoff Solution and the Voltus™ IC Power Integrity Solution. Using the new tool, customers can significantly lower IR drop design margins without sacrificing signoff quality, thus improving power and area. Early use cases demonstrated that the Tempus Power Integrity Solution correctly identified IR drop errors, avoiding silicon failure prior to tapeout and improving the maximum frequency in silicon by up to 10%. The new Tempus Power Integrity Solution combines the proven Cadence Tempus Timing Signoff Solution and Voltus IC Power Integrity Solution signoff engines, which let the designer assess the overall timing impact on IR drop, reducing the engineering workload and speeding design closure. The tool’s other key benefits include: Smaller IR drop margins to improve power and area: Intelligent activity generation and direct calculation of the timing impact of IR drop reduces the need for larger safety margins, optimizing power and area. Comprehensive signoff coverage: Vectorless activity generation automatically develops activity vectors for full coverage while also exploring potential failure scenarios on voltage- sensitive paths, improving signoff IR drop analysis reliability. Proprietary vectorless-basedalgorithm to identify voltage-sensitive paths: Sensitivity analysis combined with proprietary algorithms developed through machine learning (ML) techniques efficiently identify critical paths most likely impacted by IR drop. Tempus Power Integrity’s methods ensure a high degree of IR drop analysis coverage without requiring extensive, time-consuming vectors. Find and fix potential IR drop failures: Visibility into voltage-sensitive high-risk failure scenarios allows designers to catch potential problems early in the design cycle and fix them automatically.
+"
+2019-11-06	12.62	12.62	
+2019-11-07	12.73	12.73	
+2019-11-08	12.07	12.07	
+2019-11-11	12.69	12.69	
+2019-11-12	12.68	12.68	
+2019-11-13	13.0	13.0	
+2019-11-14	13.05	13.05	"Cadence Design Systems, Inc. Presents at Nasdaq 41st London Investor Conference, Dec-03-2019 11:45 AM. Cadence Design Systems, Inc. Presents at Nasdaq 41st London Investor Conference, Dec-03-2019 11:45 AM. Venue: The May Fair Hotel, London, United Kingdom. Speakers: John M. Wall, Senior VP & CFO.
+. Cadence Design Systems, Inc. Presents at Nasdaq 41st London Investor Conference, Dec-03-2019 11:45 AM. Cadence Design Systems, Inc. Presents at Nasdaq 41st London Investor Conference, Dec-03-2019 11:45 AM. Venue: The May Fair Hotel, London, United Kingdom. Speakers: John M. Wall, Senior VP & CFO.
+"
+2019-11-15	12.05	12.05	
+2019-11-18	12.46	12.46	
+2019-11-19	12.86	12.86	"Cadence Design Systems, Inc. Presents at The 5th Annual ABS Tech Conference, Nov-20-2019. Cadence Design Systems, Inc. Presents at The 5th Annual ABS Tech Conference, Nov-20-2019. Venue: the Crowne Plaza Times Square, New York, New York, United States. Presentation Date & Speakers: Nov-20-2019, Nelson Chu, Founder & Chief Executive Officer, Prath Reddy, Head of Capital Markets.
+. Cadence Design Systems, Inc. Presents at The 5th Annual ABS Tech Conference, Nov-20-2019. Cadence Design Systems, Inc. Presents at The 5th Annual ABS Tech Conference, Nov-20-2019. Venue: the Crowne Plaza Times Square, New York, New York, United States. Presentation Date & Speakers: Nov-20-2019, Nelson Chu, Founder & Chief Executive Officer, Prath Reddy, Head of Capital Markets.
+"
+2019-11-20	12.78	12.78	
+2019-11-21	13.13	13.13	
+2019-11-22	12.34	12.34	
+2019-11-25	11.87	11.87	
+2019-11-26	11.54	11.54	
+2019-11-27	11.75	11.75	
+2019-11-29	12.62	12.62	
+2019-12-02	14.91	14.91	"Cadence To Acquire AWR Corporation From National Instruments To Accelerate System Innovation For 5G RF Communications. CADENCE TO ACQUIRE AWR CORPORATION FROM NATIONAL INSTRUMENTS TO ACCELERATE SYSTEM INNOVATION FOR 5G RF COMMUNICATIONS.CADENCE - WILL PAY ABOUT $160 MILLION IN CASH AT CLOSING AND EXPECTS ABOUT 110 AWR EMPLOYEES TO JOIN CO.
+. Cadence Design Systems, Inc. (NasdaqGS:CDNS) entered into a definitive agreement to acquire AWR Corporation from National Instruments Corporation (NasdaqGS:NATI) for approximately $160 million.. Cadence Design Systems, Inc. (NasdaqGS:CDNS) entered into a definitive agreement to acquire AWR Corporation from National Instruments Corporation (NasdaqGS:NATI) for approximately $160 million. The consideration of $160 million will be paid in cash. As part of transaction, 110 AWR Corporation employees are expected to join Cadence. The transaction is subject to regulatory approval and customary closing conditions. The acquisition is expected to close in the first quarter of 2020.
+. Cadence To Acquire AWR Corporation From National Instruments To Accelerate System Innovation For 5G RF Communications. CADENCE TO ACQUIRE AWR CORPORATION FROM NATIONAL INSTRUMENTS TO ACCELERATE SYSTEM INNOVATION FOR 5G RF COMMUNICATIONS.CADENCE - WILL PAY ABOUT $160 MILLION IN CASH AT CLOSING AND EXPECTS ABOUT 110 AWR EMPLOYEES TO JOIN CO.
+. Cadence Design Systems, Inc. (NasdaqGS:CDNS) entered into a definitive agreement to acquire AWR Corporation from National Instruments Corporation (NasdaqGS:NATI) for approximately $160 million.. Cadence Design Systems, Inc. (NasdaqGS:CDNS) entered into a definitive agreement to acquire AWR Corporation from National Instruments Corporation (NasdaqGS:NATI) for approximately $160 million. The consideration of $160 million will be paid in cash. As part of transaction, 110 AWR Corporation employees are expected to join Cadence. The transaction is subject to regulatory approval and customary closing conditions. The acquisition is expected to close in the first quarter of 2020.
+"
+2019-12-03	15.96	15.96	
+2019-12-04	14.8	14.8	
+2019-12-05	14.52	14.52	
+2019-12-06	13.62	13.62	
+2019-12-09	15.86	15.86	
+2019-12-10	15.68	15.68	
+2019-12-11	14.99	14.99	
+2019-12-12	13.94	13.94	
+2019-12-13	12.63	12.63	
+2019-12-16	12.14	12.14	
+2019-12-17	12.29	12.29	
+2019-12-18	12.58	12.58	
+2019-12-19	12.5	12.5	
+2019-12-20	12.51	12.51	
+2019-12-23	12.61	12.61	
+2019-12-24	12.67	12.67	
+2019-12-26	12.65	12.65	
+2019-12-27	13.43	13.43	
+2019-12-30	14.82	14.82	
+2019-12-31	13.78	13.78	
+2020-01-02	12.47	12.47	
+2020-01-03	14.02	14.02	
+2020-01-06	13.85	13.85	
+2020-01-07	13.79	13.79	
+2020-01-08	13.45	13.45	
+2020-01-09	12.54	12.54	
+2020-01-10	12.56	12.56	
+2020-01-13	12.32	12.32	
+2020-01-14	12.39	12.39	
+2020-01-15	12.42	12.42	
+2020-01-16	12.32	12.32	
+2020-01-17	12.1	12.1	
+2020-01-21	12.85	12.85	
+2020-01-22	12.91	12.91	
+2020-01-23	12.98	12.98	
+2020-01-24	14.56	14.56	
+2020-01-27	18.23	18.23	
+2020-01-28	16.280001	16.280001	
+2020-01-29	16.389999	16.389999	
+2020-01-30	15.49	15.49	
+2020-01-31	18.84	18.84	
+2020-02-03	17.969999	17.969999	
+2020-02-04	16.049999	16.049999	
+2020-02-05	15.15	15.15	
+2020-02-06	14.96	14.96	
+2020-02-07	15.47	15.47	
+2020-02-10	15.04	15.04	
+2020-02-11	15.18	15.18	
+2020-02-12	13.74	13.74	"Cadence Reports Fourth Quarter And Fiscal Year 2019 Financial Results. CADENCE REPORTS FOURTH QUARTER AND FISCAL YEAR 2019 FINANCIAL RESULTS.Q4 EARNINGS PER SHARE $2.36.SEES Q1 2020 REVENUE $610 MILLION TO $620 MILLION.SEES FY 2020 REVENUE $2.545 BILLION TO $2.585 BILLION.Q4 REVENUE $600 MILLION VERSUS REFINITIV IBES ESTIMATE OF $595.4 MILLION.Q4 EARNINGS PER SHARE ESTIMATE $0.53 -- REFINITIV IBES DATA.SEES Q1 GAAP NET INCOME PER DILUTED SHARE TO BE IN RANGE OF $0.32 TO $0.34.SEES Q1 NON GAAP NET INCOME PER DILUTED SHARE IS EXPECTED TO BE IN RANGE OF $0.53 TO $0.55.SEES 2020 NET INCOME PER DILUTED SHARE FOR 2020 TO BE IN RANGE OF $1.46 TO $1.56.SEES NON GAAP NET INCOME PER DILUTED SHARE FOR 2020 TO BE IN RANGE OF $2.40 TO $2.50.FY2020 EARNINGS PER SHARE VIEW $2.34, REVENUE VIEW $2.50 BILLION -- REFINITIV IBES DATA.Q1 EARNINGS PER SHARE VIEW $0.57, REVENUE VIEW $609.0 MILLION -- REFINITIV IBES DATA.
+. Cadence Reports Fourth Quarter And Fiscal Year 2019 Financial Results. CADENCE REPORTS FOURTH QUARTER AND FISCAL YEAR 2019 FINANCIAL RESULTS.Q4 EARNINGS PER SHARE $2.36.SEES Q1 2020 REVENUE $610 MILLION TO $620 MILLION.SEES FY 2020 REVENUE $2.545 BILLION TO $2.585 BILLION.Q4 REVENUE $600 MILLION VERSUS REFINITIV IBES ESTIMATE OF $595.4 MILLION.Q4 EARNINGS PER SHARE ESTIMATE $0.53 -- REFINITIV IBES DATA.SEES Q1 GAAP NET INCOME PER DILUTED SHARE TO BE IN RANGE OF $0.32 TO $0.34.SEES Q1 NON GAAP NET INCOME PER DILUTED SHARE IS EXPECTED TO BE IN RANGE OF $0.53 TO $0.55.SEES 2020 NET INCOME PER DILUTED SHARE FOR 2020 TO BE IN RANGE OF $1.46 TO $1.56.SEES NON GAAP NET INCOME PER DILUTED SHARE FOR 2020 TO BE IN RANGE OF $2.40 TO $2.50.FY2020 EARNINGS PER SHARE VIEW $2.34, REVENUE VIEW $2.50 BILLION -- REFINITIV IBES DATA.Q1 EARNINGS PER SHARE VIEW $0.57, REVENUE VIEW $609.0 MILLION -- REFINITIV IBES DATA.
+"
+2020-02-13	14.15	14.15	"Cadence Furthers Expansion In 5G Rf Communications With Acquisition Of Integrand. CADENCE FURTHERS EXPANSION IN 5G RF COMMUNICATIONS WITH ACQUISITION OF INTEGRAND.CADENCE DESIGN SYSTEMS INC - TERMS OF TRANSACTION WERE NOT DISCLOSED.
+. Cadence Furthers Expansion In 5G Rf Communications With Acquisition Of Integrand. CADENCE FURTHERS EXPANSION IN 5G RF COMMUNICATIONS WITH ACQUISITION OF INTEGRAND.CADENCE DESIGN SYSTEMS INC - TERMS OF TRANSACTION WERE NOT DISCLOSED.
+"
+2020-02-14	13.68	13.68	
+2020-02-18	14.83	14.83	
+2020-02-19	14.38	14.38	
+2020-02-20	15.56	15.56	
+2020-02-21	17.08	17.08	
+2020-02-24	25.030001	25.030001	
+2020-02-25	27.85	27.85	
+2020-02-26	27.559999	27.559999	
+2020-02-27	39.16	39.16	
+2020-02-28	40.110001	40.110001	
+2020-03-02	33.419998	33.419998	
+2020-03-03	36.82	36.82	
+2020-03-04	31.99	31.99	
+2020-03-05	39.619999	39.619999	
+2020-03-06	41.939999	41.939999	
+2020-03-09	54.459999	54.459999	
+2020-03-10	47.299999	47.299999	
+2020-03-11	53.900002	53.900002	
+2020-03-12	75.470001	75.470001	
+2020-03-13	57.830002	57.830002	
+2020-03-16	82.690002	82.690002	
+2020-03-17	75.910004	75.910004	
+2020-03-18	76.449997	76.449997	
+2020-03-19	72.0	72.0	
+2020-03-20	66.040001	66.040001	
+2020-03-23	61.59	61.59	
+2020-03-24	61.669998	61.669998	
+2020-03-25	63.950001	63.950001	
+2020-03-26	61.0	61.0	
+2020-03-27	65.540001	65.540001	
+2020-03-30	57.080002	57.080002	
+2020-03-31	53.540001	53.540001	
+2020-04-01	57.060001	57.060001	
+2020-04-02	50.91	50.91	
+2020-04-03	46.799999	46.799999	
+2020-04-06	45.240002	45.240002	
+2020-04-07	46.700001	46.700001	
+2020-04-08	43.349998	43.349998	
+2020-04-09	41.669998	41.669998	
+2020-04-13	41.169998	41.169998	
+2020-04-14	37.759998	37.759998	
+2020-04-15	40.84	40.84	
+2020-04-16	40.110001	40.110001	
+2020-04-17	38.150002	38.150002	
+2020-04-20	43.830002	43.830002	"Cadence Reports Q1 Earnings Per Share $0.44. CADENCE REPORTS FIRST QUARTER 2020 FINANCIAL RESULTS.Q1 EARNINGS PER SHARE $0.44.SEES Q2 2020 REVENUE $580 MILLION TO $600 MILLION.SEES FY 2020 REVENUE $2.545 BILLION TO $2.585 BILLION.Q1 REVENUE $618 MILLION VERSUS REFINITIV IBES ESTIMATE OF $613.4 MILLION.Q1 EARNINGS PER SHARE ESTIMATE $0.54 -- REFINITIV IBES DATA.Q2 GAAP NET INCOME PER DILUTED SHARE EXPECTED TO BE IN RANGE OF $0.28 TO $0.32.SEES Q2 NON-GAAP NET INCOME PER DILUTED SHARE TO BE IN RANGE OF $0.50 TO $0.54.NET INCOME PER DILUTED SHARE FOR 2020 IS EXPECTED TO BE IN RANGE OF $1.58 TO $1.68.SEES 2020 NON-GAAP NET INCOME PER DILUTED SHARE TO BE IN RANGE OF $2.40 TO $2.50.QTRLY NON-GAAP EARNINGS PER SHARE $0.60 PER SHARE.FY2020 EARNINGS PER SHARE VIEW $2.41, REVENUE VIEW $2.55 BILLION -- REFINITIV IBES DATA.Q2 EARNINGS PER SHARE VIEW $0.59 -- REFINITIV IBES DATA.
+. Cadence Reports Q1 Earnings Per Share $0.44. CADENCE REPORTS FIRST QUARTER 2020 FINANCIAL RESULTS.Q1 EARNINGS PER SHARE $0.44.SEES Q2 2020 REVENUE $580 MILLION TO $600 MILLION.SEES FY 2020 REVENUE $2.545 BILLION TO $2.585 BILLION.Q1 REVENUE $618 MILLION VERSUS REFINITIV IBES ESTIMATE OF $613.4 MILLION.Q1 EARNINGS PER SHARE ESTIMATE $0.54 -- REFINITIV IBES DATA.Q2 GAAP NET INCOME PER DILUTED SHARE EXPECTED TO BE IN RANGE OF $0.28 TO $0.32.SEES Q2 NON-GAAP NET INCOME PER DILUTED SHARE TO BE IN RANGE OF $0.50 TO $0.54.NET INCOME PER DILUTED SHARE FOR 2020 IS EXPECTED TO BE IN RANGE OF $1.58 TO $1.68.SEES 2020 NON-GAAP NET INCOME PER DILUTED SHARE TO BE IN RANGE OF $2.40 TO $2.50.QTRLY NON-GAAP EARNINGS PER SHARE $0.60 PER SHARE.FY2020 EARNINGS PER SHARE VIEW $2.41, REVENUE VIEW $2.55 BILLION -- REFINITIV IBES DATA.Q2 EARNINGS PER SHARE VIEW $0.59 -- REFINITIV IBES DATA.
+"
+2020-04-21	45.41	45.41	
+2020-04-22	41.98	41.98	
+2020-04-23	41.380001	41.380001	
+2020-04-24	35.93	35.93	
+2020-04-27	33.290001	33.290001	
+2020-04-28	33.57	33.57	
+2020-04-29	31.23	31.23	
+2020-04-30	34.150002	34.150002	
+2020-05-01	37.189999	37.189999	
+2020-05-04	35.970001	35.970001	
+2020-05-05	33.610001	33.610001	
+2020-05-06	34.119999	34.119999	
+2020-05-07	31.440001	31.440001	
+2020-05-08	27.98	27.98	
+2020-05-11	27.57	27.57	
+2020-05-12	33.040001	33.040001	
+2020-05-13	35.279999	35.279999	
+2020-05-14	32.610001	32.610001	
+2020-05-15	31.889999	31.889999	
+2020-05-18	29.299999	29.299999	
+2020-05-19	30.530001	30.530001	
+2020-05-20	27.99	27.99	
+2020-05-21	29.530001	29.530001	
+2020-05-22	28.16	28.16	
+2020-05-26	28.01	28.01	
+2020-05-27	27.620001	27.620001	
+2020-05-28	28.59	28.59	
+2020-05-29	27.51	27.51	
+2020-06-01	28.23	28.23	
+2020-06-02	26.84	26.84	
+2020-06-03	25.66	25.66	
+2020-06-04	25.809999	25.809999	
+2020-06-05	24.52	24.52	
+2020-06-08	25.809999	25.809999	
+2020-06-09	27.57	27.57	
+2020-06-10	27.57	27.57	
+2020-06-11	40.790001	40.790001	
+2020-06-12	36.09	36.09	
+2020-06-15	34.400002	34.400002	
+2020-06-16	33.669998	33.669998	
+2020-06-17	33.470001	33.470001	
+2020-06-18	32.939999	32.939999	
+2020-06-19	35.119999	35.119999	
+2020-06-22	31.77	31.77	
+2020-06-23	31.370001	31.370001	
+2020-06-24	33.84	33.84	
+2020-06-25	32.220001	32.220001	
+2020-06-26	34.73	34.73	
+2020-06-29	31.780001	31.780001	
+2020-06-30	30.43	30.43	
+2020-07-01	28.620001	28.620001	
+2020-07-02	27.68	27.68	
+2020-07-06	27.940001	27.940001	
+2020-07-07	29.43	29.43	
+2020-07-08	28.08	28.08	
+2020-07-09	29.26	29.26	
+2020-07-10	27.290001	27.290001	
+2020-07-13	32.189999	32.189999	
+2020-07-14	29.52	29.52	
+2020-07-15	27.76	27.76	
+2020-07-16	28.0	28.0	
+2020-07-17	25.68	25.68	
+2020-07-20	24.459999	24.459999	"Cadence Reports Second Quarter 2020 Financial Results. CADENCE REPORTS SECOND QUARTER 2020 FINANCIAL RESULTS.Q2 EARNINGS PER SHARE $0.47.SEES Q3 2020 REVENUE $630 MILLION TO $650 MILLION.SEES FY 2020 REVENUE $2.585 BILLION TO $2.615 BILLION.Q2 REVENUE $638 MILLION VERSUS REFINITIV IBES ESTIMATE OF $594.6 MILLION.Q2 EARNINGS PER SHARE ESTIMATE $0.53 -- REFINITIV IBES DATA.FY2020 EARNINGS PER SHARE VIEW $2.46, REVENUE VIEW $2.56 BILLION -- REFINITIV IBES DATA.SEES Q3 NON-GAAP EARNINGS PER SHARE $0.59 TO $0.61.Q3 GAAP NET INCOME PER DILUTED SHARE IS EXPECTED TO BE IN RANGE OF $0.49 TO $0.51.GAAP NET INCOME PER DILUTED SHARE FOR 2020 IS EXPECTED TO BE IN RANGE OF $1.84 TO $1.90.QTRLY ADJUSTED EARNINGS PER SHARE $0.66.NON-GAAP NET INCOME PER DILUTED SHARE FOR 2020 IS EXPECTED TO BE IN RANGE OF $2.50 TO $2.56..Q3 EARNINGS PER SHARE VIEW $0.63, REVENUE VIEW $647.6 MILLION -- REFINITIV IBES DATA.
+. Cadence Reports Second Quarter 2020 Financial Results. CADENCE REPORTS SECOND QUARTER 2020 FINANCIAL RESULTS.Q2 EARNINGS PER SHARE $0.47.SEES Q3 2020 REVENUE $630 MILLION TO $650 MILLION.SEES FY 2020 REVENUE $2.585 BILLION TO $2.615 BILLION.Q2 REVENUE $638 MILLION VERSUS REFINITIV IBES ESTIMATE OF $594.6 MILLION.Q2 EARNINGS PER SHARE ESTIMATE $0.53 -- REFINITIV IBES DATA.FY2020 EARNINGS PER SHARE VIEW $2.46, REVENUE VIEW $2.56 BILLION -- REFINITIV IBES DATA.SEES Q3 NON-GAAP EARNINGS PER SHARE $0.59 TO $0.61.Q3 GAAP NET INCOME PER DILUTED SHARE IS EXPECTED TO BE IN RANGE OF $0.49 TO $0.51.GAAP NET INCOME PER DILUTED SHARE FOR 2020 IS EXPECTED TO BE IN RANGE OF $1.84 TO $1.90.QTRLY ADJUSTED EARNINGS PER SHARE $0.66.NON-GAAP NET INCOME PER DILUTED SHARE FOR 2020 IS EXPECTED TO BE IN RANGE OF $2.50 TO $2.56..Q3 EARNINGS PER SHARE VIEW $0.63, REVENUE VIEW $647.6 MILLION -- REFINITIV IBES DATA.
+"
+2020-07-21	24.84	24.84	
+2020-07-22	24.32	24.32	
+2020-07-23	26.08	26.08	
+2020-07-24	25.84	25.84	
+2020-07-27	24.74	24.74	
+2020-07-28	25.440001	25.440001	
+2020-07-29	24.1	24.1	
+2020-07-30	24.76	24.76	
+2020-07-31	24.459999	24.459999	
+2020-08-03	24.280001	24.280001	
+2020-08-04	23.76	23.76	
+2020-08-05	22.99	22.99	
+2020-08-06	22.65	22.65	
+2020-08-07	22.209999	22.209999	
+2020-08-10	22.129999	22.129999	
+2020-08-11	24.030001	24.030001	
+2020-08-12	22.280001	22.280001	
+2020-08-13	22.129999	22.129999	
+2020-08-14	22.049999	22.049999	
+2020-08-17	21.35	21.35	
+2020-08-18	21.51	21.51	
+2020-08-19	22.540001	22.540001	
+2020-08-20	22.719999	22.719999	
+2020-08-21	22.540001	22.540001	
+2020-08-24	22.370001	22.370001	
+2020-08-25	22.030001	22.030001	
+2020-08-26	23.27	23.27	
+2020-08-27	24.469999	24.469999	
+2020-08-28	22.959999	22.959999	
+2020-08-31	26.41	26.41	
+2020-09-01	26.120001	26.120001	
+2020-09-02	26.57	26.57	
+2020-09-03	33.599998	33.599998	
+2020-09-04	30.75	30.75	
+2020-09-08	31.459999	31.459999	
+2020-09-09	28.809999	28.809999	
+2020-09-10	29.709999	29.709999	
+2020-09-11	26.870001	26.870001	
+2020-09-14	25.85	25.85	
+2020-09-15	25.59	25.59	
+2020-09-16	26.040001	26.040001	
+2020-09-17	26.459999	26.459999	
+2020-09-18	25.83	25.83	
+2020-09-21	27.780001	27.780001	
+2020-09-22	26.860001	26.860001	
+2020-09-23	28.58	28.58	
+2020-09-24	28.51	28.51	
+2020-09-25	26.379999	26.379999	
+2020-09-28	26.190001	26.190001	
+2020-09-29	26.27	26.27	
+2020-09-30	26.370001	26.370001	
+2020-10-01	26.700001	26.700001	
+2020-10-02	27.629999	27.629999	
+2020-10-05	27.959999	27.959999	
+2020-10-06	29.48	29.48	
+2020-10-07	28.059999	28.059999	
+2020-10-08	26.360001	26.360001	
+2020-10-09	25.0	25.0	
+2020-10-12	25.07	25.07	
+2020-10-13	26.07	26.07	
+2020-10-14	26.4	26.4	
+2020-10-15	26.969999	26.969999	
+2020-10-16	27.41	27.41	
+2020-10-19	29.18	29.18	
+2020-10-20	29.35	29.35	
+2020-10-21	28.65	28.65	
+2020-10-22	28.110001	28.110001	
+2020-10-23	27.549999	27.549999	
+2020-10-26	32.459999	32.459999	
+2020-10-27	33.349998	33.349998	
+2020-10-28	40.279999	40.279999	
+2020-10-29	37.59	37.59	
+2020-10-30	38.02	38.02	
+2020-11-02	37.130001	37.130001	"Cadence Wins Four 2020 TSMC OIP Partner of the Year Awards. SAN JOSE, Calif.--(BUSINESS WIRE)---- $CDNS #EDA--Cadence has received four 2020 OIP Partner of the Year awards from TSMC for IP and EDA solutions.
+. Cadence Wins Four 2020 TSMC OIP Partner of the Year Awards. SAN JOSE, Calif.--(BUSINESS WIRE)---- $CDNS #EDA--Cadence has received four 2020 OIP Partner of the Year awards from TSMC for IP and EDA solutions.
+"
+2020-11-03	35.549999	35.549999	
+2020-11-04	29.57	29.57	
+2020-11-05	27.58	27.58	
+2020-11-06	24.860001	24.860001	
+2020-11-09	25.75	25.75	
+2020-11-10	24.799999	24.799999	
+2020-11-11	23.450001	23.450001	
+2020-11-12	25.35	25.35	
+2020-11-13	23.1	23.1	
+2020-11-16	22.450001	22.450001	
+2020-11-17	22.709999	22.709999	
+2020-11-18	23.84	23.84	
+2020-11-19	23.110001	23.110001	
+2020-11-20	23.700001	23.700001	
+2020-11-23	22.66	22.66	
+2020-11-24	21.639999	21.639999	
+2020-11-25	21.25	21.25	
+2020-11-27	20.84	20.84	
+2020-11-30	20.57	20.57	
+2020-12-01	20.77	20.77	
+2020-12-02	21.17	21.17	"Rockley Photonics Collaborates with Cadence to Create a High-Performance System for Hyperscale Data Centers. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS #EDA--ROCKLEY PHOTONICS DEPLOYED A SET OF CADENCE SYSTEM ANALYSIS AND CUSTOM TOOLS TO DESIGN A STATE-OF-THE-ART SIP FOR HYPERSCALE DATA CENTERS.
+. Rockley Photonics Collaborates with Cadence to Create a High-Performance System for Hyperscale Data Centers. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS #EDA--ROCKLEY PHOTONICS DEPLOYED A SET OF CADENCE SYSTEM ANALYSIS AND CUSTOM TOOLS TO DESIGN A STATE-OF-THE-ART SIP FOR HYPERSCALE DATA CENTERS.
+"
+2020-12-03	21.280001	21.280001	
+2020-12-04	20.790001	20.790001	
+2020-12-07	21.299999	21.299999	
+2020-12-08	20.68	20.68	
+2020-12-09	22.27	22.27	
+2020-12-10	22.52	22.52	
+2020-12-11	23.309999	23.309999	
+2020-12-14	24.719999	24.719999	
+2020-12-15	22.889999	22.889999	
+2020-12-16	22.5	22.5	
+2020-12-17	21.93	21.93	
+2020-12-18	21.57	21.57	
+2020-12-21	25.16	25.16	
+2020-12-22	24.23	24.23	
+2020-12-23	23.309999	23.309999	
+2020-12-24	21.530001	21.530001	
+2020-12-28	21.700001	21.700001	
+2020-12-29	23.08	23.08	
+2020-12-30	22.77	22.77	
+2020-12-31	22.75	22.75	
+2021-01-04	26.969999	26.969999	
+2021-01-05	25.34	25.34	
+2021-01-06	25.07	25.07	
+2021-01-07	22.370001	22.370001	
+2021-01-08	21.559999	21.559999	
+2021-01-11	24.08	24.08	
+2021-01-12	23.33	23.33	
+2021-01-13	22.209999	22.209999	
+2021-01-14	23.25	23.25	
+2021-01-15	24.34	24.34	
+2021-01-19	23.24	23.24	
+2021-01-20	21.58	21.58	"Cadence to Acquire NUMECA to Expand System Analysis Capabilities With Computational Fluid Dynamics. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS #AEROSPACE--CADENCE ENTERED INTO A DEFINITIVE AGREEMENT TO ACQUIRE NUMECA INTERNATIONAL, A LEADER IN COMPUTATIONAL FLUID DYNAMICS (CFD).
+. Cadence to Acquire NUMECA to Expand System Analysis Capabilities With Computational Fluid Dynamics. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS #AEROSPACE--CADENCE ENTERED INTO A DEFINITIVE AGREEMENT TO ACQUIRE NUMECA INTERNATIONAL, A LEADER IN COMPUTATIONAL FLUID DYNAMICS (CFD).
+"
+2021-01-21	21.32	21.32	
+2021-01-22	21.91	21.91	
+2021-01-25	23.190001	23.190001	
+2021-01-26	23.02	23.02	
+2021-01-27	37.209999	37.209999	
+2021-01-28	30.209999	30.209999	
+2021-01-29	33.09	33.09	
+2021-02-01	30.24	30.24	
+2021-02-02	25.559999	25.559999	"Cadence Announces $5M Endowment at Massachusetts Institute of Technology. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS--CADENCE ANNOUNCED THE ESTABLISHMENT OF THE CADENCE DESIGN SYSTEMS PROFESSORSHIP FUND FOR THE MIT STEPHEN A. SCHWARZMAN COLLEGE OF COMPUTING.
+. Cadence Announces $5M Endowment at Massachusetts Institute of Technology. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS--CADENCE ANNOUNCED THE ESTABLISHMENT OF THE CADENCE DESIGN SYSTEMS PROFESSORSHIP FUND FOR THE MIT STEPHEN A. SCHWARZMAN COLLEGE OF COMPUTING.
+"
+2021-02-03	22.91	22.91	
+2021-02-04	21.77	21.77	
+2021-02-05	20.870001	20.870001	
+2021-02-08	21.24	21.24	
+2021-02-09	21.629999	21.629999	
+2021-02-10	21.99	21.99	
+2021-02-11	21.25	21.25	
+2021-02-12	19.969999	19.969999	
+2021-02-16	21.459999	21.459999	
+2021-02-17	21.5	21.5	
+2021-02-18	22.49	22.49	
+2021-02-19	22.049999	22.049999	
+2021-02-22	23.450001	23.450001	
+2021-02-23	23.110001	23.110001	
+2021-02-24	21.34	21.34	"Cadence Completes Acquisition of NUMECA. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS #AEROSPACE--CADENCE DESIGN SYSTEMS, INC. ANNOUNCED THAT IT HAS COMPLETED THE ACQUISITION OF NUMECA INTERNATIONAL.
+. Cadence Completes Acquisition of NUMECA. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS #AEROSPACE--CADENCE DESIGN SYSTEMS, INC. ANNOUNCED THAT IT HAS COMPLETED THE ACQUISITION OF NUMECA INTERNATIONAL.
+"
+2021-02-25	28.889999	28.889999	
+2021-02-26	27.950001	27.950001	
+2021-03-01	23.35	23.35	
+2021-03-02	24.1	24.1	
+2021-03-03	26.67	26.67	
+2021-03-04	28.57	28.57	
+2021-03-05	24.66	24.66	
+2021-03-08	25.469999	25.469999	"Cadence Receives TSMC OIP Ecosystem Forum Customers' Choice Award for N3 Collaboration. SAN JOSE, CALIF.--(BUSINESS WIRE)--CADENCE RECEIVED A TSMC OIP ECOSYSTEM FORUM CUSTOMERS' CHOICE AWARD FOR A PAPER PRESENTED DURING THE TSMC 2020 NORTH AMERICA OIP ECOSYSTEM FORUM.
+. Cadence Receives TSMC OIP Ecosystem Forum Customers' Choice Award for N3 Collaboration. SAN JOSE, CALIF.--(BUSINESS WIRE)--CADENCE RECEIVED A TSMC OIP ECOSYSTEM FORUM CUSTOMERS' CHOICE AWARD FOR A PAPER PRESENTED DURING THE TSMC 2020 NORTH AMERICA OIP ECOSYSTEM FORUM.
+"
+2021-03-09	24.030001	24.030001	
+2021-03-10	22.559999	22.559999	
+2021-03-11	21.91	21.91	
+2021-03-12	20.690001	20.690001	
+2021-03-15	20.030001	20.030001	
+2021-03-16	19.790001	19.790001	"Cadence Unveils Next-Generation Sigrity X for Up to 10X Faster System Analysis. SAN JOSE, CALIF.--(BUSINESS WIRE)--THE NEXT-GENERATION CADENCE SIGRITY X DELIVERS UP TO 10X FASTER PERFORMANCE AND UNCOMPROMISED ACCURACY FOR TODAY'S SYSTEM-LEVEL SIMULATION CHALLENGES.
+. Cadence Unveils Next-Generation Sigrity X for Up to 10X Faster System Analysis. SAN JOSE, CALIF.--(BUSINESS WIRE)--THE NEXT-GENERATION CADENCE SIGRITY X DELIVERS UP TO 10X FASTER PERFORMANCE AND UNCOMPROMISED ACCURACY FOR TODAY'S SYSTEM-LEVEL SIMULATION CHALLENGES.
+"
+2021-03-17	19.23	19.23	
+2021-03-18	21.58	21.58	
+2021-03-19	20.950001	20.950001	
+2021-03-22	18.879999	18.879999	
+2021-03-23	20.299999	20.299999	
+2021-03-24	21.200001	21.200001	"Cadence Successfully Tapes Out Tensilica SoC on GLOBALFOUNDRIES 22FDX Platform Using Adaptive Body Bias Feature. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS--CADENCE ANNOUNCED THAT IT HAS COLLABORATED WITH GLOBALFOUNDRIES (GF) TO SUCCESSFULLY TAPE OUT A CADENCE TENSILICA TEST CHIP ON GF'S 22FDX PLATFORM.
+. Cadence Successfully Tapes Out Tensilica SoC on GLOBALFOUNDRIES 22FDX Platform Using Adaptive Body Bias Feature. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS--CADENCE ANNOUNCED THAT IT HAS COLLABORATED WITH GLOBALFOUNDRIES (GF) TO SUCCESSFULLY TAPE OUT A CADENCE TENSILICA TEST CHIP ON GF'S 22FDX PLATFORM.
+"
+2021-03-25	19.809999	19.809999	
+2021-03-26	18.860001	18.860001	
+2021-03-29	20.74	20.74	
+2021-03-30	19.610001	19.610001	
+2021-03-31	19.4	19.4	
+2021-04-01	17.33	17.33	
+2021-04-05	17.91	17.91	"Cadence Unveils Next-Generation Palladium Z2 and Protium X2 Systems to Dramatically Accelerate Pre‑Silicon Hardware Debug and Software Validation. SAN JOSE, CALIF.--(BUSINESS WIRE)-- #SOC--CADENCE ANNOUNCES THE PALLADIUM Z2 AND PROTIUM X2 SYSTEMS TO HANDLE THE EXPONENTIALLY INCREASING SYSTEM DESIGN COMPLEXITY AND TIME-TO-MARKET PRESSURES
+. Cadence Unveils Next-Generation Palladium Z2 and Protium X2 Systems to Dramatically Accelerate Pre‑Silicon Hardware Debug and Software Validation. SAN JOSE, CALIF.--(BUSINESS WIRE)-- #SOC--CADENCE ANNOUNCES THE PALLADIUM Z2 AND PROTIUM X2 SYSTEMS TO HANDLE THE EXPONENTIALLY INCREASING SYSTEM DESIGN COMPLEXITY AND TIME-TO-MARKET PRESSURES
+"
+2021-04-06	18.120001	18.120001	
+2021-04-07	17.16	17.16	
+2021-04-08	16.950001	16.950001	"Cadence Collaborates With Samsung Foundry to Accelerate Hyperscale Computing SoC Design for Process Nodes Down to 4nm. SAN JOSE, CALIF.--(BUSINESS WIRE)--CADENCE ANNOUNCED THAT IT HAS OPTIMIZED THE CADENCE DIGITAL 20.1 FULL FLOW FOR SAMSUNG FOUNDRY'S ADVANCED-PROCESS TECHNOLOGIES DOWN TO 4NM.
+. Cadence Delivers Automotive Reference Flow for Samsung Foundry 14LPU Process Technology. SAN JOSE, CALIF.--(BUSINESS WIRE)--CADENCE ANNOUNCED THE AVAILABILITY OF AN AUTOMOTIVE-OPTIMIZED CADENCE DIGITAL FULL FLOW FOR SAMSUNG FOUNDRY'S 14LPU PROCESS TECHNOLOGY.
+. Cadence Collaborates With Samsung Foundry to Accelerate Hyperscale Computing SoC Design for Process Nodes Down to 4nm. SAN JOSE, CALIF.--(BUSINESS WIRE)--CADENCE ANNOUNCED THAT IT HAS OPTIMIZED THE CADENCE DIGITAL 20.1 FULL FLOW FOR SAMSUNG FOUNDRY'S ADVANCED-PROCESS TECHNOLOGIES DOWN TO 4NM.
+. Cadence Delivers Automotive Reference Flow for Samsung Foundry 14LPU Process Technology. SAN JOSE, CALIF.--(BUSINESS WIRE)--CADENCE ANNOUNCED THE AVAILABILITY OF AN AUTOMOTIVE-OPTIMIZED CADENCE DIGITAL FULL FLOW FOR SAMSUNG FOUNDRY'S 14LPU PROCESS TECHNOLOGY.
+"
+2021-04-09	16.690001	16.690001	
+2021-04-12	16.91	16.91	
+2021-04-13	16.65	16.65	
+2021-04-14	16.99	16.99	
+2021-04-15	16.57	16.57	
+2021-04-16	16.25	16.25	
+2021-04-19	17.290001	17.290001	"Cadence Pegasus Verification System Certified for Samsung Foundry 5nm and 7nm Process Technologies. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS--CADENCE ANNOUNCED THAT THE CADENCE PEGASUS™ VERIFICATION SYSTEM HAS ACHIEVED CERTIFICATION FOR SAMSUNG FOUNDRY'S 5NM AND 7NM PROCESS TECHNOLOGIES.
+. Cadence Pegasus Verification System Certified for Samsung Foundry 5nm and 7nm Process Technologies. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS--CADENCE ANNOUNCED THAT THE CADENCE PEGASUS™ VERIFICATION SYSTEM HAS ACHIEVED CERTIFICATION FOR SAMSUNG FOUNDRY'S 5NM AND 7NM PROCESS TECHNOLOGIES.
+"
+2021-04-20	18.68	18.68	
+2021-04-21	17.5	17.5	
+2021-04-22	18.709999	18.709999	"Cadence Extends Popular Tensilica Vision and AI DSP IP Product Line with New DSPs Targeting High-End and Always-On Applications. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS--CADENCE HAS EXTENDED ITS POPULAR TENSILICA® VISION AND AI DSP PRODUCT LINE WITH NEW DSP IP CORES TARGETING HIGH-END AND ALWAYS-ON APPLICATIONS.
+. Cadence Extends Popular Tensilica Vision and AI DSP IP Product Line with New DSPs Targeting High-End and Always-On Applications. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS--CADENCE HAS EXTENDED ITS POPULAR TENSILICA® VISION AND AI DSP PRODUCT LINE WITH NEW DSP IP CORES TARGETING HIGH-END AND ALWAYS-ON APPLICATIONS.
+"
+2021-04-23	17.33	17.33	
+2021-04-26	17.639999	17.639999	
+2021-04-27	17.559999	17.559999	"Cadence Collaborates with Arm to Accelerate Hyperscale Computing and 5G Communications SoC Development. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS--CADENCE AND ARM ARE COLLABORATING TO SPEED SOC DEVELOPMENT USING CADENCE® TOOLS AND THE NEW ARM® NEOVERSE V1 AND NEOVERSE N2 PLATFORMS.
+. Cadence Collaborates with Arm to Accelerate Hyperscale Computing and 5G Communications SoC Development. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS--CADENCE AND ARM ARE COLLABORATING TO SPEED SOC DEVELOPMENT USING CADENCE® TOOLS AND THE NEW ARM® NEOVERSE V1 AND NEOVERSE N2 PLATFORMS.
+"
+2021-04-28	17.280001	17.280001	"Global Unichip Corporation Deploys Cadence Clarity 3D Solver To Achieve 5X Speedup of System Analysis for 112G Long-Reach Network Switch. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS--GUC SUCCESSFULLY DEPLOYED THE CADENCE® CLARITY™ 3D SOLVER TO ACHIEVE A 5X SYSTEM ANALYSIS SPEEDUP FOR A COMPLEX 112G LONG-REACH NETWORK SWITCH DESIGN.
+. Global Unichip Corporation Deploys Cadence Clarity 3D Solver To Achieve 5X Speedup of System Analysis for 112G Long-Reach Network Switch. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS--GUC SUCCESSFULLY DEPLOYED THE CADENCE® CLARITY™ 3D SOLVER TO ACHIEVE A 5X SYSTEM ANALYSIS SPEEDUP FOR A COMPLEX 112G LONG-REACH NETWORK SWITCH DESIGN.
+"
+2021-04-29	17.610001	17.610001	
+2021-04-30	18.610001	18.610001	
+2021-05-03	18.309999	18.309999	
+2021-05-04	19.48	19.48	"Cadence Wins Four 2020 Samsung Foundry SAFE EDA Awards. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS--CADENCE ANNOUNCED THAT IT HAS RECEIVED FOUR 2020 SAFE EDA AWARDS FROM SAMSUNG FOUNDRY.
+. Cadence Wins Four 2020 Samsung Foundry SAFE EDA Awards. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS--CADENCE ANNOUNCED THAT IT HAS RECEIVED FOUR 2020 SAFE EDA AWARDS FROM SAMSUNG FOUNDRY.
+"
+2021-05-05	19.15	19.15	
+2021-05-06	18.389999	18.389999	
+2021-05-07	16.690001	16.690001	
+2021-05-10	19.66	19.66	
+2021-05-11	21.84	21.84	
+2021-05-12	27.59	27.59	
+2021-05-13	23.129999	23.129999	
+2021-05-14	18.809999	18.809999	
+2021-05-17	19.719999	19.719999	
+2021-05-18	21.34	21.34	
+2021-05-19	22.18	22.18	
+2021-05-20	20.67	20.67	"JVCKENWOOD Deploys Cadence Spectre FX Simulator and Comprehensive Design Flows to Improve Productivity. SAN JOSE, CALIF.--(BUSINESS WIRE)--CADENCE ANNOUNCED JVCKENWOOD HAS ADOPTED THE NEW SPECTRE FX SIMULATOR AND MULTIPLE CADENCE SOLUTIONS TO ACCELERATE IC DEVELOPMENT.
+. Cadence Introduces the Spectre FX FastSPICE Simulator Delivering up to 3X Performance Gains with Superior Accuracy. SAN JOSE, CALIF.--(BUSINESS WIRE)--CADENCE ANNOUNCED THE NEW SPECTRE FX SIMULATOR, A NEXT-GENERATION FASTSPICE CIRCUIT SIMULATOR THAT ENABLES THE EFFICIENT VERIFICATION OF DESIGNS.
+. JVCKENWOOD Deploys Cadence Spectre FX Simulator and Comprehensive Design Flows to Improve Productivity. SAN JOSE, CALIF.--(BUSINESS WIRE)--CADENCE ANNOUNCED JVCKENWOOD HAS ADOPTED THE NEW SPECTRE FX SIMULATOR AND MULTIPLE CADENCE SOLUTIONS TO ACCELERATE IC DEVELOPMENT.
+. Cadence Introduces the Spectre FX FastSPICE Simulator Delivering up to 3X Performance Gains with Superior Accuracy. SAN JOSE, CALIF.--(BUSINESS WIRE)--CADENCE ANNOUNCED THE NEW SPECTRE FX SIMULATOR, A NEXT-GENERATION FASTSPICE CIRCUIT SIMULATOR THAT ENABLES THE EFFICIENT VERIFICATION OF DESIGNS.
+"
+2021-05-21	20.15	20.15	
+2021-05-24	18.4	18.4	"Cadence Announces New Low-Power IP for PCI Express 5.0 Specification on TSMC N5 Process. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS--CADENCE IP SUPPORTING THE PCI EXPRESS 5.0 SPECIFICATION ON TSMC N5 PROCESS TECHNOLOGY IS IMMEDIATELY AVAILABLE FOR VERY HIGH-BANDWIDTH APPLICATIONS.
+. Cadence Accelerates Cloud Hyperscale Infrastructure with Third-Generation 112G-LR SerDes IP on TSMC's N5 Process. SAN JOSE, CALIF.--(BUSINESS WIRE)--CADENCE ANNOUNCED ITS THIRD-GENERATION 112G-LR SERDES IP ON TSMC'S N5 PROCESS FOR HYPERSCALE ASICS, AI/ML ACCELERATORS, AND SWITCH FABRIC SOCS.
+. Cadence Announces New Low-Power IP for PCI Express 5.0 Specification on TSMC N5 Process. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS--CADENCE IP SUPPORTING THE PCI EXPRESS 5.0 SPECIFICATION ON TSMC N5 PROCESS TECHNOLOGY IS IMMEDIATELY AVAILABLE FOR VERY HIGH-BANDWIDTH APPLICATIONS.
+. Cadence Accelerates Cloud Hyperscale Infrastructure with Third-Generation 112G-LR SerDes IP on TSMC's N5 Process. SAN JOSE, CALIF.--(BUSINESS WIRE)--CADENCE ANNOUNCED ITS THIRD-GENERATION 112G-LR SERDES IP ON TSMC'S N5 PROCESS FOR HYPERSCALE ASICS, AI/ML ACCELERATORS, AND SWITCH FABRIC SOCS.
+"
+2021-05-25	18.84	18.84	"Cadence Collaboration With Arm Enables Customers to Successfully Tape out Next-Generation Arm Mobile Designs. SAN JOSE, CALIF.--(BUSINESS WIRE)--THROUGH A COLLABORATION WITH ARM, CUSTOMERS HAVE SUCCESSFULLY TAPED OUT MOBILE SOCS USING CADENCE TOOLS AND THE NEXT-GENERATION ARM MOBILE SOLUTION.
+. Cadence Collaboration With Arm Enables Customers to Successfully Tape out Next-Generation Arm Mobile Designs. SAN JOSE, CALIF.--(BUSINESS WIRE)--THROUGH A COLLABORATION WITH ARM, CUSTOMERS HAVE SUCCESSFULLY TAPED OUT MOBILE SOCS USING CADENCE TOOLS AND THE NEXT-GENERATION ARM MOBILE SOLUTION.
+"
+2021-05-26	17.360001	17.360001	"Cadence Unleashes Clarity 3D Solver on the Cloud for Straightforward, Secure and Scalable Electromagnetic Analysis of Complex Systems on AWS. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS--THE NEW CADENCE® CLARITY™ 3D SOLVER CLOUD PROVIDES STRAIGHTFORWARD, SECURE AND SCALABLE ELECTROMAGNETIC ANALYSIS OF COMPLEX SYSTEMS ON AWS.
+. Cadence Unleashes Clarity 3D Solver on the Cloud for Straightforward, Secure and Scalable Electromagnetic Analysis of Complex Systems on AWS. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS--THE NEW CADENCE® CLARITY™ 3D SOLVER CLOUD PROVIDES STRAIGHTFORWARD, SECURE AND SCALABLE ELECTROMAGNETIC ANALYSIS OF COMPLEX SYSTEMS ON AWS.
+"
+2021-05-27	16.74	16.74	"Cadence Collaborates with TSMC to Accelerate Mobile, AI and Hyperscale Computing Application Development on N3 and N4 Processes. SAN JOSE, CALIF.--(BUSINESS WIRE)--CADENCE IS COLLABORATING WITH TSMC TO ACCELERATE MOBILE, AI AND HYPERSCALE COMPUTING APPLICATION DESIGN ON TSMC N3 AND N4 PROCESS TECHNOLOGIES.
+. Cadence Collaborates with TSMC to Accelerate Mobile, AI and Hyperscale Computing Application Development on N3 and N4 Processes. SAN JOSE, CALIF.--(BUSINESS WIRE)--CADENCE IS COLLABORATING WITH TSMC TO ACCELERATE MOBILE, AI AND HYPERSCALE COMPUTING APPLICATION DESIGN ON TSMC N3 AND N4 PROCESS TECHNOLOGIES.
+"
+2021-05-28	16.76	16.76	
+2021-06-01	17.9	17.9	
+2021-06-02	17.48	17.48	"EdgeCortix Collaborates With Cadence To Accelerate AI Chip Design. SAN JOSE, CALIF.--(BUSINESS WIRE)--CADENCE TODAY ANNOUNCED THAT EDGECORTIX, INC HAS DEPLOYED MULTIPLE CADENCE TOOLS TO ACCELERATE THE DESIGN AND VERIFICATION OF ITS EDGE AI CHIPS.
+. EdgeCortix Collaborates With Cadence To Accelerate AI Chip Design. SAN JOSE, CALIF.--(BUSINESS WIRE)--CADENCE TODAY ANNOUNCED THAT EDGECORTIX, INC HAS DEPLOYED MULTIPLE CADENCE TOOLS TO ACCELERATE THE DESIGN AND VERIFICATION OF ITS EDGE AI CHIPS.
+"
+2021-06-03	18.040001	18.040001	
+2021-06-04	16.42	16.42	
+2021-06-07	16.42	16.42	
+2021-06-08	17.07	17.07	"New Cadence Allegro X Design Platform Revolutionizes System Design. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS--THE CADENCE ALLEGRO X DESIGN PLATFORM UNIFIES SCHEMATIC, LAYOUT, ANALYSIS, DESIGN COLLABORATION AND DATA MANAGEMENT, REVOLUTIONIZING SYSTEM DESIGN.
+. New Cadence Allegro X Design Platform Revolutionizes System Design. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS--THE CADENCE ALLEGRO X DESIGN PLATFORM UNIFIES SCHEMATIC, LAYOUT, ANALYSIS, DESIGN COLLABORATION AND DATA MANAGEMENT, REVOLUTIONIZING SYSTEM DESIGN.
+"
+2021-06-09	17.889999	17.889999	
+2021-06-10	16.1	16.1	"Sequans Communications Adopts Cadence RF Solution to Develop Next-Generation 5G IoT Platform. SAN JOSE, CALIF.--(BUSINESS WIRE)--CADENCE ANNOUNCED THAT SEQUANS COMMUNICATIONS S.A. HAS ADOPTED THE CADENCE RF SOLUTION TO DEVELOP ITS NEXT-GENERATION 5G IOT PLATFORM.
+. Sequans Communications Adopts Cadence RF Solution to Develop Next-Generation 5G IoT Platform. SAN JOSE, CALIF.--(BUSINESS WIRE)--CADENCE ANNOUNCED THAT SEQUANS COMMUNICATIONS S.A. HAS ADOPTED THE CADENCE RF SOLUTION TO DEVELOP ITS NEXT-GENERATION 5G IOT PLATFORM.
+"
+2021-06-11	15.65	15.65	
+2021-06-14	16.389999	16.389999	
+2021-06-15	17.02	17.02	
+2021-06-16	18.15	18.15	
+2021-06-17	17.75	17.75	"New Cadence Tensilica FloatingPoint DSP Family Delivers Scalable Performance for a Broad Range of Compute-Intensive Applications. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS--THE CADENCE® TENSILICA® FLOATINGPOINT DSP FAMILY PROVIDES A SCALABLE AND CONFIGURABLE SOLUTION FOR A BROAD RANGE OF COMPUTE-INTENSIVE APPLICATIONS.
+. New Cadence Tensilica FloatingPoint DSP Family Delivers Scalable Performance for a Broad Range of Compute-Intensive Applications. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS--THE CADENCE® TENSILICA® FLOATINGPOINT DSP FAMILY PROVIDES A SCALABLE AND CONFIGURABLE SOLUTION FOR A BROAD RANGE OF COMPUTE-INTENSIVE APPLICATIONS.
+"
+2021-06-18	20.700001	20.700001	
+2021-06-21	17.889999	17.889999	
+2021-06-22	16.66	16.66	"Cadence Advances RF Design with the Latest AWR Design Environment Platform. SAN JOSE, CALIF.--(BUSINESS WIRE)--CADENCE TODAY ANNOUNCED AWR DESIGN ENVIRONMENT V16 WITH CROSS-PLATFORM INTEROPERABILITY TO SUPPORT RF TO MMWAVE RF IP INTEGRATION.
+. Cadence Advances RF Design with the Latest AWR Design Environment Platform. SAN JOSE, CALIF.--(BUSINESS WIRE)--CADENCE TODAY ANNOUNCED AWR DESIGN ENVIRONMENT V16 WITH CROSS-PLATFORM INTEROPERABILITY TO SUPPORT RF TO MMWAVE RF IP INTEGRATION.
+"
+2021-06-23	16.32	16.32	
+2021-06-24	15.97	15.97	"Presto Engineering and Cadence Collaborate on IC Packaging for Automotive and IoT Markets. MEYREUIL, FRANCE & SAN JOSE, CALIF.--(BUSINESS WIRE)--PRESTO ENGINEERING AND CADENCE COLLABORATE ON IC PACKAGING FOR AUTOMOTIVE AND IOT MARKETS
+. Presto Engineering and Cadence Collaborate on IC Packaging for Automotive and IoT Markets. MEYREUIL, FRANCE & SAN JOSE, CALIF.--(BUSINESS WIRE)--PRESTO ENGINEERING AND CADENCE COLLABORATE ON IC PACKAGING FOR AUTOMOTIVE AND IOT MARKETS
+"
+2021-06-25	15.62	15.62	
+2021-06-28	15.76	15.76	"New Cadence Report Reveals Majority of Consumers Believe Hyperconnectivity Will Positively Impact Their Lives. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS--A NEW REPORT FROM CADENCE REVEALS CONSUMER AWARENESS AND IMPRESSIONS OF HYPERCONNECTIVITY AND HYPERSCALE COMPUTING AND THEIR IMPACT ON PEOPLE'S LIVES.
+. New Cadence Report Reveals Majority of Consumers Believe Hyperconnectivity Will Positively Impact Their Lives. SAN JOSE, CALIF.--(BUSINESS WIRE)---- $CDNS--A NEW REPORT FROM CADENCE REVEALS CONSUMER AWARENESS AND IMPRESSIONS OF HYPERCONNECTIVITY AND HYPERSCALE COMPUTING AND THEIR IMPACT ON PEOPLE'S LIVES.
+"
+2021-06-29	16.02	16.02	
+2021-06-30	15.83	15.83	
+2021-07-01	15.48	15.48	
+2021-07-02	15.07	15.07	
+2021-07-06	16.440001	16.440001	
+2021-07-07	16.200001	16.200001	
+2021-07-08	19.0	19.0	
+2021-07-09	16.18	16.18	
+2021-07-12	16.17	16.17	
+2021-07-13	17.120001	17.120001	"Cadence and UMC Collaborate on 22ULP/ULL Reference Flow Certification for Advanced Consumer, 5G and Automotive Designs. SAN JOSE, CALIF. & HSINCHU, TAIWAN,--(BUSINESS WIRE)--CADENCE AND UMC ANNOUNCED THAT THE CADENCE DIGITAL FULL FLOW HAS BEEN OPTIMIZED AND CERTIFIED FOR THE UMC 22ULP/ULL PROCESS TECHNOLOGIES.
+. Cadence and UMC Collaborate on 22ULP/ULL Reference Flow Certification for Advanced Consumer, 5G and Automotive Designs. SAN JOSE, CALIF. & HSINCHU, TAIWAN,--(BUSINESS WIRE)--CADENCE AND UMC ANNOUNCED THAT THE CADENCE DIGITAL FULL FLOW HAS BEEN OPTIMIZED AND CERTIFIED FOR THE UMC 22ULP/ULL PROCESS TECHNOLOGIES.
+"
+2021-07-14	16.33	16.33	
+2021-07-15	17.01	17.01	
+2021-07-16	18.450001	18.450001	
