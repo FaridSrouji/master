@@ -90,7 +90,7 @@ df = pd.DataFrame(data=selected_data[0:,1:],
 
 
 print(df)
-fdsaf
+
 ###############################################################################################  
 import json
 directory = '/Users/Farid Srouji/Documents/Research/master/financialmodelingprep/data/json/'

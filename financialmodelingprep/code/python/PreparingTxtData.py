@@ -11,7 +11,7 @@ from datetime import datetime
 ################################################################################################
 ## Preparing VIX data
 # Reading VIX index prices csv file
-with open('/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/globaldata/VIX.csv', 'r') as csvfile:
+with open('/Users/Farid Srouji/Documents/Research/master/globaldata/vix.csv', 'r') as csvfile:
     spamreader = csv.reader(csvfile, delimiter=',')
     # Converting the csv file reader to a lists 
     data_list = list(spamreader)
@@ -33,7 +33,8 @@ df = pd.DataFrame(data=selected_data[0:,1:],
                                 columns=['close', 'adj close'],
                                         dtype='float64')
 
-print(df)
+
+
 # Reference for pandas interpolation http://pandas.pydata.org/pandas-docs/stable/missing_data.html
 # Adding missing dates to the dataframe
 # df1 = df
@@ -85,7 +86,7 @@ print(interpolated_df.keys)
 import os 
  
 
-directory = '/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/financialmodelingprep/data/companies_txt/'
+directory = '/Users/Farid Srouji/Documents/Research/master/financialmodelingprep/data/txt/date/title_text/'
 for filename in os.listdir(directory):
     dateStr = os.path.splitext(filename)[0]
     print("|"+dateStr+"|")
@@ -95,7 +96,7 @@ for filename in os.listdir(directory):
         print ("ERROR desktop.ini")
         pass
     else:
-        filename = '/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/financialmodelingprep/data/txt/' + filename
+        filename = '/Users/Farid Srouji/Documents/Research/master/financialmodelingprep/data/txt/date/title_text/' + filename
         #print(date)
         print("filename="+filename)
         if os.path.isfile(filename):
@@ -135,14 +136,14 @@ print("count_unicode_error=")
 print(count_unicode_error)
 
 # Saving the data as pickle file
-interpolated_df.to_pickle('/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/financialmodelingprep/data/pkl/pickled_filtered_lead_para_sp500_clean.pkl')  
+interpolated_df.to_pickle('/Users/Farid Srouji/Documents/Research/master/financialmodelingprep/data/pkl/pickled_filtered_lead_para_sp500_clean.pkl')  
 
 # Save pandas frame in csv form
-interpolated_df.to_csv('/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/financialmodelingprep/data/pkl/sample_interpolated_df_filtered_lead_para_sp500_clean.csv',
+interpolated_df.to_csv('/Users/Farid Srouji/Documents/Research/master/financialmodelingprep/data/pkl/sample_interpolated_df_filtered_lead_para_sp500_clean.csv',
                        sep='\t', encoding='utf-8')
 
 # Reading the data as pickle file
-dataframe_read = pd.read_pickle('/Users/Farid Srouji/Documents/Research/VIXInterplaySentiment/master/financialmodelingprep/data/pkl/pickled_filtered_lead_para_sp500_clean.pkl')
+dataframe_read = pd.read_pickle('/Users/Farid Srouji/Documents/Research/master/financialmodelingprep/data/pkl/pickled_filtered_lead_para_sp500_clean.pkl')
 
 print("Finished")
 #################################################################################

@@ -156,25 +156,25 @@ for company in sp500:
         f_text = open(file_str_text, "a", encoding='utf-8')
         f_title_text = open(file_str_title, "a", encoding='utf-8')
 
-        if (fileDateStr!="2021-08-09"):
-            titles = df_title.loc[fileDateStr][hour]
-            texts = df_text.loc[fileDateStr][hour]
-            title_text = df_title_text.loc[fileDateStr][hour]
+        # if (fileDateStr!="2021-08-09"):
+        titles = df_title.loc[fileDateStr][hour]
+        texts = df_text.loc[fileDateStr][hour]
+        title_text = df_title_text.loc[fileDateStr][hour]
 
-            if (titles==''):
-                df_title.at[fileDateStr,hour] = one_press_release["title"]
-            else:
-                df_title.at[fileDateStr,hour] = titles + ". " + one_press_release["title"]
+        if (titles==''):
+            df_title.at[fileDateStr,hour] = one_press_release["title"]
+        else:
+            df_title.at[fileDateStr,hour] = titles + ". " + one_press_release["title"]
 
-            if(texts==''):
-                df_text.at[fileDateStr,hour] = one_press_release["text"]
-            else:
-                df_text.at[fileDateStr,hour] = texts + ". " + one_press_release["text"]
-            
-            if(title_text==''):
-                df_title_text.at[fileDateStr,hour] = (one_press_release["title"] + ". " + one_press_release["text"] + "\n")
-            else:
-                df_title_text.at[fileDateStr,hour] = title_text + ". " + (one_press_release["title"] + ". " + one_press_release["text"] + "\n")
+        if(texts==''):
+            df_text.at[fileDateStr,hour] = one_press_release["text"]
+        else:
+            df_text.at[fileDateStr,hour] = texts + ". " + one_press_release["text"]
+        
+        if(title_text==''):
+            df_title_text.at[fileDateStr,hour] = (one_press_release["title"] + ". " + one_press_release["text"] + "\n")
+        else:
+            df_title_text.at[fileDateStr,hour] = title_text + ". " + (one_press_release["title"] + ". " + one_press_release["text"] + "\n")
         # title_and_text = (one_press_release["title"] + ". " + one_press_release["text"] + "\n")
         # df_text.at[fileDateStr,"title_and_text"] = titles_and_texts + title_and_text
 
