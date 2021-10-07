@@ -1,0 +1,505 @@
+﻿Rank,Ticker,Company,Industry,Market Cap ($M),MarketCapMillions
+1,AAPL,Apple,Consumer Electronics," $            2,236,010",2236010
+2,MSFT,Microsoft,Software – Infrastructure," $            1,838,040",1838040
+3,AMZN,Amazon.com,Internet Retail," $            1,646,130",1646130
+4,GOOG,Alphabet,Internet Content & Information," $            1,427,450",1427450
+5,GOOGL,Alphabet,Internet Content & Information," $            1,426,070",1426070
+6,FB,Facebook,Internet Content & Information," $               780,175",780175
+7,TSLA,Tesla,Auto Manufacturers," $               764,254",764254
+8,BRK.B,Berkshire Hathaway,Insurance – Diversified," $               574,935",574935
+9,V,Visa,Credit Services," $               458,388",458388
+10,JPM,JPMorgan Chase,Banks – Diversified," $               441,095",441095
+11,JNJ,Johnson & Johnson,Drug Manufacturers – General," $               434,553",434553
+12,WMT,Walmart,Discount Stores," $               412,113",412113
+13,NVDA,NVIDIA,Semiconductors," $               379,576",379576
+14,PYPL,PayPal Holdings,Credit Services," $               356,962",356962
+15,MA,Mastercard,Credit Services," $               338,945",338945
+16,DIS,Walt Disney,Entertainment," $               338,274",338274
+17,PG,Procter & Gamble,Household & Personal Products," $               315,000",315000
+18,UNH,UnitedHealth Group,Healthcare Plans," $               308,005",308005
+19,HD,Home Depot,Home Improvement Retail," $               296,485",296485
+20,BAC,Bank of America,Banks – Diversified," $               296,463",296463
+21,INTC,Intel,Semiconductors," $               255,354",255354
+22,NFLX,Netflix,Entertainment,,
+23,CMCSA,Comcast,Entertainment," $               241,760",241760
+24,ADBE,Adobe,Software – Infrastructure," $               240,134",240134
+25,CRM,Salesforce.com,Software – Application," $               228,139",228139
+26,ABT,Abbott Laboratories,Medical Devices," $               226,897",226897
+27,VZ,Verizon Communications,Telecom Services," $               224,072",224072
+28,NKE,Nike,Footwear & Accessories," $               223,404",223404
+29,XOM,Exxon Mobil,Oil & Gas Integrated," $               220,285",220285
+30,KO,Coca-Cola,Beverages – Non-Alcoholic," $               216,031",216031
+31,T,AT&T,Telecom Services," $               206,439",206439
+32,AVGO,Broadcom,Semiconductors," $               198,935",198935
+33,TMO,Thermo Fisher Scientific,Diagnostics & Research," $               198,198",198198
+34,LLY,Eli Lilly,Drug Manufacturers – General," $               196,825",196825
+35,CSCO,Cisco Systems,Communication Equipment," $               196,528",196528
+36,PFE,Pfizer,Drug Manufacturers – General," $               192,820",192820
+37,MRK,Merck & Co,Drug Manufacturers – General," $               187,854",187854
+38,PEP,PepsiCo,Beverages – Non-Alcoholic," $               185,392",185392
+39,ABBV,AbbVie,Drug Manufacturers – General," $               183,962",183962
+40,ORCL,Oracle,Software – Infrastructure," $               182,942",182942
+41,CVX,Chevron,Oil & Gas Integrated," $               181,810",181810
+42,DHR,Danaher,Diagnostics & Research," $               172,253",172253
+43,ACN,Accenture,Information Technology Services," $               170,311",170311
+44,QCOM,Qualcomm,Semiconductors," $               167,173",167173
+45,TXN,Texas Instruments,Semiconductors," $               166,182",166182
+46,MDT,Medtronic,Medical Devices," $               161,091",161091
+47,MCD,McDonald’s,Restaurants," $               160,221",160221
+48,NEE,NextEra Energy,Utilities – Regulated Electric," $               159,122",159122
+49,COST,Costco Wholesale,Discount Stores," $               157,115",157115
+50,TMUS,T-Mobile US,Telecom Services," $               151,424",151424
+51,WFC,Wells Fargo,Banks – Diversified," $               144,626",144626
+52,UNP,Union Pacific,Railroads," $               143,336",143336
+53,HON,Honeywell International,Specialty Industrial Machinery," $               141,493",141493
+54,UPS,United Parcel Service,Integrated Freight & Logistics," $               139,913",139913
+55,MS,Morgan Stanley,Capital Markets," $               137,589",137589
+56,AMGN,Amgen,Drug Manufacturers – General," $               134,480",134480
+57,PM,Philip Morris Intl,Tobacco," $               133,940",133940
+58,C,Citigroup,Banks – Diversified," $               133,504",133504
+59,BMY,Bristol-Myers Squibb,Drug Manufacturers – General," $               133,084",133084
+60,LIN,Linde,Specialty Chemicals," $               131,287",131287
+61,LOW,Lowe’s Companies,Home Improvement Retail," $               127,538",127538
+62,BA,Boeing,Aerospace & Defense," $               126,615",126615
+63,SBUX,Starbucks,Restaurants," $               124,970",124970
+64,CHTR,Charter Communications,Entertainment," $               119,817",119817
+65,INTU,Intuit,Software – Application," $               115,718",115718
+66,NOW,ServiceNow,Software – Application," $               114,863",114863
+67,SCHW,Charles Schwab,Capital Markets," $               114,529",114529
+68,BLK,BlackRock,Asset Management," $               111,396",111396
+69,AMD,Advanced Micro Devices,Semiconductors," $               110,787",110787
+70,RTX,Raytheon Technologies,Aerospace & Defense," $               110,314",110314
+71,CAT,Caterpillar,Farm & Heavy Construction Machinery," $               109,944",109944
+72,AMAT,Applied Materials,Semiconductor Equipment & Materials," $               108,605",108605
+73,GS,Goldman Sachs Group,Capital Markets," $               107,335",107335
+74,EL,Estee Lauder Cos,Household & Personal Products," $               107,282",107282
+75,IBM,IBM,Information Technology Services," $               106,989",106989
+76,AXP,American Express,Credit Services," $               105,274",105274
+77,GE,General Electric,Specialty Industrial Machinery," $               104,951",104951
+78,MMM,3M,Specialty Industrial Machinery," $               102,286",102286
+79,AMT,American Tower,REIT – Specialty," $                 99,938",99938
+80,DE,Deere,Farm & Heavy Construction Machinery," $                 99,699",99699
+81,MU,Micron Technology,Semiconductors," $                 98,152",98152
+82,TGT,Target,Discount Stores," $                 95,781",95781
+83,LMT,Lockheed Martin,Aerospace & Defense," $                 93,842",93842
+84,SYK,Stryker,Medical Devices," $                 93,244",93244
+85,ISRG,Intuitive Surgical,Medical Instruments & Supplies," $                 93,097",93097
+86,CVS,CVS Health,Healthcare Plans," $                 92,317",92317
+87,BKNG,Booking Holdings,Travel Services," $                 89,451",89451
+88,LRCX,Lam Research,Semiconductor Equipment & Materials," $                 84,571",84571
+89,FIS,Fidelity National Info,Information Technology Services," $                 82,595",82595
+90,SPGI,S&P Global,Financial Data & Stock Exchanges," $                 81,435",81435
+91,GILD,Gilead Sciences,Drug Manufacturers – General," $                 81,228",81228
+92,TJX,TJX Companies,Apparel Retail," $                 81,041",81041
+93,MO,Altria Group,Tobacco," $                 80,673",80673
+94,ATVI,Activision Blizzard,Electronic Gaming & Multimedia," $                 79,573",79573
+95,ZTS,Zoetis,Drug Manufacturers – Specialty & Generic," $                 79,045",79045
+96,PLD,Prologis,REIT – Industrial," $                 78,815",78815
+97,MDLZ,Mondelez International,Confectioners," $                 77,496",77496
+98,GM,General Motors,Auto Manufacturers," $                 77,030",77030
+99,TFC,Truist Financial,Banks – Regional," $                 75,069",75069
+100,BDX,"Becton, Dickinson",Medical Instruments & Supplies," $                 74,847",74847
+101,CB,Chubb,Insurance – Property & Casualty," $                 74,276",74276
+102,FISV,Fiserv,Information Technology Services," $                 73,681",73681
+103,USB,U.S. Bancorp,Banks – Regional," $                 73,320",73320
+104,PNC,PNC Financial Services Gr,Banks – Regional," $                 72,041",72041
+105,ANTM,Anthem,Healthcare Plans," $                 72,029",72029
+106,ILMN,Illumina,Diagnostics & Research," $                 71,911",71911
+107,CI,Cigna,Healthcare Plans," $                 71,259",71259
+108,ADP,Automatic Data Processing,Staffing & Employment Services," $                 71,105",71105
+109,CCI,Crown Castle Intl,REIT – Specialty," $                 69,852",69852
+110,FDX,FedEx,Integrated Freight & Logistics," $                 69,402",69402
+111,CSX,CSX,Railroads," $                 69,197",69197
+112,CME,CME Group,Financial Data & Stock Exchanges," $                 67,996",67996
+113,ADSK,Autodesk,Software – Application," $                 67,774",67774
+114,CL,Colgate-Palmolive,Household & Personal Products," $                 67,021",67021
+115,COP,ConocoPhillips,Oil & Gas E&P," $                 66,173",66173
+116,DUK,Duke Energy,Utilities – Regulated Electric," $                 65,043",65043
+117,NSC,Norfolk Southern,Railroads," $                 64,590",64590
+118,SHW,Sherwin-Williams,Specialty Chemicals," $                 64,251",64251
+119,ICE,Intercontinental Exchange,Financial Data & Stock Exchanges," $                 63,146",63146
+120,ITW,Illinois Tool Works,Specialty Industrial Machinery," $                 63,024",63024
+121,SO,Southern,Utilities – Regulated Electric," $                 62,635",62635
+122,EQIX,Equinix,REIT – Specialty," $                 61,309",61309
+123,ECL,Ecolab,Specialty Chemicals," $                 60,202",60202
+124,ADI,Analog Devices,Semiconductors," $                 59,284",59284
+125,GPN,Global Payments,Specialty Business Services," $                 58,879",58879
+126,HCA,HCA Healthcare,Medical Care Facilities," $                 58,876",58876
+127,TWTR,Twitter,Internet Content & Information," $                 58,823",58823
+128,MMC,Marsh & McLennan,Insurance Brokers," $                 58,165",58165
+129,D,Dominion Energy,Utilities – Diversified," $                 58,028",58028
+130,APD,Air Products & Chemicals,Chemicals," $                 57,633",57633
+131,COF,Capital One Financial,Credit Services," $                 55,175",55175
+132,VRTX,Vertex Pharmaceuticals,Biotechnology," $                 54,661",54661
+133,EW,Edwards Lifesciences,Medical Devices," $                 54,320",54320
+134,BSX,Boston Scientific,Medical Devices," $                 53,716",53716
+135,MCO,Moody’s,Financial Data & Stock Exchanges," $                 52,649",52649
+136,KLAC,KLA,Semiconductor Equipment & Materials," $                 52,080",52080
+137,AON,Aon,Insurance Brokers," $                 51,918",51918
+138,REGN,Regeneron Pharmaceuticals,Biotechnology," $                 51,499",51499
+139,EMR,Emerson Electric,Specialty Industrial Machinery," $                 51,044",51044
+140,MET,MetLife,Insurance – Life," $                 50,879",50879
+141,ETN,Eaton Corp,Specialty Industrial Machinery," $                 49,824",49824
+142,PGR,Progressive,Insurance – Property & Casualty," $                 49,817",49817
+143,HUM,Humana,Healthcare Plans," $                 49,647",49647
+144,DG,Dollar General,Discount Stores," $                 49,056",49056
+145,MNST,Monster Beverage,Beverages – Non-Alcoholic," $                 48,662",48662
+146,NOC,Northrop Grumman,Aerospace & Defense," $                 48,494",48494
+147,ALGN,Align Tech,Medical Devices," $                 48,430",48430
+148,FCX,Freeport-McMoRan,Copper," $                 48,033",48033
+149,WM,Waste Management,Waste Management," $                 47,585",47585
+150,GD,General Dynamics,Aerospace & Defense," $                 46,752",46752
+151,NEM,Newmont,Gold," $                 46,433",46433
+152,IDXX,IDEXX Laboratories,Diagnostics & Research," $                 45,972",45972
+153,F,Ford Motor,Auto Manufacturers," $                 45,914",45914
+154,STZ,Constellation Brands,Beverages – Wineries & Distilleries," $                 45,017",45017
+155,SNPS,Synopsys,Software – Infrastructure," $                 44,481",44481
+156,KMB,Kimberly-Clark,Household & Personal Products," $                 44,068",44068
+157,LVS,Las Vegas Sands,Resorts & Casinos," $                 43,889",43889
+158,DOW,Dow,Chemicals," $                 43,704",43704
+159,MCHP,Microchip Technology,Semiconductors," $                 43,684",43684
+160,TEL,TE Connectivity,Electronic Components," $                 43,432",43432
+161,KHC,Kraft Heinz,Packaged Foods," $                 43,231",43231
+162,EBAY,eBay,Internet Retail," $                 42,775",42775
+163,ROST,Ross Stores,Apparel Retail," $                 42,750",42750
+164,BIIB,Biogen,Drug Manufacturers – General," $                 42,549",42549
+165,WBA,Walgreens Boots Alliance,Pharmaceutical Retailers," $                 42,458",42458
+166,MAR,Marriott Intl,Lodging," $                 42,292",42292
+167,EA,Electronic Arts,Electronic Gaming & Multimedia," $                 41,929",41929
+168,APTV,Aptiv,Auto Parts," $                 41,878",41878
+169,CMG,Chipotle Mexican Grill,Restaurants," $                 41,765",41765
+170,EXC,Exelon,Utilities – Diversified," $                 40,953",40953
+171,CDNS,Cadence Design Systems,Software – Application," $                 40,720",40720
+172,APH,Amphenol,Electronic Components," $                 40,664",40664
+173,CTSH,Cognizant Tech Solns,Information Technology Services," $                 40,385",40385
+174,ROP,Roper Technologies,Specialty Industrial Machinery," $                 40,249",40249
+175,PSA,Public Storage,REIT – Industrial," $                 40,200",40200
+176,BAX,Baxter International,Medical Instruments & Supplies," $                 39,296",39296
+177,A,Agilent Technologies,Diagnostics & Research," $                 39,260",39260
+178,SYY,Sysco,Food Distribution," $                 38,989",38989
+179,DXCM,DexCom,Diagnostics & Research," $                 38,891",38891
+180,AEP,American Electric Power,Utilities – Regulated Electric," $                 38,812",38812
+181,LHX,L3Harris Technologies,Aerospace & Defense," $                 38,763",38763
+182,DLR,Digital Realty Trust,REIT – Office," $                 38,437",38437
+183,DD,DuPont de Nemours,Chemicals," $                 38,198",38198
+184,JCI,Johnson Controls Intl,Engineering & Construction," $                 38,073",38073
+185,BK,Bank of New York Mellon,Asset Management," $                 37,909",37909
+186,SLB,Schlumberger,Oil & Gas Equipment & Services," $                 37,502",37502
+187,TROW,T. Rowe Price Group,Asset Management," $                 37,204",37204
+188,TRV,Travelers Companies,Insurance – Property & Casualty," $                 37,181",37181
+189,INFO,IHS Markit,Consulting Services," $                 36,922",36922
+190,EOG,EOG Resources,Oil & Gas E&P," $                 36,810",36810
+191,VIAC,ViacomCBS,Entertainment," $                 36,513",36513
+192,IQV,IQVIA Holdings,Diagnostics & Research," $                 36,438",36438
+193,MSCI,MSCI,Financial Data & Stock Exchanges," $                 36,407",36407
+194,AIG,American Intl Gr,Insurance – Diversified," $                 36,313",36313
+195,CTAS,Cintas,Specialty Business Services," $                 36,245",36245
+196,CMI,Cummins,Specialty Industrial Machinery," $                 36,184",36184
+197,SPG,Simon Property Group,REIT – Retail," $                 36,088",36088
+198,TT,Trane Technologies,Specialty Industrial Machinery," $                 36,069",36069
+199,SRE,Sempra Energy,Utilities – Diversified," $                 35,965",35965
+200,PH,Parker Hannifin,Specialty Industrial Machinery," $                 35,585",35585
+201,BF.B,Brown-Forman,Beverages – Wineries & Distilleries," $                 35,483",35483
+202,HPQ,HP,Computer Hardware," $                 35,026",35026
+203,XLNX,Xilinx,Semiconductors," $                 34,971",34971
+204,PSX,Phillips 66,Oil & Gas Refining & Marketing," $                 34,677",34677
+205,ANSS,Ansys,Software – Application," $                 34,512",34512
+206,ALXN,Alexion Pharmaceuticals,Biotechnology," $                 34,426",34426
+207,GIS,General Mills,Packaged Foods," $                 34,417",34417
+208,KMI,Kinder Morgan,Oil & Gas Midstream," $                 34,056",34056
+209,IFF,Intl Flavors & Fragrances,Specialty Chemicals," $                 34,040",34040
+210,MPC,Marathon Petroleum,Oil & Gas Refining & Marketing," $                 33,871",33871
+211,CNC,Centene,Healthcare Plans," $                 33,738",33738
+212,CTVA,Corteva,Agricultural Inputs," $                 33,691",33691
+213,PCAR,PACCAR,Farm & Heavy Construction Machinery," $                 33,664",33664
+214,ZBH,Zimmer Biomet Holdings,Medical Devices," $                 33,240",33240
+215,AFL,Aflac,Insurance – Life," $                 32,788",32788
+216,PRU,Prudential Financial,Insurance – Life," $                 32,772",32772
+217,LYB,LyondellBasell Industries,Specialty Chemicals," $                 32,719",32719
+218,XEL,Xcel Energy,Utilities – Regulated Electric," $                 32,511",32511
+219,PPG,PPG Industries,Specialty Chemicals," $                 32,442",32442
+220,CARR,Carrier Global,Building Products & Equipment," $                 32,402",32402
+221,PAYX,Paychex,Staffing & Employment Services," $                 32,023",32023
+222,SWKS,Skyworks Solutions,Semiconductors," $                 32,013",32013
+223,YUM,Yum Brands,Restaurants," $                 31,855",31855
+224,VFC,VF,Apparel Manufacturing," $                 31,681",31681
+225,HLT,Hilton Worldwide Holdings,Lodging," $                 31,519",31519
+226,HSY,Hershey,Confectioners," $                 31,499",31499
+227,ALL,Allstate,Insurance – Property & Casualty," $                 31,382",31382
+228,BBY,Best Buy Co,Specialty Retail," $                 31,267",31267
+229,ORLY,O’Reilly Automotive,Specialty Retail," $                 31,181",31181
+230,ADM,Archer-Daniels Midland,Farm Products," $                 31,169",31169
+231,TDG,TransDigm Gr,Aerospace & Defense," $                 31,166",31166
+232,MSI,Motorola Solutions,Communication Equipment," $                 30,990",30990
+233,LUV,Southwest Airlines,Airlines," $                 30,691",30691
+234,VRSK,Verisk Analytics,Consulting Services," $                 30,624",30624
+235,GLW,Corning,Electronic Components," $                 29,658",29658
+236,BLL,Ball,Packaging & Containers," $                 29,498",29498
+237,DFS,Discover Financial,Credit Services," $                 29,441",29441
+238,PXD,Pioneer Natural Resources,Oil & Gas E&P," $                 29,438",29438
+239,WLTW,Willis Towers Watson,Insurance Brokers," $                 29,403",29403
+240,PEG,Public Service Enterprise,Utilities – Diversified," $                 29,313",29313
+241,AWK,American Water Works Co,Utilities – Regulated Water," $                 29,287",29287
+242,ROK,Rockwell Automation,Specialty Industrial Machinery," $                 29,005",29005
+243,SBAC,SBA Communications,REIT – Specialty," $                 28,815",28815
+244,RSG,Republic Services,Waste Management," $                 28,805",28805
+245,ETSY,Etsy,Internet Retail," $                 28,788",28788
+246,DHI,D.R. Horton,Residential Construction," $                 28,787",28787
+247,MCK,McKesson,Medical Distribution," $                 28,776",28776
+248,ES,Eversource Energy,Utilities – Regulated Electric," $                 28,759",28759
+249,DAL,Delta Air Lines,Airlines," $                 28,492",28492
+250,MTD,Mettler-Toledo Intl,Diagnostics & Research," $                 28,335",28335
+251,RMD,ResMed,Medical Instruments & Supplies," $                 28,242",28242
+252,KEYS,Keysight Technologies,Scientific & Technical Instruments," $                 28,111",28111
+253,FRC,First Republic Bank,Banks – Regional," $                 28,086",28086
+254,WELL,Welltower,REIT – Healthcare Facilities," $                 28,035",28035
+255,CPRT,Copart,Specialty Business Services," $                 27,896",27896
+256,AME,AMETEK,Specialty Industrial Machinery," $                 27,890",27890
+257,WMB,Williams Companies,Oil & Gas Midstream," $                 27,802",27802
+258,SWK,Stanley Black & Decker,Tools & Accessories," $                 27,503",27503
+259,OTIS,Otis Worldwide,Specialty Industrial Machinery," $                 27,365",27365
+260,VLO,Valero Energy,Oil & Gas Refining & Marketing," $                 27,305",27305
+261,SIVB,SVB Financial,Banks – Regional," $                 27,248",27248
+262,LEN,Lennar,Residential Construction," $                 26,962",26962
+263,FAST,Fastenal,Industrial Distribution," $                 26,935",26935
+264,FTNT,Fortinet,Software – Infrastructure," $                 26,766",26766
+265,AZO,AutoZone,Specialty Retail," $                 26,703",26703
+266,STT,State Street,Asset Management," $                 26,648",26648
+267,WY,Weyerhaeuser,REIT – Specialty," $                 26,042",26042
+268,ZBRA,Zebra Technologies,Communication Equipment," $                 25,985",25985
+269,MXIM,Maxim Integrated Products,Semiconductors," $                 25,773",25773
+270,AMP,Ameriprise Financial,Asset Management," $                 25,717",25717
+271,KR,Kroger,Grocery Stores," $                 25,626",25626
+272,WEC,WEC Energy Gr,Utilities – Regulated Electric," $                 25,606",25606
+273,HRL,Hormel Foods,Packaged Foods," $                 25,413",25413
+274,GRMN,Garmin,Scientific & Technical Instruments," $                 25,334",25334
+275,DLTR,Dollar Tree,Discount Stores," $                 25,317",25317
+276,CCL,Carnival,Travel Services," $                 25,083",25083
+277,EQR,Equity Residential,REIT – Residential," $                 25,007",25007
+278,AVB,AvalonBay Communities,REIT – Residential," $                 24,928",24928
+279,ODFL,Old Dominion Freight Line,Trucking," $                 24,661",24661
+280,OXY,Occidental Petroleum,Oil & Gas E&P," $                 24,639",24639
+281,ENPH,Enphase Energy,Solar," $                 24,444",24444
+282,ANET,Arista Networks,Computer Hardware," $                 24,110",24110
+283,BKR,Baker Hughes,Oil & Gas Equipment & Services," $                 24,048",24048
+284,TSN,Tyson Foods,Farm Products," $                 23,956",23956
+285,FITB,Fifth Third Bancorp,Banks – Regional," $                 23,855",23855
+286,TER,Teradyne,Semiconductor Equipment & Materials," $                 23,852",23852
+287,ED,Consolidated Edison,Utilities – Regulated Electric," $                 23,719",23719
+288,CBRE,CBRE Group,Real Estate Services," $                 23,669",23669
+289,NDAQ,Nasdaq,Financial Data & Stock Exchanges," $                 23,619",23619
+290,FTV,Fortive,Scientific & Technical Instruments," $                 23,536",23536
+291,DTE,DTE Energy,Utilities – Regulated Electric," $                 23,343",23343
+292,ARE,Alexandria Real Estate,REIT – Office," $                 23,319",23319
+293,MKC,McCormick & Co,Packaged Foods," $                 23,223",23223
+294,CLX,Clorox,Household & Personal Products," $                 23,110",23110
+295,O,Realty Income,REIT – Retail," $                 23,037",23037
+296,LH,Laboratory Corp,Diagnostics & Research," $                 23,021",23021
+297,AJG,Arthur J. Gallagher,Insurance Brokers," $                 22,796",22796
+298,VRSN,VeriSign,Software – Infrastructure," $                 22,610",22610
+299,FLT,Fleetcor Technologies,Information Technology Services," $                 22,584",22584
+300,TTWO,Take-Two Interactive,Electronic Gaming & Multimedia," $                 22,536",22536
+301,PAYC,Paycom Software,Software – Application," $                 22,475",22475
+302,CERN,Cerner,Health Information Services," $                 22,303",22303
+303,CDW,CDW,Information Technology Services," $                 22,295",22295
+304,VTRS,Viatris,Drug Manufacturers – Specialty & Generic," $                 22,283",22283
+305,SYF,Synchrony Finl,Credit Services," $                 22,128",22128
+306,WST,West Pharmaceutical Servs,Medical Instruments & Supplies," $                 21,853",21853
+307,EIX,Edison Intl,Utilities – Regulated Electric," $                 21,567",21567
+308,PPL,PPL,Utilities – Regulated Electric," $                 21,541",21541
+309,VMC,Vulcan Materials,Building Materials," $                 21,526",21526
+310,HOLX,Hologic,Medical Instruments & Supplies," $                 21,495",21495
+311,EXPE,Expedia Group,Travel Services," $                 21,268",21268
+312,EFX,Equifax,Consulting Services," $                 21,265",21265
+313,ABC,AmerisourceBergen,Medical Distribution," $                 21,159",21159
+314,DISCK,Discovery,Entertainment," $                 20,982",20982
+315,DISCA,Discovery,Entertainment," $                 20,913",20913
+316,CTLT,Catalent,Drug Manufacturers – Specialty & Generic," $                 20,900",20900
+317,URI,United Rentals,Rental & Leasing Services," $                 20,798",20798
+318,NTRS,Northern Trust,Asset Management," $                 20,603",20603
+319,OKE,ONEOK,Oil & Gas Midstream," $                 20,419",20419
+320,MKTX,MarketAxess Holdings,Capital Markets," $                 20,405",20405
+321,WDC,Western Digital,Computer Hardware," $                 20,403",20403
+322,MLM,Martin Marietta Materials,Building Materials," $                 20,279",20279
+323,QRVO,Qorvo,Semiconductors," $                 20,190",20190
+324,CHD,Church & Dwight Co,Household & Personal Products," $                 20,037",20037
+325,KMX,CarMax,Auto & Truck Dealerships," $                 19,887",19887
+326,GWW,W.W. Grainger,Industrial Distribution," $                 19,837",19837
+327,K,Kellogg,Packaged Foods," $                 19,543",19543
+328,RF,Regions Financial,Banks – Regional," $                 19,419",19419
+329,IP,International Paper,Packaging & Containers," $                 19,335",19335
+330,KEY,KeyCorp,Banks – Regional," $                 19,309",19309
+331,BIO,Bio-Rad Laboratories,Medical Devices," $                 19,279",19279
+332,AES,AES,Utilities – Diversified," $                 19,228",19228
+333,KSU,Kansas City Southern,Railroads," $                 19,181",19181
+334,MTB,M&T Bank,Banks – Regional," $                 19,073",19073
+335,TYL,Tyler Technologies,Software – Application," $                 19,022",19022
+336,COO,Cooper Companies,Medical Instruments & Supplies," $                 18,991",18991
+337,HES,Hess,Oil & Gas E&P," $                 18,961",18961
+338,ALB,Albemarle,Specialty Chemicals," $                 18,917",18917
+339,TSCO,Tractor Supply,Specialty Retail," $                 18,865",18865
+340,VTR,Ventas,REIT – Healthcare Facilities," $                 18,851",18851
+341,TFX,Teleflex,Medical Instruments & Supplies," $                 18,835",18835
+342,TRMB,Trimble,Scientific & Technical Instruments," $                 18,805",18805
+343,ETR,Entergy,Utilities – Diversified," $                 18,771",18771
+344,FOX,Fox,Broadcasting," $                 18,755",18755
+345,FOXA,Fox,Broadcasting," $                 18,737",18737
+346,HPE,Hewlett Packard,Communication Equipment," $                 18,496",18496
+347,ULTA,Ulta Beauty,Specialty Retail," $                 18,465",18465
+348,HAL,Halliburton,Oil & Gas Equipment & Services," $                 18,305",18305
+349,IR,Ingersoll Rand,Specialty Industrial Machinery," $                 18,196",18196
+350,CFG,Citizens Financial Group,Banks – Regional," $                 18,144",18144
+351,LYV,Live Nation Entertainment,Entertainment," $                 18,142",18142
+352,ROL,Rollins,Personal Services," $                 18,111",18111
+353,INCY,Incyte,Biotechnology," $                 18,055",18055
+354,AEE,Ameren,Utilities – Regulated Electric," $                 17,961",17961
+355,XYL,Xylem,Specialty Industrial Machinery," $                 17,838",17838
+356,RCL,Royal Caribbean Group,Travel Services," $                 17,613",17613
+357,AMCR,Amcor,Packaging & Containers," $                 17,571",17571
+358,FE,FirstEnergy,Utilities – Diversified," $                 17,535",17535
+359,WAT,Waters,Diagnostics & Research," $                 17,528",17528
+360,MPWR,Monolithic Power Systems,Semiconductors," $                 17,495",17495
+361,HIG,Hartford Finl Servs Gr,Insurance – Diversified," $                 17,485",17485
+362,ESS,Essex Property Trust,REIT – Residential," $                 17,483",17483
+363,DOV,Dover,Specialty Industrial Machinery," $                 17,474",17474
+364,NUE,Nucor,Steel," $                 17,311",17311
+365,MGM,MGM Resorts Intl,Resorts & Casinos," $                 17,282",17282
+366,NVR,NVR,Residential Construction," $                 17,116",17116
+367,DISH,DISH Network,Entertainment," $                 16,965",16965
+368,BR,Broadridge Financial Soln,Information Technology Services," $                 16,934",16934
+369,CTXS,Citrix Systems,Software – Application," $                 16,807",16807
+370,STX,Seagate Technology,Computer Hardware," $                 16,803",16803
+371,DRI,Darden Restaurants,Restaurants," $                 16,802",16802
+372,CAG,Conagra Brands,Packaged Foods," $                 16,562",16562
+373,DGX,Quest Diagnostics,Diagnostics & Research," $                 16,452",16452
+374,PKI,PerkinElmer,Diagnostics & Research," $                 16,402",16402
+375,PEAK,Healthpeak Properties,REIT – Healthcare Facilities," $                 16,240",16240
+376,RJF,Raymond James Financial,Capital Markets," $                 16,177",16177
+377,VAR,Varian Medical Systems,Medical Instruments & Supplies," $                 16,176",16176
+378,AKAM,Akamai Technologies,Software – Infrastructure," $                 16,096",16096
+379,CMS,CMS Energy,Utilities – Regulated Electric," $                 15,998",15998
+380,IT,Gartner,Information Technology Services," $                 15,961",15961
+381,MAA,Mid-America Apartment,REIT – Residential," $                 15,833",15833
+382,EXPD,Expeditors International,Integrated Freight & Logistics," $                 15,817",15817
+383,STE,Steris,Medical Instruments & Supplies," $                 15,576",15576
+384,JBHT,JB Hunt Transport Servs,Integrated Freight & Logistics," $                 15,490",15490
+385,DRE,Duke Realty,REIT – Industrial," $                 15,394",15394
+386,EXR,Extra Space Storage,REIT – Industrial," $                 15,393",15393
+387,NTAP,NetApp,Computer Hardware," $                 15,379",15379
+388,CE,Celanese,Chemicals," $                 15,326",15326
+389,HBAN,Huntington Bancshares,Banks – Regional," $                 15,309",15309
+390,WAB,Westinghouse Air Brake,Railroads," $                 15,305",15305
+391,CAH,Cardinal Health,Medical Distribution," $                 15,196",15196
+392,LDOS,Leidos Holdings,Information Technology Services," $                 14,974",14974
+393,EMN,Eastman Chemical,Chemicals," $                 14,944",14944
+394,AVY,Avery Dennison,Business Equipment & Supplies," $                 14,940",14940
+395,IEX,IDEX,Specialty Industrial Machinery," $                 14,935",14935
+396,DPZ,Domino’s Pizza,Restaurants," $                 14,889",14889
+397,PFG,Principal Financial Group,Insurance – Diversified," $                 14,854",14854
+398,J,Jacobs Engineering Group,Engineering & Construction," $                 14,728",14728
+399,GPC,Genuine Parts,Specialty Retail," $                 14,705",14705
+400,CINF,Cincinnati Financial,Insurance – Property & Casualty," $                 14,612",14612
+401,ABMD,Abiomed,Medical Devices," $                 14,596",14596
+402,BXP,Boston Properties,REIT – Office," $                 14,438",14438
+403,TDY,Teledyne Technologies,Scientific & Technical Instruments," $                 14,424",14424
+404,UAL,United Airlines Holdings,Airlines," $                 14,253",14253
+405,BEN,Franklin Resources,Asset Management," $                 14,191",14191
+406,OMC,Omnicom Group,Advertising Agencies," $                 14,165",14165
+407,FMC,FMC,Agricultural Inputs," $                 14,106",14106
+408,NWSA,News,Broadcasting," $                 14,052",14052
+409,DVN,Devon Energy,Oil & Gas E&P," $                 14,047",14047
+410,WYNN,Wynn Resorts,Resorts & Casinos," $                 14,037",14037
+411,CPB,Campbell Soup,Packaged Foods," $                 13,968",13968
+412,NWS,News,Broadcasting," $                 13,832",13832
+413,MAS,Masco,Building Products & Equipment," $                 13,751",13751
+414,LB,L Brands,Apparel Retail," $                 13,685",13685
+415,IPGP,IPG Photonics,Semiconductor Equipment & Materials," $                 13,670",13670
+416,POOL,Pool,Leisure," $                 13,385",13385
+417,L,Loews,Insurance – Property & Casualty," $                 13,023",13023
+418,LUMN,Lumen Technologies,Telecom Services," $                 12,935",12935
+419,FFIV,F5 Networks,Software – Infrastructure," $                 12,844",12844
+420,SJM,JM Smucker,Packaged Foods," $                 12,621",12621
+421,PKG,Packaging Corp of America,Packaging & Containers," $                 12,615",12615
+422,UDR,UDR,REIT – Residential," $                 12,515",12515
+423,NLOK,NortonLifeLock,Software – Infrastructure," $                 12,446",12446
+424,PHM,PulteGroup,Residential Construction," $                 12,408",12408
+425,WHR,Whirlpool,"Furnishings, Fixtures & Appliances"," $                 12,356",12356
+426,HAS,Hasbro,Leisure," $                 12,344",12344
+427,EVRG,Evergy,Utilities – Regulated Electric," $                 12,343",12343
+428,HWM,Howmet Aerospace,Specialty Industrial Machinery," $                 12,305",12305
+429,MHK,Mohawk Industries,"Furnishings, Fixtures & Appliances"," $                 12,182",12182
+430,WRB,WR Berkley,Insurance – Property & Casualty," $                 12,093",12093
+431,CHRW,C.H. Robinson Worldwide,Integrated Freight & Logistics," $                 12,030",12030
+432,FBHS,Fortune Brands Home,"Furnishings, Fixtures & Appliances"," $                 11,947",11947
+433,LNT,Alliant Energy,Utilities – Regulated Electric," $                 11,942",11942
+434,XRAY,Dentsply Sirona,Medical Instruments & Supplies," $                 11,852",11852
+435,TXT,Textron,Aerospace & Defense," $                 11,740",11740
+436,CNP,CenterPoint Energy,Utilities – Regulated Gas," $                 11,735",11735
+437,ATO,Atmos Energy,Utilities – Regulated Gas," $                 11,679",11679
+438,MOS,Mosaic,Agricultural Inputs," $                 11,618",11618
+439,WRK,WestRock,Packaging & Containers," $                 11,512",11512
+440,LKQ,LKQ,Auto Parts," $                 11,400",11400
+441,DVA,DaVita,Medical Care Facilities," $                 11,341",11341
+442,LW,Lamb Weston Hldgs,Packaged Foods," $                 11,261",11261
+443,JKHY,Jack Henry & Associates,Information Technology Services," $                 11,124",11124
+444,AAL,American Airlines Group,Airlines," $                 11,073",11073
+445,HST,Host Hotels & Resorts,REIT – Hotel & Motel," $                 11,009",11009
+446,FANG,Diamondback Energy,Oil & Gas E&P," $                 10,897",10897
+447,UHS,Universal Health Services,Medical Care Facilities," $                 10,895",10895
+448,TPR,Tapestry,Luxury Goods," $                 10,835",10835
+449,PWR,Quanta Services,Engineering & Construction," $                 10,776",10776
+450,BWA,BorgWarner,Auto Parts," $                 10,704",10704
+451,AAP,Advance Auto Parts,Specialty Retail," $                 10,551",10551
+452,IVZ,Invesco,Asset Management," $                 10,491",10491
+453,LNC,Lincoln National,Insurance – Life," $                 10,466",10466
+454,SNA,Snap-on,Tools & Accessories," $                 10,220",10220
+455,ALLE,Allegion,Security & Protection Services," $                 10,106",10106
+456,NWL,Newell Brands,Household & Personal Products," $                 10,093",10093
+457,HSIC,Henry Schein,Medical Distribution," $                 10,076",10076
+458,NRG,NRG Energy,Utilities – Independent Power Producers," $                    9,912",9912
+459,WU,The Western Union,Credit Services," $                    9,825",9825
+460,GL,Globe Life,Insurance – Life," $                    9,814",9814
+461,IPG,Interpublic Gr of Cos,Advertising Agencies," $                    9,699",9699
+462,CF,CF Industries Holdings,Agricultural Inputs," $                    9,677",9677
+463,TAP,Molson Coors Beverage,Beverages – Brewers," $                    9,646",9646
+464,RE,Everest Re Group,Insurance – Reinsurance," $                    9,609",9609
+465,AOS,A.O. Smith,Specialty Industrial Machinery," $                    9,563",9563
+466,IRM,Iron Mountain,REIT – Specialty," $                    9,500",9500
+467,UAA,Under Armour,Apparel Manufacturing," $                    9,433",9433
+468,UA,Under Armour,Apparel Manufacturing," $                    9,310",9310
+469,CMA,Comerica,Banks – Regional," $                    9,179",9179
+470,PNR,Pentair,Specialty Industrial Machinery," $                    9,118",9118
+471,REG,Regency Centers,REIT – Retail," $                    8,861",8861
+472,GPS,Gap,Apparel Retail," $                    8,703",8703
+473,NI,NiSource,Utilities – Regulated Gas," $                    8,575",8575
+474,PNW,Pinnacle West Capital,Utilities – Regulated Electric," $                    8,558",8558
+475,RHI,Robert Half International,Staffing & Employment Services," $                    8,456",8456
+476,ZION,Zions Bancorp,Banks – Regional," $                    8,417",8417
+477,NLSN,Nielsen Holdings,Consulting Services," $                    8,372",8372
+478,RL,Ralph Lauren,Apparel Manufacturing," $                    8,172",8172
+479,JNPR,Juniper Networks,Communication Equipment," $                    8,023",8023
+480,NCLH,Norwegian Cruise Line,Travel Services," $                    7,950",7950
+481,FRT,Federal Realty Investment,REIT – Retail," $                    7,789",7789
+482,KIM,Kimco Realty,REIT – Retail," $                    7,624",7624
+483,MRO,Marathon Oil,Oil & Gas E&P," $                    7,563",7563
+484,ALK,Alaska Air Group,Airlines," $                    7,412",7412
+485,AIZ,Assurant,Insurance – Specialty," $                    7,399",7399
+486,COG,Cabot Oil & Gas,Oil & Gas E&P," $                    7,297",7297
+487,FLIR,FLIR Systems,Scientific & Technical Instruments," $                    7,192",7192
+488,VNO,Vornado Realty,REIT – Office," $                    7,152",7152
+489,HII,Huntington Ingalls Indus,Aerospace & Defense," $                    7,060",7060
+490,APA,Apache,Oil & Gas E&P," $                    7,013",7013
+491,PVH,PVH,Apparel Manufacturing," $                    6,937",6937
+492,SEE,Sealed Air,Packaging & Containers," $                    6,627",6627
+493,PBCT,People’s United Finl,Banks – Regional," $                    6,611",6611
+494,DXC,DXC Technology,Information Technology Services," $                    6,590",6590
+495,HBI,Hanesbrands,Apparel Manufacturing," $                    6,285",6285
+496,PRGO,Perrigo,Drug Manufacturers – Specialty & Generic," $                    6,057",6057
+497,NOV,NOV,Oil & Gas Equipment & Services," $                    5,636",5636
+498,LEG,Leggett & Platt,"Furnishings, Fixtures & Appliances"," $                    5,588",5588
+499,VNT,Vontier,Scientific & Technical Instruments," $                    5,548",5548
+500,HFC,HollyFrontier,Oil & Gas Refining & Marketing," $                    5,403",5403
+501,UNM,Unum,Insurance – Life," $                    5,204",5204
+502,FLS,Flowserve,Specialty Industrial Machinery," $                    5,102",5102
+503,XRX,Xerox Holdings,Information Technology Services," $                    4,750",4750
+504,SLG,SL Green Realty,REIT – Office," $                    4,287",4287
