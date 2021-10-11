@@ -1,1 +1,0 @@
-Micron-Xilinx Partner for Heterogeneous Compute Platforms. By working together, Micron (MU) and Xilinx aim to develop low-latency heterogeneous compute platforms to meet the compute and data processing requirements of AI applications.
