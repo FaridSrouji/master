@@ -1,0 +1,27 @@
+                       OLS Regression Results                       
+Dep. Variable:   ,sentiment_ln_return,  R-squared:         ,   0.227
+Model:           ,OLS                ,  Adj. R-squared:    ,   0.216
+Method:          ,Least Squares      ,  F-statistic:       ,   21.02
+Date:            ,Thu, 16 Dec 2021   ,  Prob (F-statistic):,1.96e-18
+Time:            ,19:01:00           ,  Log-Likelihood:    , -514.86
+No. Observations:,   364             ,  AIC:               ,   1042.
+Df Residuals:    ,   358             ,  BIC:               ,   1065.
+Df Model:        ,     5             ,                     ,        
+Covariance Type: ,nonrobust          ,                     ,        
+             ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] 
+Intercept    ,   -0.0103,    0.044,   -0.234, 0.815,   -0.097,    0.076
+vix_ln_return,   -0.4305,    0.627,   -0.686, 0.493,   -1.664,    0.803
+Friday       ,   -0.1259,    0.107,   -1.173, 0.242,   -0.337,    0.085
+Monday       ,   -0.3934,    0.108,   -3.629, 0.000,   -0.607,   -0.180
+Thursday     ,   -0.3241,    0.106,   -3.055, 0.002,   -0.533,   -0.115
+Tuesday      ,    1.0441,    0.104,   10.059, 0.000,    0.840,    1.248
+Wednesday    ,   -0.2109,    0.104,   -2.033, 0.043,   -0.415,   -0.007
+Omnibus:      ,11.941,  Durbin-Watson:     ,   2.808
+Prob(Omnibus):, 0.003,  Jarque-Bera (JB):  ,  21.392
+Skew:         , 0.154,  Prob(JB):          ,2.26e-05
+Kurtosis:     , 4.147,  Cond. No.          ,1.16e+16
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 3.24e-30. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
