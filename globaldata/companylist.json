@@ -23,7 +23,7 @@
 {'symbol': 'GOOG', 'name': 'Alphabet (Class C)', 'sector': 'Communication Services', 'subSector': 'Interactive Media & Services', 'headQuarter': 'Mountain View, California', 'dateFirstAdded': '2006-04-03', 'cik': '0001652044', 'founded': '1998'}
 {'symbol': 'MO', 'name': 'Altria Group', 'sector': 'Consumer Staples', 'subSector': 'Tobacco', 'headQuarter': 'Richmond, Virginia', 'dateFirstAdded': '1957-03-04', 'cik': '0000764180', 'founded': '1985'}
 {'symbol': 'AMZN', 'name': 'Amazon', 'sector': 'Consumer Discretionary', 'subSector': 'Internet & Direct Marketing Retail', 'headQuarter': 'Seattle, Washington', 'dateFirstAdded': '2005-11-18', 'cik': '0001018724', 'founded': '1994'}
-{'symbol': 'AMCR', 'name': 'Amcor', 'sector': 'Materials', 'subSector': 'Paper Packaging', 'headQuarter': 'Zurich, Switzerland', 'dateFirstAdded': '2019-06-07', 'cik': '0001748790', 'founded': '2019'}
+{'symbol': 'AMCR', 'name': 'Amcor', 'sector': 'Materials', 'subSector': 'Paper Packaging', 'headQuarter': 'Warmley, Bristol, United Kingdom', 'dateFirstAdded': '2019-06-07', 'cik': '0001748790', 'founded': '2019'}
 {'symbol': 'AEE', 'name': 'Ameren Corp', 'sector': 'Utilities', 'subSector': 'Multi-Utilities', 'headQuarter': 'St. Louis, Missouri', 'dateFirstAdded': '1991-09-19', 'cik': '0001002910', 'founded': '1902'}
 {'symbol': 'AAL', 'name': 'American Airlines Group', 'sector': 'Industrials', 'subSector': 'Airlines', 'headQuarter': 'Fort Worth, Texas', 'dateFirstAdded': '2015-03-23', 'cik': '0000006201', 'founded': '1934'}
 {'symbol': 'AEP', 'name': 'American Electric Power', 'sector': 'Utilities', 'subSector': 'Electric Utilities', 'headQuarter': 'Columbus, Ohio', 'dateFirstAdded': '1957-03-04', 'cik': '0000004904', 'founded': '1906'}
@@ -158,11 +158,11 @@
 {'symbol': 'DOW', 'name': 'Dow', 'sector': 'Materials', 'subSector': 'Commodity Chemicals', 'headQuarter': 'Midland, Michigan', 'dateFirstAdded': '2019-04-01', 'cik': '0001751788', 'founded': '2019'}
 {'symbol': 'DTE', 'name': 'DTE Energy', 'sector': 'Utilities', 'subSector': 'Multi-Utilities', 'headQuarter': 'Detroit, Michigan', 'dateFirstAdded': '1957-03-04', 'cik': '0000936340', 'founded': '1995'}
 {'symbol': 'DUK', 'name': 'Duke Energy', 'sector': 'Utilities', 'subSector': 'Electric Utilities', 'headQuarter': 'Charlotte, North Carolina', 'dateFirstAdded': '1976-06-30', 'cik': '0001326160', 'founded': '1904'}
-{'symbol': 'DRE', 'name': 'Duke Realty Corp', 'sector': 'Real Estate', 'subSector': 'Industrial REITs', 'headQuarter': 'Indianapolis, Indiana', 'dateFirstAdded': '2017-07-26', 'cik': '0000783280', 'founded': '1972'}
+{'symbol': 'DRE', 'name': 'Duke Realty', 'sector': 'Real Estate', 'subSector': 'Industrial REITs', 'headQuarter': 'Indianapolis, Indiana', 'dateFirstAdded': '2017-07-26', 'cik': '0000783280', 'founded': '1972'}
 {'symbol': 'DD', 'name': 'DuPont', 'sector': 'Materials', 'subSector': 'Specialty Chemicals', 'headQuarter': 'Wilmington, Delaware', 'dateFirstAdded': '2019-04-02', 'cik': '0001666700', 'founded': '2017'}
 {'symbol': 'DXC', 'name': 'DXC Technology', 'sector': 'Information Technology', 'subSector': 'IT Consulting & Other Services', 'headQuarter': 'Tysons Corner, Virginia', 'dateFirstAdded': '2017-04-04', 'cik': '0001688568', 'founded': '2017'}
 {'symbol': 'EMN', 'name': 'Eastman Chemical', 'sector': 'Materials', 'subSector': 'Diversified Chemicals', 'headQuarter': 'Kingsport, Tennessee', 'dateFirstAdded': '1994-01-01', 'cik': '0000915389', 'founded': '1920'}
-{'symbol': 'ETN', 'name': 'Eaton Corporation', 'sector': 'Industrials', 'subSector': 'Electrical Components & Equipment', 'headQuarter': 'Dublin, Ireland', 'dateFirstAdded': '', 'cik': '0001551182', 'founded': '1911'}
+{'symbol': 'ETN', 'name': 'Eaton', 'sector': 'Industrials', 'subSector': 'Electrical Components & Equipment', 'headQuarter': 'Dublin, Ireland', 'dateFirstAdded': '', 'cik': '0001551182', 'founded': '1911'}
 {'symbol': 'EBAY', 'name': 'eBay', 'sector': 'Consumer Discretionary', 'subSector': 'Internet & Direct Marketing Retail', 'headQuarter': 'San Jose, California', 'dateFirstAdded': '2002-07-22', 'cik': '0001065088', 'founded': '1995'}
 {'symbol': 'ECL', 'name': 'Ecolab', 'sector': 'Materials', 'subSector': 'Specialty Chemicals', 'headQuarter': 'Saint Paul, Minnesota', 'dateFirstAdded': '1989-01-31', 'cik': '0000031462', 'founded': '1923'}
 {'symbol': 'EIX', 'name': 'Edison International', 'sector': 'Utilities', 'subSector': 'Electric Utilities', 'headQuarter': 'Rosemead, California', 'dateFirstAdded': '1957-03-04', 'cik': '0000827052', 'founded': '1886'}
@@ -172,6 +172,7 @@
 {'symbol': 'ENPH', 'name': 'Enphase Energy', 'sector': 'Information Technology', 'subSector': 'Electronic Components', 'headQuarter': 'Fremont, California', 'dateFirstAdded': '2021-01-07', 'cik': '0001463101', 'founded': '2006'}
 {'symbol': 'ETR', 'name': 'Entergy', 'sector': 'Utilities', 'subSector': 'Electric Utilities', 'headQuarter': 'New Orleans, Louisiana', 'dateFirstAdded': '1957-03-04', 'cik': '0000065984', 'founded': '1913'}
 {'symbol': 'EOG', 'name': 'EOG Resources', 'sector': 'Energy', 'subSector': 'Oil & Gas Exploration & Production', 'headQuarter': 'Houston, Texas', 'dateFirstAdded': '2000-11-02', 'cik': '0000821189', 'founded': '1999'}
+{'symbol': 'EPAM', 'name': 'EPAM Systems', 'sector': 'Information Technology', 'subSector': 'IT Consulting & Other Services', 'headQuarter': 'Newtown, Pennsylvania', 'dateFirstAdded': '2021-12-14', 'cik': '0001352010', 'founded': '1993'}
 {'symbol': 'EFX', 'name': 'Equifax', 'sector': 'Industrials', 'subSector': 'Research & Consulting Services', 'headQuarter': 'Atlanta, Georgia', 'dateFirstAdded': '1997-06-19', 'cik': '0000033185', 'founded': '1899'}
 {'symbol': 'EQIX', 'name': 'Equinix', 'sector': 'Real Estate', 'subSector': 'Specialized REITs', 'headQuarter': 'Redwood City, California', 'dateFirstAdded': '2015-03-20', 'cik': '0001101239', 'founded': '1998'}
 {'symbol': 'EQR', 'name': 'Equity Residential', 'sector': 'Real Estate', 'subSector': 'Residential REITs', 'headQuarter': 'Chicago, Illinois', 'dateFirstAdded': '2001-12-03', 'cik': '0000906107', 'founded': '1969'}
@@ -186,7 +187,7 @@
 {'symbol': 'EXPD', 'name': 'Expeditors', 'sector': 'Industrials', 'subSector': 'Air Freight & Logistics', 'headQuarter': 'Seattle, Washington', 'dateFirstAdded': '2007-10-10', 'cik': '0000746515', 'founded': '1979'}
 {'symbol': 'EXR', 'name': 'Extra Space Storage', 'sector': 'Real Estate', 'subSector': 'Specialized REITs', 'headQuarter': 'Salt Lake City, Utah', 'dateFirstAdded': '2016-01-19', 'cik': '0001289490', 'founded': '1977'}
 {'symbol': 'XOM', 'name': 'ExxonMobil', 'sector': 'Energy', 'subSector': 'Integrated Oil & Gas', 'headQuarter': 'Irving, Texas', 'dateFirstAdded': '1957-03-04', 'cik': '0000034088', 'founded': '1999'}
-{'symbol': 'FFIV', 'name': 'F5 Networks', 'sector': 'Information Technology', 'subSector': 'Communications Equipment', 'headQuarter': 'Seattle, Washington', 'dateFirstAdded': '2010-12-20', 'cik': '0001048695', 'founded': '1996'}
+{'symbol': 'FFIV', 'name': 'F5', 'sector': 'Information Technology', 'subSector': 'Communications Equipment', 'headQuarter': 'Seattle, Washington', 'dateFirstAdded': '2010-12-20', 'cik': '0001048695', 'founded': '1996'}
 {'symbol': 'FAST', 'name': 'Fastenal', 'sector': 'Industrials', 'subSector': 'Building Products', 'headQuarter': 'Winona, Minnesota', 'dateFirstAdded': '2008-09-15', 'cik': '0000815556', 'founded': '1967'}
 {'symbol': 'FRT', 'name': 'Federal Realty Investment Trust', 'sector': 'Real Estate', 'subSector': 'Retail REITs', 'headQuarter': 'Rockville, Maryland', 'dateFirstAdded': '2016-02-01', 'cik': '0000034903', 'founded': '1962'}
 {'symbol': 'FDX', 'name': 'FedEx', 'sector': 'Industrials', 'subSector': 'Air Freight & Logistics', 'headQuarter': 'Memphis, Tennessee', 'dateFirstAdded': '1980-12-31', 'cik': '0001048911', 'founded': '1971'}
@@ -246,7 +247,7 @@
 {'symbol': 'ITW', 'name': 'Illinois Tool Works', 'sector': 'Industrials', 'subSector': 'Industrial Machinery', 'headQuarter': 'Glenview, Illinois', 'dateFirstAdded': '1986-02-28', 'cik': '0000049826', 'founded': '1912'}
 {'symbol': 'ILMN', 'name': 'Illumina', 'sector': 'Health Care', 'subSector': 'Life Sciences Tools & Services', 'headQuarter': 'San Diego, California', 'dateFirstAdded': '2015-11-19', 'cik': '0001110803', 'founded': '1998'}
 {'symbol': 'INCY', 'name': 'Incyte', 'sector': 'Health Care', 'subSector': 'Biotechnology', 'headQuarter': 'Wilmington, Delaware', 'dateFirstAdded': '2017-02-28', 'cik': '0000879169', 'founded': '1991'}
-{'symbol': 'IR', 'name': 'Ingersoll Rand', 'sector': 'Industrials', 'subSector': 'Industrial Machinery', 'headQuarter': 'Milwaukee, Wisconsin', 'dateFirstAdded': '2020-03-03', 'cik': '0001699150', 'founded': '1859'}
+{'symbol': 'IR', 'name': 'Ingersoll Rand', 'sector': 'Industrials', 'subSector': 'Industrial Machinery', 'headQuarter': 'Davidson, North Carolina', 'dateFirstAdded': '2020-03-03', 'cik': '0001699150', 'founded': '1859'}
 {'symbol': 'INTC', 'name': 'Intel', 'sector': 'Information Technology', 'subSector': 'Semiconductors', 'headQuarter': 'Santa Clara, California', 'dateFirstAdded': '1976-12-31', 'cik': '0000050863', 'founded': '1968'}
 {'symbol': 'ICE', 'name': 'Intercontinental Exchange', 'sector': 'Financials', 'subSector': 'Financial Exchanges & Data', 'headQuarter': 'Atlanta, Georgia', 'dateFirstAdded': '2007-09-26', 'cik': '0001571949', 'founded': '2000'}
 {'symbol': 'IBM', 'name': 'IBM', 'sector': 'Information Technology', 'subSector': 'IT Consulting & Other Services', 'headQuarter': 'Armonk, New York', 'dateFirstAdded': '1957-03-04', 'cik': '0000051143', 'founded': '1911'}
@@ -267,7 +268,6 @@
 {'symbol': 'JCI', 'name': 'Johnson Controls', 'sector': 'Industrials', 'subSector': 'Building Products', 'headQuarter': 'Cork, Ireland', 'dateFirstAdded': '2010-08-27', 'cik': '0000833444', 'founded': '1885'}
 {'symbol': 'JPM', 'name': 'JPMorgan Chase', 'sector': 'Financials', 'subSector': 'Diversified Banks', 'headQuarter': 'New York City, New York', 'dateFirstAdded': '1975-06-30', 'cik': '0000019617', 'founded': '2000'}
 {'symbol': 'JNPR', 'name': 'Juniper Networks', 'sector': 'Information Technology', 'subSector': 'Communications Equipment', 'headQuarter': 'Sunnyvale, California', 'dateFirstAdded': '2006-06-02', 'cik': '0001043604', 'founded': '1996'}
-{'symbol': 'KSU', 'name': 'Kansas City Southern', 'sector': 'Industrials', 'subSector': 'Railroads', 'headQuarter': 'Kansas City, Missouri', 'dateFirstAdded': '2013-05-24', 'cik': '0000054480', 'founded': '1887'}
 {'symbol': 'K', 'name': "Kellogg's", 'sector': 'Consumer Staples', 'subSector': 'Packaged Foods & Meats', 'headQuarter': 'Battle Creek, Michigan', 'dateFirstAdded': '1989-09-11', 'cik': '0000055067', 'founded': '1906'}
 {'symbol': 'KEY', 'name': 'KeyCorp', 'sector': 'Financials', 'subSector': 'Regional Banks', 'headQuarter': 'Cleveland, Ohio', 'dateFirstAdded': '1994-03-01', 'cik': '0000091576', 'founded': '1825'}
 {'symbol': 'KEYS', 'name': 'Keysight Technologies', 'sector': 'Information Technology', 'subSector': 'Electronic Equipment & Instruments', 'headQuarter': 'Santa Rosa, California', 'dateFirstAdded': '2018-11-06', 'cik': '0001601046', 'founded': '2014'}
