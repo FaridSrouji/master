@@ -1,0 +1,11 @@
+{
+    "editor.cursorSurroundingLines": 10,
+    "workbench.list.mouseWheelScrollSensitivity": 10,
+    "terminal.integrated.mouseWheelScrollSensitivity": 10,
+    "terminal.integrated.fastScrollSensitivity": 10,
+    "timeline.pageOnScroll": true,
+    "editor.mouseWheelScrollSensitivity": 10,
+    "editor.fastScrollSensitivity": 10,
+    "workbench.list.fastScrollSensitivity": 10,
+    "jupyter.generateSVGPlots": true
+}
