@@ -1,4 +1,11 @@
 {
     "python.pythonPath": "C:\\Users\\Farid Srouji\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
-    "jupyter.jupyterServerType": "local"
+    "jupyter.jupyterServerType": "local",
+    "editor.cursorSurroundingLines": 2,
+    "workbench.list.mouseWheelScrollSensitivity": 5,
+    "editor.fastScrollSensitivity": 3,
+    "editor.scrollBeyondLastColumn": 3,
+    "editor.scrollbar.horizontalScrollbarSize": 1,
+    "editor.scrollbar.verticalScrollbarSize": 1,
+    "workbench.list.fastScrollSensitivity": 2
 }
