@@ -56,7 +56,7 @@
 {'symbol': 'AVB', 'name': 'AvalonBay Communities', 'sector': 'Real Estate', 'subSector': 'Residential REITs', 'headQuarter': 'Arlington, Virginia[3]', 'dateFirstAdded': '2007-01-10', 'cik': '0000915912', 'founded': '1978'}
 {'symbol': 'AVY', 'name': 'Avery Dennison', 'sector': 'Materials', 'subSector': 'Paper Packaging', 'headQuarter': 'Glendale, California', 'dateFirstAdded': '1987-12-31', 'cik': '0000008818', 'founded': '1990'}
 {'symbol': 'BKR', 'name': 'Baker Hughes', 'sector': 'Energy', 'subSector': 'Oil & Gas Equipment & Services', 'headQuarter': 'Houston, Texas', 'dateFirstAdded': '2017-07-07', 'cik': '0001701605', 'founded': '2017'}
-{'symbol': 'BLL', 'name': 'Ball', 'sector': 'Materials', 'subSector': 'Metal & Glass Containers', 'headQuarter': 'Broomfield, Colorado', 'dateFirstAdded': '1984-10-31', 'cik': '0000009389', 'founded': '1880'}
+{'symbol': 'BALL', 'name': 'Ball', 'sector': 'Materials', 'subSector': 'Metal & Glass Containers', 'headQuarter': 'Broomfield, Colorado', 'dateFirstAdded': '1984-10-31', 'cik': '0000009389', 'founded': '1880'}
 {'symbol': 'BAC', 'name': 'Bank of America', 'sector': 'Financials', 'subSector': 'Diversified Banks', 'headQuarter': 'Charlotte, North Carolina', 'dateFirstAdded': '1976-06-30', 'cik': '0000070858', 'founded': '1998'}
 {'symbol': 'BBWI', 'name': 'Bath & Body Works', 'sector': 'Consumer Discretionary', 'subSector': 'Specialty Stores', 'headQuarter': 'Columbus, Ohio', 'dateFirstAdded': '1983-09-30', 'cik': '0000701985', 'founded': '1963'}
 {'symbol': 'BAX', 'name': 'Baxter', 'sector': 'Health Care', 'subSector': 'Health Care Equipment', 'headQuarter': 'Deerfield, Illinois', 'dateFirstAdded': '1972-09-30', 'cik': '0000010456', 'founded': '1931'}
@@ -285,7 +285,7 @@
 {'symbol': 'LEN', 'name': 'Lennar', 'sector': 'Consumer Discretionary', 'subSector': 'Homebuilding', 'headQuarter': 'Miami, Florida', 'dateFirstAdded': '2005-10-04', 'cik': '0000920760', 'founded': '1954'}
 {'symbol': 'LLY', 'name': 'Lilly', 'sector': 'Health Care', 'subSector': 'Pharmaceuticals', 'headQuarter': 'Indianapolis, Indiana', 'dateFirstAdded': '1970-12-31', 'cik': '0000059478', 'founded': '1876'}
 {'symbol': 'LNC', 'name': 'Lincoln Financial', 'sector': 'Financials', 'subSector': 'Multi-line Insurance', 'headQuarter': 'Radnor, Pennsylvania', 'dateFirstAdded': '1976-06-30', 'cik': '0000059558', 'founded': '1905'}
-{'symbol': 'LIN', 'name': 'Linde', 'sector': 'Materials', 'subSector': 'Industrial Gases', 'headQuarter': 'Guildford, England', 'dateFirstAdded': '1992-07-01', 'cik': '0001707925', 'founded': '1879'}
+{'symbol': 'LIN', 'name': 'Linde', 'sector': 'Materials', 'subSector': 'Industrial Gases', 'headQuarter': 'Guildford, United Kingdom', 'dateFirstAdded': '1992-07-01', 'cik': '0001707925', 'founded': '1879'}
 {'symbol': 'LYV', 'name': 'Live Nation Entertainment', 'sector': 'Communication Services', 'subSector': 'Movies & Entertainment', 'headQuarter': 'Beverly Hills, California', 'dateFirstAdded': '2019-12-23', 'cik': '0001335258', 'founded': '2010'}
 {'symbol': 'LKQ', 'name': 'LKQ Corporation', 'sector': 'Consumer Discretionary', 'subSector': 'Distributors', 'headQuarter': 'Chicago, Illinois', 'dateFirstAdded': '2016-05-23', 'cik': '0001065696', 'founded': '1998'}
 {'symbol': 'LMT', 'name': 'Lockheed Martin', 'sector': 'Industrials', 'subSector': 'Aerospace & Defense', 'headQuarter': 'Bethesda, Maryland', 'dateFirstAdded': '1984-07-31', 'cik': '0000936468', 'founded': '1995'}
@@ -366,7 +366,7 @@
 {'symbol': 'PAYC', 'name': 'Paycom', 'sector': 'Information Technology', 'subSector': 'Application Software', 'headQuarter': 'Oklahoma City, Oklahoma', 'dateFirstAdded': '2020-01-28', 'cik': '0001590955', 'founded': '1998'}
 {'symbol': 'PYPL', 'name': 'PayPal', 'sector': 'Information Technology', 'subSector': 'Data Processing & Outsourced Services', 'headQuarter': 'San Jose, California', 'dateFirstAdded': '2015-07-20', 'cik': '0001633917', 'founded': '1998'}
 {'symbol': 'PENN', 'name': 'Penn National Gaming', 'sector': 'Consumer Discretionary', 'subSector': 'Casinos & Gaming', 'headQuarter': 'Wyomissing, Pennsylvania', 'dateFirstAdded': '2021-03-22', 'cik': '0000921738', 'founded': '1972'}
-{'symbol': 'PNR', 'name': 'Pentair', 'sector': 'Industrials', 'subSector': 'Industrial Machinery', 'headQuarter': 'Worsley, England', 'dateFirstAdded': '2012-10-01', 'cik': '0000077360', 'founded': '1966'}
+{'symbol': 'PNR', 'name': 'Pentair', 'sector': 'Industrials', 'subSector': 'Industrial Machinery', 'headQuarter': 'Worsley, United Kingdom', 'dateFirstAdded': '2012-10-01', 'cik': '0000077360', 'founded': '1966'}
 {'symbol': 'PEP', 'name': 'PepsiCo', 'sector': 'Consumer Staples', 'subSector': 'Soft Drinks', 'headQuarter': 'Purchase, New York', 'dateFirstAdded': '1957-03-04', 'cik': '0000077476', 'founded': '1898'}
 {'symbol': 'PKI', 'name': 'PerkinElmer', 'sector': 'Health Care', 'subSector': 'Health Care Equipment', 'headQuarter': 'Waltham, Massachusetts', 'dateFirstAdded': '1985-05-31', 'cik': '0000031791', 'founded': '1937'}
 {'symbol': 'PFE', 'name': 'Pfizer', 'sector': 'Health Care', 'subSector': 'Pharmaceuticals', 'headQuarter': 'New York City, New York', 'dateFirstAdded': '1957-03-04', 'cik': '0000078003', 'founded': '1849'}
@@ -493,7 +493,7 @@
 {'symbol': 'WY', 'name': 'Weyerhaeuser', 'sector': 'Real Estate', 'subSector': 'Specialized REITs', 'headQuarter': 'Seattle, Washington', 'dateFirstAdded': '', 'cik': '0000106535', 'founded': '1900'}
 {'symbol': 'WHR', 'name': 'Whirlpool', 'sector': 'Consumer Discretionary', 'subSector': 'Household Appliances', 'headQuarter': 'Benton Harbor, Michigan', 'dateFirstAdded': '', 'cik': '0000106640', 'founded': '1911'}
 {'symbol': 'WMB', 'name': 'Williams', 'sector': 'Energy', 'subSector': 'Oil & Gas Storage & Transportation', 'headQuarter': 'Tulsa, Oklahoma', 'dateFirstAdded': '1975-03-31', 'cik': '0000107263', 'founded': '1908'}
-{'symbol': 'WTW', 'name': 'Willis Towers Watson', 'sector': 'Financials', 'subSector': 'Insurance Brokers', 'headQuarter': 'London, England', 'dateFirstAdded': '2016-01-05', 'cik': '0001140536', 'founded': '2016'}
+{'symbol': 'WTW', 'name': 'Willis Towers Watson', 'sector': 'Financials', 'subSector': 'Insurance Brokers', 'headQuarter': 'London, United Kingdom', 'dateFirstAdded': '2016-01-05', 'cik': '0001140536', 'founded': '2016'}
 {'symbol': 'WYNN', 'name': 'Wynn Resorts', 'sector': 'Consumer Discretionary', 'subSector': 'Casinos & Gaming', 'headQuarter': 'Paradise, Nevada', 'dateFirstAdded': '2008-11-14', 'cik': '0001174922', 'founded': '2002'}
 {'symbol': 'XEL', 'name': 'Xcel Energy', 'sector': 'Utilities', 'subSector': 'Multi-Utilities', 'headQuarter': 'Minneapolis, Minnesota', 'dateFirstAdded': '1957-03-04', 'cik': '0000072903', 'founded': '1909'}
 {'symbol': 'XYL', 'name': 'Xylem', 'sector': 'Industrials', 'subSector': 'Industrial Machinery', 'headQuarter': 'White Plains, New York', 'dateFirstAdded': '2011-11-01', 'cik': '0001524472', 'founded': '2011'}
